@@ -1,0 +1,13 @@
+{
+  "name": "Cifra Studio",
+  "short_name": "Cifra Studio",
+  "description": "Cifras, playlists, diagramas e rolagem para músicos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0f14",
+  "theme_color": "#101318",
+  "icons": [
+    {"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
