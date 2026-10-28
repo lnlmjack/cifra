@@ -1,0 +1,91 @@
+Oasis - Roll It Over
+
+Intro: C#m7  Aadd9  (4x)
+
+
+C#m7                         Aadd9
+I can give a hundred million reasons
+                C#m7     Aadd9
+To build a barricade
+
+  C#m7                            Aadd9
+I blame it on the changin' of the seasons
+                       C#m7     Aadd9
+The thoughts that I convey
+
+
+Badd4   Aadd9     G#m     F#sus
+Does it make it alright
+Badd4      Aadd9     G#m  F#sus
+It doesn't make it alright
+E                  F#m7add4/C#
+To roll it over my soul
+
+         Asus2     E
+Leave me here
+E               F#m7add4/C#
+Roll it over my soul
+         Asus2     E    G  F#sus  E
+Leave me here
+
+
+C#m7                           Aadd9
+Look around at all the plastic people
+                   C#m7        Aadd9
+Who live without a care
+C#m7                         Aadd9
+Try to sit with me around my table
+                  C#m7       Aadd9
+But never bring a chair
+
+
+Badd4   Aadd9     G#m     F#sus
+Does it make it alright
+Badd4      Aadd9     G#m  F#sus
+It doesn't make it alright
+E                  F#m7add4/C#
+To roll it over my soul
+         Asus2     E
+Leave me here
+E               F#m7add4/C#
+Roll it over my soul
+         Asus2     E    G  F#sus  E
+Leave me here
+
+
+G   A   E    (3x)
+
+
+E                  F#m7add4/C#
+To roll it over my soul
+         Asus2     E
+Leave me here
+E               F#m7add4/C#
+Roll it over my soul
+         Asus2     E
+Leave me here
+
+E                  F#m7add4/C#
+To roll it over my soul
+         Asus2     E
+Leave me here
+E               F#m7add4/C#
+Roll it over my soul
+         Asus2     E
+Leave me here
+
+G    A    C    D    E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Aadd9 = X 0 2 2 0 0
+Asus2 = X 0 2 2 0 0
+Badd4 = X 2 4 4 5 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m7add4/C# = X 4 4 2 0 0
+F#sus = 2 4 4 3 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

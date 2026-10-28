@@ -1,0 +1,101 @@
+Avril Lavigne - Once And For Real
+
+Capo Casa 2
+
+Intro:
+
+guitar 1: G|- Dsus4 - C - Am - D (x2)
+
+Guitar 2: (x8)
+e|---0-----0-------
+B|-----3-----33----
+G|-0------0-------- It's 3 3 not 33rd fret, the reason they're very
+D|----------------- close because dash in tab spacing represents if
+A|----------------- space is far, you will pluck slower vice versa
+E|----------------- you will pluck faster.
+
+Bass: (x2)
+G|-9--14-14-11-----14-14--14-14-11---------
+D|-7--12-11--9--14-11-12--12-11--9---------
+A|--------------12--------------------5/7~-
+E|-----------------------------------------
+
+
+Verse 1:
+G           Em7            Bm   Am     G
+  You could shake the stars out of the sky
+        Em7  Bm     D              G
+doesn't matter, our faiths will collide
+        Em7         Bm                  Am      G
+you can pull the plug out watch all the water strain
+        Em7           Bm         D
+still I know it would be the same
+        G             Em7        Bm
+still I know it would be the same
+  D            Am     D
+I see it in my mind's eye
+  G          D/F#     Em
+a world made just for you and I
+     Am  D
+so I know, it's worth the wait
+
+
+Chorus: (Same as Intro with guitar 1 and bass)
+G           Dsus4                C
+Oh, once is enough, that's how I feel
+           Am       D
+we do this once and for real
+G               Dsus4                C
+love, is strong enough so here's the deal
+           Am       D
+we do this once and for real
+
+
+Post Chorus: G|- Em - D (Hold)
+
+
+Verse 2:
+G              Em7    Bm  Am      G
+  I'm building my life to include you
+       Em7        Bm         D        G
+so for now I have someone to look for ado
+          Em7          Bm               Am        G
+I'm in no hurry, no worries, you're out there somewhere
+        Em7              Bm       Am
+still I hope you will be here soon
+        G                Em7      Bm
+still I hope you will be here soon
+  D            Am     D
+I see it in my mind's eye
+  G          D/F#     Em
+a world made just for you and I
+     Am  D
+so I know, it's worth the wait
+
+(Repeat Chorus)
+
+
+Bridge: Am-D
+                Am       D
+I'm waiting for something
+                Am     D
+I'm waiting for someone
+                Em  D
+I'm waiting for you
+
+(Repeat Chorus twice)
+
+Outro: Dadadada,,, for real (until fade out)
+G|- Dsus4 - C - Am - D (until fade out)
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+Am*  = X 0 2 2 1 0 - (*Bm na forma de Am)
+Bm*  = X 2 4 4 3 2 - (*C#m na forma de Bm)
+C*  = X 3 2 0 1 0 - (*D na forma de C)
+D*  = X X 0 2 3 2 - (*E na forma de D)
+D/F#*  = 2 X 0 2 3 2 - (*E/G# na forma de D/F#)
+Dsus4*  = X X 0 2 3 3 - (*Esus4 na forma de Dsus4)
+Em*  = 0 2 2 0 0 0 - (*F#m na forma de Em)
+Em7*  = 0 2 2 0 3 0 - (*F#m7 na forma de Em7)
+G*  = 3 2 0 0 0 3 - (*A na forma de G)

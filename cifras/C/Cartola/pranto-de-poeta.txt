@@ -1,0 +1,38 @@
+Cartola - Pranto de Poeta
+
+Introdução:  C   Cm6   Bm7   E7(9)    A7   Am7  D7(#5)
+
+
+        G           F#7
+Em Mangueira quando morre
+   F#m7(b5) B7  Bm7(b5) E7
+Um poeta todos choram
+Am7       Cm6         Bm7      E7(9)
+Vivo tranqüilo em Mangueira porque
+A7                       Am7             D7(#5)
+Sei que alguém há de chorar quando eu morrer
+
+       Am7           D7          Am7      D7
+Mas o pranto em Mangueira é tão diferente
+       G         Am7        Bm7
+É um pranto sem lenço que alegra a gente
+F#7                         Bm7
+Hei de ter um alguém pra chorar por mim
+    F#7                         Am7     D7(#5)
+Através de um pandeiro ou de um tamborim
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+Cm6 = X 3 X 2 4 3
+D7 = X X 0 2 1 2
+D7(#5) = X 5 X 5 7 6
+E7 = 0 2 2 1 3 0
+E7(9) = X X 2 1 3 2
+F#7 = 2 4 2 3 2 2
+F#m7(b5) = 2 X 2 2 1 X
+G = 3 2 0 0 0 3

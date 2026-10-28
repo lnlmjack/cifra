@@ -1,0 +1,76 @@
+The Beatles - Day Tripper
+
+Esta Introdução é tocada 5x antes de entrar o vocal
+
+E|-------------------------|
+B|-------------------------|
+G|-------------------------| 
+D|-----------2-0---4---0-2-|(RIFF 1)
+A|---------2-----2---2-----| 
+E|-0---3-4-----------------|
+
+As vezes este riff varia
+
+E|-------------------------|
+B|-------------------------|
+G|-----------2-0---4---0-2-|
+D|---------2-----2---2-----|(riff 2)
+A|-0---3-4-----------------|
+E|-------------------------|
+
+
+Solo
+
+
+ B7
+
+E|-------------------------|
+B|-------------------------|
+G|-----------4-2---6---2-4-|
+D|-----0-1-4-----4---4-----|(3X)
+A|-2-----------------------|
+E|-------------------------|
+
+Este trecho do solo nao chega a estar perfeito, mas da uma boa enganada
+
+E|-------------------------------10----10-12-12/14-12-10------14---14---14~~~-|
+B|----------------10^---------12----12-------------------12-------------------|
+G|-----7---9-9/11-----9/7-----------------------------------------------------|
+D|-9-9---9----------------9---------------------------------------------------|
+A|----------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------|
+
+
+(riff 1)
+E7
+Got a good reason, for taking the easy way out
+(riff 2)           (riff 1)
+A7                 E7
+Got a good reason, for taking the easy way out
+          F#5
+She was a day____ tripper, one way ticket yeah
+           A7     G#7          C#5               B5
+It took me so____ long to find out, and I found out
+
+
+She's a big teaser, she took me half the way there
+She's a big teaser, she took me half the way there
+She's a day tripper, one way ticket, yeah
+It took me so long to find out, and I found out
+
+solo: B7
+
+Tried to please her, but she only played one night stands
+Tried to please her, but she only played one night stands
+She was a day tripper, Sunday driver, yeah
+It took me so long to find out, and I found out
+
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+B5 = X 2 4 4 X X
+B7 = X 2 1 2 0 2
+C#5 = X 4 6 6 X X
+E7 = 0 2 2 1 3 0
+F#5 = 2 4 4 X X X
+G#7 = 4 6 4 5 4 4

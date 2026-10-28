@@ -1,0 +1,62 @@
+Zeca Pagodinho - Cabô Meu Pai
+
+Intro: D7,G,D/F#,Em,Cm6,G/B,D7,G,D7
+
+          G                D7       G
+Meu pai me disse que é tradição, é lanterna
+              D7/9/A   G/B            D7             G/B  D7
+Vem do ancestral, é moderna,   bem mais que o modernoso
+ G             D7/A      G/A
+Ai é o meu coração que governa
+             D7         G/D                 D7            G  D7
+Na treva é a luz mais eterna,    o todo mais poderoso
+
+           G                Am7        G/B
+Também me disse com aquele jeito orgulhoso
+      D7/9/11              G                          D7              G    D7
+Que o samba é mais que formoso,   quando alguém lhe passa a perna
+      G             Am7    G/B    Cm6        G/B  B°
+É a marola que vira o mar furioso
+                        Am7   D7    G    D7
+E tudo misterioso    o tesouro da caverna
+
+   G               D/F#                 Em7/9             C
+A jura é pra quem rezar,    a reza é pra quem jurar
+
+  G                      D/F#  G  D7/9
+A alma  pra sempre é do criador
+   G              F#m5/-7  B7      Em7/9                Cm/Eb
+Maré muda com o luar,     futuro é pra quem lembrar
+     G/B                 D7   (G D7)  2x(G E7/9-)
+Se é isso que o pai ensinou, cabô
+
+   Am7      D7     Bm5/-7 E7/9-
+Cabô meu pai    Cabô....ô
+   Am7      D7      F7/9  E7/9
+Cabô meu pai    cabô
+   Am7      D7    Bm5/-7  E7/9-
+Cabô meu pai    Cabô...ô
+   Am7      D7    G           D7
+Cabô meu pai   Cabô, meu pai me disse!
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B° = X 2 3 1 3 1
+C = X 3 2 0 1 0
+Cm/Eb = X X 1 0 1 3
+Cm6 = X 3 X 2 4 3
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D7/9 = X 5 4 5 5 X
+D7/9/11 = X 5 5 5 5 5
+D7/A = 5 X 4 5 3 X
+E7/9 = X X 2 1 3 2
+E7/9- = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+Em7/9 = X 7 5 7 7 X
+F7/9 = X X 3 2 4 3
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X

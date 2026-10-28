@@ -1,0 +1,217 @@
+U2 - Even Better Than the Real Thing
+
+ Heavy distortion recommended. :)
+
+Intro:            (Riff below is repeated during verses)
+E--------5-5-----|------------------------------------------|
+B----------------|------------------------------------------|
+G----------------|-----------6\7\6--------------------------|
+D----------------|------------------5--4--------------------|
+A----------------|------------------------------------------|
+E--5-5-----------|------5-----------------------------------|
+  (The \ means to slide to the next fret)
+
+For bass players and people who want to just play chords:
+  A  D  A
+
+Part before chorus: ("You're a honey child to a swarm of bees...")
+E------------------|--------------------|
+B-10---------------|--10----------------|
+G--9---------------|---7----------------|
+D--7---------------|---7----------------|
+A------------------|--------------------|
+E------------------|--------------------|
+
+ (each chord above is repeated many times.)
+
+Again, for bassists and chord players:
+  G Bminor  D  A
+
+Chorus:"You're the real thing"(repeat)  "..child..."
+E-12-12-12-12------------------|-------|
+B-10-10-10-10------------------|--10---|
+G------------------------------|---9---|
+D------------------------------|---7---|
+A------------------------------|-------|
+E------------------------------|-------|
+  (Then back to riff above from intro.)
+
+Chords:
+  A  C  D
+  A  G  D
+  A  C  D
+  A  G  D
+
+
+From: Timo Gorges
+Date: Wed, 19 Jul 95 11:47:45 +0200
+
+ Date:    18-07-95
+ From:    *
+          Transcripted by Marko Becker
+
+ This tab is a live version of "Even better than the real thing"
+ I personally own a ZOOM " PLAYER " 2020 and the sound that I created
+ is very similar to Edge's sound.
+ I think the most important thing of the song is the delay-effect
+ (Zoom Player: 350ms, Feedback 2, Mix 7)
+
+ Comments or other suggestions are requested.
+ Now enjoy playing this song.
+
+ **INTRO**
+
+ D5 - x577xx
+
+ At the beginning of the song The Edge plays a D5 chord that he modifies with
+ his DigiTech "Whammy". So he can create this special sound.
+ If you haven't got a "Whammy" you can create a similar sound
+ with a small trick.
+ Play the Ab and the Db string together and repeat this 2 times,
+ then play the Gb string and the other 2 strings alternately.
+
+ So, that's it, not very difficult.
+
+
+ ** FIGURE 1 **
+
+      a              b                c            d
+
+ eb-------|----------------------|---------|---------------|
+ Bb----7p-|-------------------7p-|---------|----------7p---|
+ Gb-------|-------5--4-----------|-------5-|-4-----0-------|
+ Db--0----|-5--7--------7--0-----|-5--7----|----7----------|
+ Ab-------|----------------------|---------|---------------|
+ Eb-------|----------------------|---------|---------------|
+
+             e                   f
+ eb-----------------------|---------------|
+ Bb--------------------7p-|---------------|   P = pull string and bend the
+ Gb--------5--4-----------|--------5--4---|       note a half step up and
+ Db--5--7--------7--0-----|--5--7---------|       down
+ Ab-----------------------|---------------|
+ Eb-----------------------|---------------|
+
+
+ ** FIGURE 2 **
+
+       a        b          c             d
+
+ eb--8-----|---12----|-----3------|---------------------|
+ Bb--8-----|---12----|-----3------|-----7p--------------|
+ Gb--------|---------|------------|--------------5--4---|
+ Db--------|---------|------------|--0-----5--7---------|
+ Ab--------|---------|------------|---------------------|
+ Eb--8-----|---12----|-----3------|---------------------|
+
+ ** FIGURE 3 **
+                          D5
+ eb--------------------|--------|
+ Bb--------------------|--------|
+ Gb--------------------|--7-----|
+ Db--14--12--10--9--7--|--7-----|
+ Ab--12--19---8--7--5--|--5-----|
+ Eb--------------------|--------|
+
+ ** Solo (use bottleneck) **
+                                  Solo part I
+ eb-------------------------------------------------------------------->
+ Bb-------------------------------------------------------------------->
+ Gb-0--2--7--5--7--11--9--7--5--2--0--2--7--10--12--10--7--10--12--14-->
+ Db-------------------------------------------------------------------->
+ Ab-------------------------------------------------------------------->
+ Eb-------------------------------------------------------------------->
+
+                                           Solo part II
+                              (repeat the last two notes several times)
+ eb--13--10--15--13--12--10-|-----------------------------------------------|
+ Bb----------------------10-|-----------------------------------------------|
+ Gb-------------------------|--7--12--10--9--10--12--10--9--10--9--7--5--7--|
+ Db-------------------------|-----------------------------------------------|
+ Ab-------------------------|-----------------------------------------------|
+ Eb-------------------------|-----------------------------------------------|
+
+
+ VERSE 1:
+
+
+ <      FIGURE 1.a      ><      FIGURE 1.b        > < FIGURE 1.c >
+ Give me one more chance, and you'll be satisfield
+
+ <      FIGURE 1.d       ><     FIGURE 1.e   > <  FIGURE 1.f  >
+ Give me two more chances  you won't be denied
+
+ <             FIGURE 2.a               >
+ Well my heart is where it's always been
+
+ <         FIGURE 2.b           >
+ My head is somewhere in between
+
+ <                  FIGURE 2.c                       > < FIGURE 2.d >
+ Give me one more chance let me be your lover tonight.
+
+
+ REFRAIN:
+
+
+ <                    3 X FIGURE 3                                >
+ You're the real thing, yeah the real thing, you're the real thing
+
+ <           FIGURE 3            >
+ Even better than the real thing...
+
+
+ VERSE 2:
+
+ <       1.a            ><            1.b           > < 1.c >
+ Give me one last chance and I'm gonna make you sing
+
+ <        1.d         ><               1.e                > < 1.f >
+ Give me half a chance to ride on the waves that you bring
+
+ <                  2.a                   >
+ You're the honey child to a swarm of bees
+
+ <               2.b                   >
+ Gonna blow right through like a breeze
+
+ <                          2.c                                     > < 2.d >
+ Give me one last dance, we'll slide it down on the surface of things
+
+
+ REFRAIN:
+
+
+ <                     3 X  FIGURE 3                              >
+ You're the real thing, yeah the real thing, you're the real thing
+
+ < FIGURE 3 with D5 at the end >
+ Even better than the real thing...
+
+ ** After the second refrain Edge starts his solo. The first part is played
+    without words. In the second part Bono starts to sing **
+
+
+ <                      Solo 2nd part
+ We're free to fly the crimson sky the sun won't melt our wings tonight
+                           >
+
+ Oh no, oh no here she comes
+
+
+ ** The next part of the song is played like the REFRAIN **
+
+
+ Take me higher, take me higher, can you take me higher?, will you take me
+ higher?
+ You're the real thing, yeah the real thing, you're the real thing
+ Even better than the real thing
+ Even better than the real thing
+ Even better than the real thing...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+G = 3 2 0 0 0 3

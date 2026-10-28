@@ -1,0 +1,273 @@
+Marília Mendonça - Ausência
+
+[Intro 2x] C  D  Em  D11/F#  G/B
+
+[Dedilhado Intro]
+
+     C      D          Em    D11/F#  G/B
+E|-----x------x----------x------------------|
+B|-5---x--7---x------8---x-10----3----------|
+G|-----x------x--------0-x----0----0--------|
+D|---5-x----7-x-7--------x------------------|
+A|-3---x--5---x---5--7---x--9----2----------|
+E|-----x------x----------x------------------|
+
+[Primeira Parte]
+
+     C
+Sei bem
+                      D
+O que te faz bem, eu sei
+                       Em
+Mas no fundo eu já tentei
+     D      G/B  C
+Não faltou co___ragem
+
+
+C                       D
+É, uma hora eu ia me tocar
+                          Em
+Que você não vai mais voltar
+         D      G/B
+Não receber mensagem
+C
+  Também é mensagem
+
+[Dedilhado Primeira Parte]
+
+Parte 1
+
+     C                 D
+E|-----x------x----------x-----x------------|
+B|-5---x--5---x------7---x-7---x------------|
+G|-----x------x----------x-----x------------|
+D|---5-x----5-x-5------7-x---7-x-7----------|
+A|-3---x--3---x---3--5---x-5---x---5--------|
+E|-----x------x----------x-----x------------|
+
+Parte 2
+
+     Em      D  G/B  C
+E|---------------------x-----x--------------|
+B|-8--7/8--7--3----5---x-5---x--------------|
+G|---------------------x-----x--------------|
+D|-------------------5-x---5-x--------------|
+A|-7--5/7--5--2----3---x-3---x--------------|
+E|---------------------x-----x--------------|
+
+[Pré-refrão]
+
+ Am7
+Sei
+                        G5
+Que o pra sempre virou pó
+                    D/F#
+E na cabeça deu um nó
+                    Em
+Mas eu tô bem consciente
+
+      Am7
+Mas amei
+                       G5
+Amei sozinha, mas por dois
+                                 D/F#
+Me conformei que agora, e não depois
+
+Vou ter que seguir em frente
+
+[Dedilhado Pré-refrão]
+
+Parte 1
+
+     Am7                 G5
+E|-------x------x------------x------x-------|
+B|-------x-1--1-x-1----------x-3--3-x-3-----|
+G|-----0-x-0--0-x-0--------0-x-0--0-x-0-----|
+D|---2---x-2--2-x-2------0---x-0--0-x-0-----|
+A|-0-----x-0----x---0--------x------x-------|
+E|-------x------x------3-----x-3----x---3---|
+
+Parte 2
+
+    D/F#                 Em
+E|-------x------x---------------------------|
+B|-------x-3--3-x-3-------------------------|
+G|-----2-x-2--2-x-2--------0-----0---0------|
+D|---0---x-0--0-x-0------2---2--------------|
+A|-------x------x---------------------------|
+E|-2-----x-2----x---2--0-------2---3--------|
+
+Parte 3
+
+     Am7                 G5
+E|-------x------x------------x------x-------|
+B|-------x-1--1-x-1----------x-3--3-x-3-----|
+G|-----0-x-0--0-x-0--------0-x-0--0-x-0-----|
+D|---2---x-2--2-x-2------0---x-0--0-x-0-----|
+A|-0-----x-0----x---0--------x------x-------|
+E|-------x------x------3-----x-3----x---3---|
+
+Parte 4
+
+    D/F#
+E|-------x------x---------------------------|
+B|-------x-3--3-x-3----3-3-3-3--------------|
+G|-----2-x-2--2-x-2----2-2-2-2--------------|
+D|---0---x-0--0-x-0----0-0-0-0--------------|
+A|-------x------x---------------------------|
+E|-2-----x-2----x---2-----------------------|
+
+
+[Refrão]
+
+          C
+Preocupa não
+                  D          Em
+Que eu não vou bater no seu portão
+     G/B  C
+Preocupa não
+                            D
+Que não vai ver mais o meu nome
+       Em       G/B
+Em nenhuma ligação
+
+     C
+Preocupa não
+              D            Em
+Que eu vou tomar vergonha na cara
+G/B      C
+    Preocupa não
+                   D
+Pra um bom entendedor
+
+Meia ausência basta
+
+[Refrão]
+
+Parte 1 (3x)
+
+     C                 D     Em   G/B
+E|-----x------x----------x------------------|
+B|-5---x--5---x------7---x-8----3-----------|
+G|-----x------x----------x---0----0---------|
+D|---5-x----5-x-5------7-x------------------|
+A|-3---x--3---x---3--5---x-7----2-----------|
+E|-----x------x----------x------------------|
+
+Parte 2
+
+     C                 D
+E|-----x------x-----------------------------|
+B|-5---x--5---x------7----------------------|
+G|-----x------x------0----------------------|
+D|---5-x----5-x-5----7----------------------|
+A|-3---x--3---x---3--5----------------------|
+E|-----x------x-----------------------------|
+
+[Repete Intro 2x] C  D  Em  D11/F#  G/B
+
+[Pré-refrão]
+
+ Am7
+Sei
+                        G5
+Que o pra sempre virou pó
+                    D/F#
+E na cabeça deu um nó
+                    Em
+Mas eu tô bem consciente
+
+      Am7
+Mas amei
+                       G5
+Amei sozinha, mas por dois
+                                 D/F#
+Me conformei que agora, e não depois
+
+Vou ter que seguir em frente
+
+[Refrão]
+
+          C
+Preocupa não
+                  D          Em
+Que eu não vou bater no seu portão
+     G/B  C
+Preocupa não
+                            D
+Que não vai ver mais o meu nome
+       Em       G/B
+Em nenhuma ligação
+
+     C
+Preocupa não
+              D            Em
+Que eu vou tomar vergonha na cara
+G/B      C
+    Preocupa não
+                   D
+Pra um bom entendedor
+
+Meia ausência basta
+
+          C
+Preocupa não
+                  D          Em
+Que eu não vou bater no seu portão
+     G/B  C
+Preocupa não
+                            D
+Que não vai ver mais o meu nome
+       Em       G/B
+Em nenhuma ligação
+
+     C
+Preocupa não
+              D            Em
+Que eu vou tomar vergonha na cara
+G/B      C
+    Preocupa não
+                   D
+Pra um bom entendedor
+
+Meia ausência basta
+
+[Final]
+
+C  D  Em  D11/F#  G/B
+
+C  D  Em
+
+[Dedilhado Final]
+
+Parte 1
+
+     C      D          Em    D/F#  G/B
+E|-----x------x----------x------------------|
+B|-5---x--7---x------8---x-10----3----------|
+G|-----x------x--------0-x----0----0--------|
+D|---5-x----7-x-7--------x------------------|
+A|-3---x--5---x---5--7---x--9----2----------|
+E|-----x------x----------x------------------|
+
+Parte 2
+
+     C      D          Em9
+E|-----x------x-----------------------------|
+B|-5---x--7---x-------7--5------------------|
+G|-----x------x-------0---------------------|
+D|---5-x----7-x-7-----0---------------------|
+A|-3---x--5---x---5---7---------------------|
+E|-----x------x-------0---------------------|
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+Am7*  = X 0 2 0 1 0 - (*A#m7 na forma de Am7)
+C*  = X 3 5 0 5 X - (*C# na forma de C)
+D*  = X 5 7 X 7 X - (*D# na forma de D)
+D/F#*  = 2 X 0 2 3 X - (*D#/G na forma de D/F#)
+D11/F#*  = X 9 X 0 10 X - (*D#11/G na forma de D11/F#)
+Em*  = X 7 X 0 8 X - (*Fm na forma de Em)
+Em9*  = 0 7 0 0 7 X - (*Fm9 na forma de Em9)
+G/B*  = X 2 0 0 3 X - (*G#/C na forma de G/B)
+G5*  = 3 X 0 0 3 X - (*G#5 na forma de G5)

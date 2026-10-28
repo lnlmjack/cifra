@@ -1,0 +1,49 @@
+R.E.M. - Disappear
+
+intro guitar riff:
+E---------------------------------------------||
+B-------1---------0----------1---------0------||
+G-----2---2-----0---0------2---2-----0---0---.||
+D-0h2-------0h2--------0h2-------0h2---------.||
+A---------------------------------------------||
+E---------------------------------------------||
+
+during the second time around during this riff, another guitar plays a
+lot of harmonics on the high strings at the 5th fret, kinda like this:
+
+E--------------------------------------|
+B-----------------------------------|
+G-----------------------------------|
+D-----------------------------------------|
+A--------------------------------------------|
+E--------------------------------------------|
+while this isn't exactly what is played, it's the gist of it. listen to
+
+the song to hear how much to do the harmonics...
+
+verse:
+(Am) (during the first few lines of the verse)
+ C C/B Am ("that had not yet appeared")
+
+(during that C-C/B-Am progression, more of the 5th-fret harmonics are
+played.)
+
+chorus:
+G D C Bm Em
+
+bridge:
+G F Em D
+G F Em Em
+
+repeat intro, then go back to verse.
+
+End on Em.
+
+----------------- Acordes -----------------
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+C/B = x 2 0 0 1 0

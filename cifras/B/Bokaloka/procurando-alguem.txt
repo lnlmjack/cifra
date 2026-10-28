@@ -1,0 +1,67 @@
+Bokaloka - Procurando alguém
+
+Intro: D / % / G / % / D / % / G / G#º / G/A / A7 / D /
+
+ D                   Em  G/A
+...Sozinho estou de novo
+ D                        Em  Em ^ F#m
+...E foi recente a separação
+ G                        A/G
+...Se estou sofrendo novamente
+ G       G/A        D  G/A
+...O culpado é coração
+  D               Em      G/A
+**..Meu coração é bobo
+ D                           Em  Em ^ F#m
+...Se entrega a qualquer paixão
+ G                 A/G
+...Pra ele tudo é fácil
+                G
+Esquece que é frágil
+        G/A             D   F#7
+E larga tudo em minhas mãos
+Bm7                   F#m7
+...Me envolvi acreditei
+
+                       G
+Me apaixonei e não pensei
+             D  F#7
+Que seria assim
+Bm                  F#m
+...Quando é que um amor
+                  G
+Vai me ver acolhedor
+      G/A            D
+E chegar de vez pra mim
+ A7                          D
+...Tô procurando alguém pra namorar   }
+    Em          F#m
+Mas que me faça ser feliz             }
+     G            Bm7
+Não posso mais me enganar             }
+             E7            A7
+Com o que o falso amor me diz         }
+A7/4 ^^^^^^ A7              D
+...Tô procurando alguém pra namorar   }   refrão
+    Em          F#m
+Mas que me faça ser feliz             }
+    G             Bm
+Não posso mais me enganar             }
+             E7 ^^^ A7    D    G/A
+Com o que o falso amor me diz..       }
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+A7/4 = X 0 2 0 3 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X
+G/A = 5 X 5 4 3 X

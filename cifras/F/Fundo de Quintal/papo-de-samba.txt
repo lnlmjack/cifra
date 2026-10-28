@@ -1,0 +1,75 @@
+Fundo de Quintal - Papo de Samba
+
+Introdução:  C69 - Bbm7 - Eb7 - Bbm7 - Eb7 - Dm7 - G7911 - G713
+OBS: O acorde C6/9 fica melhor no Cavaco, no Violão fica melhor C
+
+       C69             Ebº
+....A madrugada tá Chegando
+                        Dm7
+E agente aqui batendo papo
+G7          C69                A7
+Papo de bola....papo de samba....
+             Dm7
+Papo de grana....papo de cana
+G7
+Nada do bonde passar
+C69                 Ebº
+....E o sereno tá caindo
+                      Dm7
+E de saudade do meu quarto
+G7           C69              A7
+Da minha cama....Do meu pijama....da minha dama
+ Dm7                G7
+Deu saudade do meu lar
+
+Gm7                         C7
+....São quatro horas da manhã
+                   F7+
+E não pintou uma carona
+G7
+....Passou um táxi agora
+                C69
+Mas é curta a minha grana
+A7                                      Dm7
+Até os homes da patamo já me deram dura....
+                              G7911
+Ninguém segura, tanta loucura....
+                      G7                   C7+
+Mas todo final de semana é sempre uma aventura
+C7             F7+                      G7        Em
+....Pra completar, quando eu chego em casa é bafafá
+              A7               Dm7
+A comida, eu tenho que esquentar
+                 G7          C7+
+Meu benzinho me manda pro sofá
+                   A7
+Diz que vai me deixar!
+   D79                 G7                   C7+
+E ainda me acerta do jeito se eu não me acertar
+C7              F#m5-7                  G/F        Em
+....Pra completar, quando eu chego em casa é bafafá
+                 A7              Dm7
+A comida eu que tenho que esquentar
+                 G7          C7+
+Meu benzinho me manda pro sofá
+                   A7
+Diz que vai me deixar!
+      F#m5-7              G/F                  C69  G713
+E que ainda me acerta de jeito se eu não me acertar.....
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bbm7 = X 1 3 1 2 1
+C = X 3 2 0 1 0
+C6/9 = X 3 2 2 3 3
+C7 = X 3 2 3 1 X
+C7+ = X 3 2 0 0 X
+D79 = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+Eb7 = X 6 5 6 4 X
+Ebº = X X 1 2 1 2
+Em = 0 2 2 0 0 0
+F7+ = 1 X 2 2 1 X
+G/F = 1 X X 0 0 3
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

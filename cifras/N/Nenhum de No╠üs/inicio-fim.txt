@@ -1,0 +1,56 @@
+Nenhum de Nós - Início Fim
+
+Intro 2x: A  F#m  D9
+
+  A
+Nunca
+           F#m
+Senti culpa
+             E
+Senti medo
+                 D
+Cheguei perto
+                 A
+Cheguei cedo
+                F#m
+Pedi perdão
+              E
+Fugi sozinho
+                     D
+Busquei a razão
+             A
+Pedi carinho
+
+
+
+                   D        A
+Senti todo peso
+                       D        G
+Perdi meu caminho
+                           C     G
+Corri em desespero
+                         C
+Parei no precipício
+
+Am                     Dm
+Nem mais um passo
+         G             C7+
+Sem um novo vício
+Am              Dm            G
+Isso é só mais um pedaço
+             C7+
+De um fim que já foi
+       E
+o meu início    2x    Intro
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

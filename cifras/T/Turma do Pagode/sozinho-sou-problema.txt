@@ -1,0 +1,64 @@
+Turma do Pagode - Sozinho Sou Problema
+
+F#m7/9                         F#m7+
+    Eu cansei de entregar o coração
+           F#m7                                      F#m6
+Pra alguém que eu preciso encontrar solução
+D7+/A                             Bm7
+   Pra viver a vida sem se machucar
+     E7/4                Fº  C#7/9-
+E ainda ter felicidade
+F#m7/9                                 F#m7+
+     Não vou mais me entregar pra ninguém
+          F#m7                                  F#m6
+To na paz tranquilão solidão nem pensar
+D7+/A                         Bm7
+     To tirando onda todo dia
+        E7/4                   G/B   A7/C#
+To do jeito que a vida gosta
+ D7+      C#m7   A7+           A7/4^A7
+Eu não quero mais compromisso
+D7+     C#m7^Bm7   A7+            F#m7
+To de bem com a paz to tranqüilo
+Bm7                          C#m7
+A felicidade esta em mim
+
+D/F#                                   E7/9/11
+Demoro mais hoje eu descobri
+A7+                          E/G#
+Não sei se vai valer a pena
+F#m7                                  A7/4^A7
+Sei que sozinho eu sou problema
+           D6/9     C#m7      Bm7        E7/9/11
+Mas to sem saída vou curtir a vida
+A7+                             E/G#
+Me apaixonei a vida inteira
+F#m7                             A7/4^A7
+Fiquei sonhando de bobeira
+              D6/9          C#m7
+Mais quem sabe um dia
+              Bm7          E7/9/11
+Hoje eu to na minha
+
+Solo final
+
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+A7/C# = X 4 5 2 5 X
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D/F# = 2 X 0 2 3 2
+D6/9 = X 5 4 2 0 0
+D7+ = X X 0 2 2 2
+D7+/A = 5 5 4 2 2 2
+E/G# = 4 X 2 4 5 X
+E7/4 = 0 2 0 2 0 X
+E7/9/11 = X X 2 2 3 2
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+F#m7+ = X X 4 6 6 5
+F#m7/9 = X X 4 2 5 4
+Fº = X X 3 4 3 4
+G/B = X 2 0 0 3 3

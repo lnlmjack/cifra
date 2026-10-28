@@ -1,0 +1,100 @@
+Imaginasamba - Me Assume Ou Me Esquece
+
+Intro: Em  F7+/A  G/B  B7/9  Em7  Em/D  C7+  B7/b9
+
+(solo simplificado) intro
+
+E|-----7-5-7-8~-7-8-7-9-10~-3-7-10-8-5-3---|
+B|-3/5-----------------------------------5-|
+G|-----------------------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+E|-5-7---8--5-7---9------------------------|
+B|-----5--------5--------------------------|
+G|-----------------------------------------|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+
+Em7      Em/D            C7+/9
+Se era só pra usar meu corpo
+
+ B7/b9                 Em7
+Você conseguiu pode ir
+      Em/D           C#m7/b5
+Se contenta com tão pouco
+  B7/b9
+Pior assim
+
+
+ Em7     Em/D          C7+
+Se era só mais uma transa
+  B7/b9               Em7
+Devia ter feito melhor
+       Em/D             C#m7/b5
+Vai e não me deixa lembranças
+     B7/b9
+Me viro só
+
+
+ Em7
+Pega tuas coisas
+  Bm7
+Cruza essa porta
+        Am7                    G/B
+Sei que o teu coração não tem dono
+     Cm6                         G   D/F#
+Pra viver um amor assim não tô pronto
+
+
+Em7
+Quer liberdade
+   Bm7
+E eu sentimento
+       Am7                 G/B
+Pelo visto você não me merece
+         C7+               D
+Quem me dera se você soubesse
+Am7  Bm7  C7+ *(C9)
+Que pra mim
+             Ebº7           Em7
+Desse jeito louco não funciona
+               G7/13          C7+
+Tem que ser intenso além da cama
+      B7/b9        Em7  Em/D
+Mas você não reconhece
+        C7+
+Sendo assim
+           Ebº7             Em7
+É melhor parar com o fingimento
+             Em/D            C#m7/b5
+Ninguém tá aqui pra perder tempo
+      B7/b9         Em7 Em
+Me assume ou me esquece
+
+
+*Obs : O acorde C7+ é pra ser executado com a pestana na 3ª casa do violão, e o acorde de Em7, pode ser executado com pestana na 7ª casa
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7/9 = X 2 1 2 2 X
+B7/b9 = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+C#m7/b5 = X 4 5 4 5 X
+C7+ = X 3 2 0 0 X
+C7+/9 = X 3 2 4 3 X
+C9 = X 3 5 5 3 3
+Cm6 = X 3 X 2 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Ebº7 = X X 1 2 1 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+F7+/A = 5 X 3 5 5 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7/13 = 3 X 3 4 5 X

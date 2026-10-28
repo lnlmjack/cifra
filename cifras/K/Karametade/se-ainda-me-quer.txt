@@ -1,0 +1,81 @@
+Karametade - Se Ainda Me Quer
+
+[Intro]  Am9  D7/9  G7M  C7M  F#m7/5-  B7
+
+D|--0--2--4----------------2----------|
+B|----------------------------1--0----|
+G|-----------2--4--2----4-------------|
+D|------------------------------------|
+
+D|--------0----------|
+B|-----------1-------|
+G|--2----0------2----|
+D|-------------------|
+
+D|--2----4---------4---------|
+B|----------------------0----|
+G|----------0--2-1-----------|
+D|---------------------------|
+
+E7M   Am7/9       B7/5+           E7M
+Eu tentei te esquecer, mas não consigo
+    Bm7             E7          Am9
+Não sei o que o teu corpo fez comigo
+
+                D7/9         G7M
+Eu não consigo amar outra pessoa
+     C7M  Am                B7/5+
+Vivo à toa, na esperança de você voltar
+E7M              Am7/9         B7/5+    E7M
+Pra me dizer que também tem saudades do meu jeito
+    Bm7         E7          Am9
+De adormecer deitada no meu peito
+                D7/9          G7M
+E não consegue achar outra pessoa
+     C7M   Am               B7/5+
+Vive à toa, também quer recomeçar
+
+Em
+Quem sabe num outro lugar
+Am7            D7/9    G7M
+Bem longe da badalação
+           C7M        Am               B7
+A gente consiga apagar as falhas dessa relação
+Em
+Se a vida nos fez separar
+Am7             D7/9
+O amor contraria a razão
+G7M               C7M    Am           B7
+Então, por quê não reatar os laços da nossa união?
+
+E                 F#7
+Se ainda me quer, abre um sorriso
+A                B  G#m    C#7  F#m  B7
+Faz do meu mun...do um paraí...so
+E                 F#7
+Se ainda me quer, te dou meu coração
+A                    B             E     Am  B7
+Pois, não tem jeito, não, eu te preciso
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/9 = X X 7 5 8 7
+Am9 = X 0 2 4 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7/5+ = X 2 X 2 4 3
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C7M = X 3 2 0 0 X
+D7/9 = X 5 4 5 5 X
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E7M = X X 2 4 4 4
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7/5- = 2 X 2 2 1 X
+G#m = 4 6 6 4 4 4
+G7M = 3 X 4 4 3 X

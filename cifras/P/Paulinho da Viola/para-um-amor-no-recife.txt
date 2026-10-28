@@ -1,0 +1,40 @@
+Paulinho da Viola - Para Um Amor No Recife
+
+[Intro] C#m7  G#7(b13)  C#m7  G#7(b13) G#7
+        C#m7  G#7(b13)  G#7  C#m7
+        A7(13)  D#7/A#  G#7(b13)  C#m7
+
+G#7(b13)               C#m7          F#m
+A razão porque mando um sorriso e não corro
+                      G#7          C#m
+É que andei levando a vida quase morto
+              G#m7(b5)  C#7(b9)            F#m7
+Quero fechar a ferida,   quero estancar o  sangue
+                B7
+E sepultar bem longe
+                E         G#7         C#m7    A7(13)    D#m7(b5)
+O que restou da camisa colorida que cobria     minha dor
+                     G#7(b13)
+Meu amor eu não me esqueço
+    G#7               C#m7
+Não se esqueça por favor
+    C#7(b9)     F#m7     B7               E
+Que voltarei depressa tão logo a noite acabe
+ A7                D#m7(b5)    G#7        C#m7
+Tão logo este tempo passe  para beijar você
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+B7 = X 2 1 2 0 2
+C#7(b9) = X 4 3 4 3 X
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D#7/A# = 6 X 5 6 4 X
+D#m7(b5) = X X 1 2 2 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#7 = 4 6 4 5 4 4
+G#7(b13) = 4 X 4 5 5 4
+G#m7(b5) = 4 X 4 4 3 X

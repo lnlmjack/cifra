@@ -1,0 +1,50 @@
+Paulinho da Viola - Duas horas da manhã
+
+F#m7             Bº
+Duas horas da manhã,
+F#m/C#        F#m   A     G#º C#m7(b5) G F#
+Contrariado espero pelo meu amor
+         Eº          Bm       Bm7(b5) E
+Vou subindo o morro sem alegria,
+E/G#              A        G#º  G
+Esperando que amanheça o dia
+F#m7 A         G#º  Fm6
+Qual será o paradeiro
+F#m7        A         G#º   C#7(b9) C#m7(b5) G F#
+daquela que até agora não voltou?
+Bbº               Bm7
+Eu não sei se voltará,
+               Ebº C#7  F#m7 A
+ou se ela me abandonou
+  Bm7                        A
+A minha esperança está morrendo
+              G#º             C#7(b9)
+E a saudade no meu peito vai crescendo
+             Bm7       G#º    A
+Parece até que o coração me diz
+
+               Eb    C#7 F#m7
+Sem ela, eu não serei feliz...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bbº = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+Bº = X 2 3 1 3 1
+C#7 = X 4 3 4 2 X
+C#7(b9) = X 4 3 4 3 X
+C#m7(b5) = X 4 5 4 5 X
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Eb = X 6 5 3 4 3
+Ebº = X X 1 2 1 2
+Eº = X X 2 3 2 3
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F#m/C# = X 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X

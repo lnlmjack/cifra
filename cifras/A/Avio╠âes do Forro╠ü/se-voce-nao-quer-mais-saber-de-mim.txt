@@ -1,0 +1,52 @@
+Aviões do Forró - Se Você Não Quer Mais Saber de Mim
+
+INTRO: C#m E A D G F G C
+
+C                  G            Am
+SE VOCÊ NÃO QUER MAIS SABER DE MIM,
+                 F              C
+NÃO ME PROCURE MAIS FALANDO DE AMOR
+                G              Am
+DIZENDO QUE ME AMA E ESTAR APAIXONADO
+        F          D              G                D
+E É SÓ MEU O TEU AMOR E NO OUTRO DIA SE ME VER NA RUA
+               A                       E
+PARECE QUE ESQUECEU A NOSSA NOITE DE AMOR.
+
+                         B      C#m
+MAIS TODO MUNDO TEM UM JEITO DE AMAR
+                        A           E
+OLHA AQUI EU NÃO SOU PERFEITO PRA VOCÊ
+                  B        C#m             A            E
+PROMETO NÃO VOU MAIS TE PROCURAR NEM VOU DIZER QUE AMO VOCÊ
+                     G#m   C#m            A        B
+MAIS ACHO QUE EU NÃO VOU SEGURAR EU VOU LIGAR PRA VOCÊ
+
+
+REFRÃO:
+
+                      C#m
+OLHA QUE EU VOU TE CONVIDAR
+                  A               E
+MAIS EU NÃO VOU SAIR PRA GENTE NAMORAR
+G#
+E SÓ SE DIVERTIR E NO OUTRO DIA
+                   C#m
+VOCÊ NEM LIGAR PRA MIM
+          B
+OLHE O DEDINHO (BIS)
+
+¨Escute a música e não terá erro!¨
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,97 @@
+Sorriso Maroto - A Primeira Vez
+
+Intro: D  C#m  Bm  E  D  C#m  D  C#m  Bm  E7(4)  Dm6
+
+A9                                      D9
+Tá difícil sem você não consigo entender
+  C#m7     Bm7                                E         D/E  E/G#
+É a primeira vez que o tempo não curou
+            A9                        D9
+Outras vezes, já sofri por amores que vivi
+C#m7       Bm7                          E       E7(13)
+É a primeira vez e só aumenta a dor
+
+              D9    A/D   D9    A/D
+Quando toca o telefone eu lembro
+A9/C#                  A9/C#  Am/C
+Quanto estou na rua eu lembro
+Bm7(9)       Bm7(11)            E/F#    F#m7(11)
+Tento e não consigo te esquecer
+A/D            D9                A9/C#
+Nunca sofri tanto tempo tanto amor jogado ao vento
+C9                C6            Bm7(11)    E7(4)
+Me perdi por dentro de você
+
+
+              A     A7M   A6  A7M   D9
+Quantas vezes te liguei e não falei
+C#m7     Bm7                           E7(4) E7
+Quantas noites te escrevi, depois rasguei
+         A9                    A(#5)           D7M               Dm6
+Tanto amor não é em vão nunca por ninguém chorei
+        A        F#m7    Bm7  E7(4)      ( D  C#m  Bm )
+Mas viver a vida sem você não sei
+
+( A9  F  Eb/G )
+
+               F/A         Bb    Ab/C  Bb/D   Eb9
+Quantas noites te escrevi, depois chorei
+Dm7        Cm7                     F7(4)   F7
+Quantas vezes te rasguei, depois liguei
+        Bb9                    Bb(#5)      Eb7M             Ab  Gb  Fm  Ebm6
+Tanto amor não é em vão viver sem você não sei
+           Bb9  Gm7  Cm7  F7(4)  Eb  Dm  Cm  F  Bb9
+Tudo na primeira vez que eu chorei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A(#5) = X 0 3 2 2 0
+A/D = X X 0 6 5 5
+A6 = 5 X 4 6 5 X
+A7M = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+Ab = 4 3 1 1 1 4
+Ab/C = X 3 X 1 4 4
+Am/C = X 3 2 2 5 X
+Bb = X 1 3 3 3 1
+Bb(#5) = X 1 4 3 3 X
+Bb/D = X 5 X 3 6 6
+Bb9 = X 1 3 3 1 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7(11) = 7 X 7 7 5 X
+Bm7(9) = X 2 0 2 2 X
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C6 = 8 X 7 9 8 X
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D7M = X X 0 2 2 2
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+Dm6 = X 5 X 4 6 5
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E/F# = X X 4 4 5 4
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7(13) = 0 X 0 1 2 0
+E7(4) = 0 2 0 2 0 X
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Eb7M = X X 1 3 3 3
+Eb9 = X 6 8 8 6 6
+Ebm6 = X X 1 3 1 2
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X
+F/A = 5 X 3 5 6 X
+F7 = 1 3 1 2 1 1
+F7(4) = 1 3 1 3 1 X
+Fm = 1 3 3 1 1 1
+Gb = 2 4 4 3 2 2
+Gm7 = 3 X 3 3 3 X

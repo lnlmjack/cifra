@@ -1,0 +1,50 @@
+Dorival Caymmi - Doralice
+
+Intro: Em7 E7(5+/9-) F#m7 B7/4  B7  Em7  A7/9- Dmaj7 D6/9
+
+
+    Dmaj7   D6/9        E6      E7/5+   A11       A7/9-     Dmaj7 D6/9
+Doralice eu bem que lhe disse, Amar é tolice, É bobagem, ilusão
+      Dmaj7      Fº  Amaj7     F#m7           Bm7       E7  A11 A7/9-
+Eu prefiro viver tão sozinho, Ao som do lamento do meu violão
+    Dmaj7   D6/9        E6      E7/5+         A11               A7/9-    Am6 Aº
+Doralice eu bem que lhe disse, Olha essa embrulhada, Em que vou me meter
+ Gmaj7 Gm6      F#m7/5-  F#º     Em7         A7/9-     Dmaj7 D6/9
+Agora amor, Doralice meu bem, Como é que nós vamos fazer?
+        Em7      A7/9- Dmaj7 D6/9           Dbm7         F#7 B7/4 B7 Bm7
+Um belo dia você me surgiu,       Eu quis fugir mas você insitiu
+       Em7             A7/9-      Dmaj7 Fº       Em7           A7/9-     Dmaj7
+Alguma coisa bem que andava me avisando,     Até parece que eu estava adivinhando
+   Fº           Em7      A7/5+  Dmaj7 Fº                Em7       A7/9-       Am6
+Eu bem que não queria me casar contigo,      Bem que não queria enfrentar, esse perigo Doralice
+ Gmaj7     Gm6          F#m7/5- F#º      Em7         A7/9- Dmaj7 D6/9
+Agora você tem que me dizer,          Como é que nós vamos fazer?
+Gmaj7 G#º F#m7 B7/F# Em7 A7/9- D6/9
+
+----------------- Acordes -----------------
+A11 = X 0 2 2 3 0
+A7/5+ = X 0 X 0 2 1
+A7/9- = 5 X 5 3 2 X
+Am6 = 5 X 4 5 5 X
+Amaj7 = X 0 2 1 2 0
+Aº = 5 X 4 5 4 X
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+B7/F# = X X 4 4 4 5
+Bm7 = X 2 4 2 3 2
+D6/9 = X 5 4 2 0 0
+Dbm7 = X 4 6 4 5 4
+Dmaj7 = X X 0 2 2 2
+E6 = X X 2 4 2 4
+E7 = 0 2 2 1 3 0
+E7/5+ = 0 X 0 1 1 0
+E7/5+/9- = 0 X 0 1 1 1
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7/5- = 2 X 2 2 1 X
+F#º = 2 X 1 2 1 X
+Fº = X X 3 4 3 4
+G#º = 4 X 3 4 3 X
+Gm6 = 3 X 2 3 3 X
+Gmaj7 = 3 X 4 4 3 X

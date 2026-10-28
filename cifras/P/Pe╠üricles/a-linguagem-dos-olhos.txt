@@ -1,0 +1,93 @@
+Péricles - A Linguagem Dos Olhos
+
+Intro: B/A   B7/F#   E7+(9)   A7(9)(13)  G#m7   C#7/9  G7+   F#7/9
+
+
+Solo de Introdução
+
+E|--12-10------12-10-----12-10-----12-10-14-12-|------10-12------|
+B|-------12-10------12-10-----12-10------------|-10-12-----12-10-|
+G|---------------------------------------------|-----------------|
+D|---------------------------------------------|-----------------|
+A|---------------------------------------------|-----------------|
+E|---------------------------------------------|-----------------|
+
+E|--12-10------12-10-----12-10---------------------|
+B|-------12-10------12-10-----12-10-10-12-12-12-12-|
+G|-------------------------------------------------|
+D|-------------------------------------------------|
+A|-------------------------------------------------|
+E|-------------------------------------------------|
+
+
+B9
+Quando eu vejo você
+
+                    B/A
+A minha boca seca, a mão congela
+
+O sangue ferve
+
+De onde vem tanto poder?
+E/G#
+E quando você me vê
+                    Em/G#
+O teu sorriso brilha, tudo muda
+          F#7/9
+Me deseja como eu desejo você
+B9
+E quando eu vejo você,
+
+A minha voz embarga
+       B/A
+A mente voa, sonho mil loucuras pra te satisfazer
+E/G#
+E quando você me vê
+
+O corpo não me avança
+Em/G#
+O clima esquenta
+               F#7/9
+O nosso dialeto é pra quem sabe entender
+
+B/A
+A linguagem dos olhos
+E/G#
+O corpo sabe decifrar
+B/A
+A linguagem dos olhos
+E/G#
+Quem faz o coração falar (2x)
+
+G7+
+Tudo rola sem um toque
+        F#m7
+Sem trocar uma palavra
+G7+         G#°                       C#m7    F#7/9
+É telepatia, é paixão desenfreada
+
+B/A A/G A#/G# ^^^ B/A
+A linguagem dos olhos
+E/G# ^^^^^  Em/G#
+O corpo sabe decifrar
+B/A A/G A#/G# ^^^ B/A
+A linguagem dos olhos
+E/G# ^^^^^  Em/G#
+Quem faz o coração falar (2x)
+
+----------------- Acordes -----------------
+A#/G# = 4 X 3 3 3 X
+A/G = 3 X 2 2 2 X
+A7(9)(13) = 5 X 5 6 7 7
+B/A = X 0 4 4 4 X
+B7/F# = X X 4 4 4 5
+B9 = X 2 4 4 2 2
+C#7/9 = X 4 3 4 4 X
+C#m7 = X 4 6 4 5 4
+E/G# = 4 X 2 4 5 X
+E7+(9) = X 7 6 8 7 X
+F#7/9 = X X 4 3 5 4
+F#m7 = 2 X 2 2 2 X
+G#m7 = 4 X 4 4 4 X
+G#° = 4 X 3 4 3 X
+G7+ = 3 X 4 4 3 X

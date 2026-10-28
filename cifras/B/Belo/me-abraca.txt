@@ -1,0 +1,65 @@
+Belo - Me Abraça
+
+Intro: E9  E7M(9)    A9 A7M(9)   2x
+
+E9            A9
+Pra que agir assim
+           F#m7/11
+Se ainda existe amor
+          D              D5/A
+Me faz sofrer me faz chorar
+             F#m7/11
+Me faz pensar em
+          E/G#
+Te esquecer enfim
+      A7+   E/G#  F#m7/11
+Já é tempo de parar...
+
+E9             A9
+O sol já não brilha mais
+                F#m7/11
+Já não sinto o teu calor
+          D      D5     F#m7/11
+A noite cai sem você dói demais
+
+          E/G#
+Por favor diz pra mim
+            A7+  E/G#  F#M
+Se a gente vai se acertar...
+
+F#m7/11   E/G#
+Meu coração é teu
+  F#m7/11
+Não percebe
+       E/G#
+Não há ninguém pra me
+D        A/B B9  E9
+Fazer feliz assim...
+
+Refrão
+E9             A9
+Então vem e me abraça
+   E/G#    F#m7/11
+Me beija me ama
+     C#m7
+Me completa
+    D9            C#m7  F#m7/11
+Não vê que o teu lugar
+A/B         E9
+É perto de mim...
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A7+ = X 0 2 1 2 0
+A7M(9) = X 0 2 1 0 0
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+D5/A = 5 5 7 X X X
+D9 = X X 0 2 3 0
+E/G# = 4 X 2 4 5 X
+E7M(9) = X 7 6 8 7 X
+E9 = 0 2 4 1 0 0
+F#m7/11 = 2 X 2 2 0 X

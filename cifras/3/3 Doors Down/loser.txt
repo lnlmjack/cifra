@@ -1,0 +1,134 @@
+3 Doors Down - Loser
+
+Versão 1
+-======-
+
+
+Introdução
+
+|---0---------0----|
+|----0--0---3--3-0-|  Uma guitarra toca essa parte enquanto a outra toca
+|3----3----2-2--2--|  uma vez cada os acordes F#(244322) e D9(xx0230)
+|-4-------0--------|
+|------------------|
+|------------------|
+
+
+Versos
+
+|2222--0------|2222--0---------|2222--0--0---0--|2222--0---------|
+|2222--3------|2222--3---------|2222--3---3---3-|2222--2---------|
+|3333--2------|3333--2---------|3333--2----2---0|3333--3---------| 
+|4444--0------|4444--0---------|4444--0---------|4444--0---------|  
+|4444-------0-|4444-------0h2-0|4444------------|4444-------0h2-0|
+|2222-------0-|2222------------|2222------------|2222------------|
+
+
+
+Refrão : E5 F#5 D5
+
+
+Bridge
+
+|------------------------|
+|------------------------|
+|-------5--4-------------|
+|-4--7--5--4--2--3--4----|
+|-4--7--3--2--2--3--4--0-|
+|-2--5--------0--1--2----|
+
+Nas últimas vezes que esse riff é tocado 
+use palm muting para abafar as cordas
+
+
+Solo: (sobre o riff do verso)
+
+|------------|-------------------------------|
+|------------|-------------------------------|
+|-2h4-----2-2|2h4-4-4-6-6-6--7--7-7-7-7--7--7|
+|------2-----|-------------------------------|
+|------------|-------------------------------|
+|------------|-------------------------------|
+
+|------------------------------------|-------------------------------------|
+|------------------------------------|-------------------------------------|
+|7h9-9-9-9-11-11----11-11-11-11-11\--|13h14-12-11-11h12-11-9-9h11-9-7-9h7-6|
+|------------------------------------|-------------------------------------|
+|------------------------------------|-------------------------------------|
+|------------------------------------|-------------------------------------|
+
+|-------------------|-----------------------|
+|-------------------|-----------------------|
+|6h7---6------------|-----------------------|
+|--------/9--7--0--0|2h4--4-4-4-x-2-2h4~~~-0|
+|-------------------|-----------------------|
+|-------------------|-----------------------|
+
+|-----------------------|------------------------------|
+|--------2-1-1--2~~~~2-2|2h4-4-4-4/6-6-6--7-7-7-9-9-xxx|
+|2h4-4-4----------------|---------------------------xxx|
+|-----------------------|---------------------------xxx|
+|-----------------------|------------------------------|
+|-----------------------|------------------------------|
+
+Notação:
+h = hammer-on
+p = pull-off
+/ = slide
+~ = sustente a nota
+X = corda abafada
+
+Versão 2
+-======-
+
+(F#  D)
+Breathe in right away,
+nothing seems to fill this place
+I need this every time,
+take your lies get off my case
+Some day I will find,
+a love that flows Through me like this
+This will fall away,
+this will fall away
+
+
+Após o segundo refrão:
+
+Riff junto com os Power Chords: F#  A  C  B  E  F  F#
+
+E|--2-------0-0-1-2-----|
+A|----0-3-2-------------|
+D|----------------------|
+
+(F#  D)  Algumas vezes
+
+(E  F#m   E F#m  D  E) Power Chords
+You're getting closer,
+to pushing me Off of life's little edge
+Cause I'm a loser
+and sooner or later You know I'll be dead
+You're getting closer,
+you're holding the rope and I'm taking the fall
+Cause I'm a loser,I'm a loser, yeah
+
+(F#  D)
+This is getting old,
+I can't break these Chains that I hold
+My body's growing cold,
+there's nothin Left of this mind or my soul
+Addiction needs a pacifier,
+the buzz of This poison is taking me higher
+This will fall away, this will fall away
+
+(E  F#m   E F#m  D  E) Power Chords
+You're getting closer,
+to pushing me Off of life's little edge
+Cause I'm a loser
+and sooner or later You know I'll be dead
+You're getting closer,
+you're holding the rope and I'm taking the fall
+Cause I'm a loser,I'm a loser.  (I'm a looser...)
+
+----------------- Acordes -----------------
+D = X X 0 2 3 2
+F# = 2 4 4 3 2 2

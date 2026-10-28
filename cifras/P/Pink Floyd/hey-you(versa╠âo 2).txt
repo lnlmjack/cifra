@@ -1,0 +1,72 @@
+Pink Floyd - Hey You
+
+Introdução: F#m9 F#m F#m9 F#m Em9 Em Em9 Em (repete)
+
+      F#m9 F#m F#m9 F#m
+ Hey you!         Out there in the cold
+           F#m9        F#m           G#m
+ Getting lonely, getting old, can you feel me
+      F#m9 F#m F#m9           F#m
+ Hey you!         Standing in the aisles
+             F#m9           F#m            G#m
+ With itchy feet and fading smiles, can you feel me
+      B                                A   G#m F#m
+ Hey you! don't help them to bury the light
+C#m            Bm           F#m9 F#m F#m9 F#m Em9 Em Em9 Em
+ Don't give in   without a fight
+      F#m9 F#m F#m9     F#m
+ Hey you!         out there on your own
+          F#m9        F#m            G#m
+ Sitting naked by the phone would you touch me
+
+    F#m9  F#m       F#m9      F#m
+ Hey you!       With your ear against the wall
+
+              F#m9     F#m                G#m
+ Waiting for someone to call out would you touch me
+      B                                    A G#m F#m
+ Hey you! would you help me to carry the stone
+C#m              Bm           F#m
+ Open your heart, I'm coming home
+
+ Solo: F#m Bm F#m Bm F#m
+D           E     A    D
+ But it was only fantasy
+                   E        A       D
+ The wall was too high, as you can see
+                    E             A          D
+ No matter how we tried he could not break free
+          Bm                  F#m9 (repete introdução)
+ And the worms ate into his brain
+      F#m9 F#m F#m9    F#m
+ Hey you!         Out there on the road
+        F#m9      F#m           G#m
+ Doing what you're told, can you help me
+      F#m9 F#m F#m9     F#m
+ Hey you!     out there beyond the wall
+          F#m9         F#m           G#m
+ Braking bottles in the hall, can you help me
+      B                                    A G#m F#m
+ Hey you! don't tell me there's no hope at all
+  C#m              Bm            F#m
+ Together we stand,  divided we fall
+
+ATENÇÃO: As inversões de F#m9 e Em9 que devem ser usadas não constam do
+dicionário de acordes.
+Deve-se fazer o F#m apenas nas 4 primeiras cordas (baixo na 4a corda) com a nona na
+primeira corda (4a casa)e o
+Em também, baixo na 4a corda, com a nona na primeira corda
+(2a casa
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+Em9 = 0 2 4 0 0 0
+F#m = 2 4 4 2 2 2
+F#m9 = 2 4 6 2 2 2
+G#m = 4 6 6 4 4 4

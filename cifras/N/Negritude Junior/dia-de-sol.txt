@@ -1,0 +1,75 @@
+Negritude Junior - Dia de Sol
+
+C7M Am7(9)               Ab7M
+        e nasce um dia de sol
+Fm7                    C#7M
+Adormece o nosso amor
+Bbm7            Dm7(9)
+Que tanto se entregou
+Gsus                 C7M
+Nessa noite que passou
+Am7(9)               Ab7M
+A lua brilhou bem mais
+Fm7               C#7M
+O canto dos imortais
+Bbm7                    Dm7(9) Eb7(b9)
+Ganhou um mundo intenso
+F7M
+E aí
+F7M                         F#dim
+Todo amor que se quis dividir
+F#dim                          G6
+Fez um todo pra mim e pra ti
+F#dim
+Vamos conseguir
+
+F7M Dm7(9) Cm7(9) Bm7(9) E7(b9)
+          tanta  felici   dade     faz
+F7M     Bb7(9)                  Am7(9)
+O tempo demorar bem mais
+Em7(9)      Em7(b5)   A7(b13)
+É só olhar no céu e ver
+Dm7(9)            Gsus
+Vai clarear, escurecer
+Em7(b5)         Bb7(13) A7(b13)
+Vamos nos dar sem perceber
+Am6
+Que a nossa luz
+Fm6              Gsus  C7M
+É o que nos faz viver
+G/B            Gm7         A7(b13)
+E quando o dia amanhecer
+Dm7(9)           Gsus
+Vai clarear, escurecer
+Em7(b5)           Bb7(13) A7(b13)
+Vamos nos dar sem perceber
+Am6
+Que a nossa luz
+Fm6          Gsus     C7M
+É o que nos faz viver
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+Ab7M = 4 X 5 5 4 X
+Am6 = 5 X 4 5 5 X
+Am7(9) = X X 7 5 8 7
+Bb7(13) = 6 X 6 7 8 X
+Bb7(9) = X 1 0 1 1 X
+Bbm7 = X 1 3 1 2 1
+Bm7(9) = X 2 0 2 2 X
+C#7M = X 4 6 5 6 4
+C7M = X 3 2 0 0 X
+Cm7(9) = X 3 1 3 3 X
+Dm7(9) = X 5 3 5 5 X
+E7(b9) = X X 2 1 3 1
+Eb7(b9) = X 6 5 6 5 X
+Em7(9) = X 7 5 7 7 X
+Em7(b5) = X X 2 3 3 3
+F#dim = 2 X 1 2 1 X
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+Fm7 = 1 X 1 1 1 X
+G/B = X 2 0 0 3 3
+G6 = 3 X 2 4 3 X
+Gm7 = 3 X 3 3 3 X
+Gsus = 3 2 0 0 0 3

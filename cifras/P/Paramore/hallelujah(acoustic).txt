@@ -1,0 +1,132 @@
+Paramore - Hallelujah Acoustic
+
+Tuning: Drop D on 3 guitars
+
+Chords used: (Applicable in Drop D tuning only)
+        D A D G  B e
+        | | | |  | |
+B8 -    9-9-9-11-x-x-|
+G#8 -   6-6-6--8-x-x-|
+E8 -    2-2-2--4-x-x-|
+F#8 -   4-4-4--6-x-x-|
+B8/A# - 8-9-8-11-x-x-|
+A8 -    7-7-7--9-x-x-|
+B/D# -  1-2-1--4-x-x-|
+D#5 -   1-1-1--x-x-x-|
+
+G#5 -   6-6-6--x-x-x-|
+F#5 -   4-4-4--x-x-x-|
+
+Intro:
+
+Part 1:
+
+Jason:
+e|-------------------2-2-2-----2---|
+B|-0-0-0-2-2-2-4-4-4---------0-----|
+G|-------------------------3-------|
+D|---------------------------------|
+A|---------------------------------|
+D|---------------------------------|
+
+e|-------------------2-2-2---|
+B|-0-0-0-2-2-2-4-4-4---------|
+G|---------------------------|
+D|---------------------------|
+A|---------------------------|
+D|---------------------------|
+
+Josh:
+e|----------------------------14-14-14-------14--|
+B|-12-12-12-14-14-14-16-16-16-------------12-----|
+G|-------------------------------------15--------|
+D|-----------------------------------------------| (x2)
+A|-----------------------------------------------|
+D|-----------------------------------------------|
+
+Part 2:
+
+3 Guitars: (in chords B8--G#8--|E8)
+e|-----------------------------|
+B|-----------------------------|
+G|-11(x16)-8(x6)-4-------------|
+D|--9(x16)-6(x6)-2-------------| (x2)
+A|--9(x16)-6(x6)-2-------------|
+D|--9(x16)-6(x6)-2-------------|
+
+Verse 1:
+F#8   B8                         G#8      B8/A#
+  Somehow everything's gonna fall right in------to place
+B8                                   G#8      B8/A#
+  if we only had a way to make it all    fall faster everyday
+B8                      G#8       B8/A#
+  if only time flew like    a dove
+B8                    G#8              B8/A#
+  we gotta make it fly faster than I'm falling in love
+
+B8(while other guitars at intro part 1)
+
+
+Chorus 1:
+B8                          G#8-E8
+  This time we're not givin up
+B8                          G#8-E8
+  let's make it last forever
+          F#8  B8      G#8-E8
+  screamin "hallelujah"
+B8                       G#8-E8
+  we'll make it last forever
+
+
+Verse 2:
+B8                                   G#8-B8/A#
+  holding onto patience, wearing thin
+F#8       B8                             G8-B8/A#
+  I can't force these eyes to see the end
+F#8 B8                     G#8       B8/A#
+      if only time flew like   a dove
+F#8 B8                     G#8          B8/A#         B8
+      we could watch it fly    and just keep lookin on
+
+(Repeat Chorus 1)
+
+(I'm not sure in the interlude and bridge, if you know the excact sound, please submit a
+version for me)
+
+Interlude: D#5-E5-B5-G#5---D#-E5-F#5--
+
+Josh:
+e|-----7-----7-----7-----7---7/9\7----|
+B|------------------------------------|
+G|------------------------------------|
+D|-x-x-9-x-x-9-x-x-9-x-x-9-x-9/11\9---| (x2)
+A|-x-x-6-x-x-6-x-x-6-x-x-6-x----------|
+D|------------------------------------|
+
+Bridge:
+          D#5-E5-B5-G#5--     D#-E5-F#--
+and we've got time      on our   hands
+             B/D#   E8          G#8    F#8        B/D#
+and we've got    got nothing but time on our hands
+   G#8         F#8              B/D#
+got nothing but, got nothing but
+   E8          G#8  B8           B/D#-E8-F#8
+got nothing but time on our hands
+
+B/D#-E8-G#8-B8-G#8-A8
+
+
+Chorus 2:
+B8                          G#8-E8
+  this time we're not givin up
+  B8                          G#8-E8
+oh, let's make it last forever
+         F#8  B8      G#8-E8
+screaming "hallelujah" (Hallelujah)
+F#8  B8      G#8-E8
+  "hallelujah"
+
+F#8-B8(Hold)
+
+----------------- Acordes -----------------
+B/D# = X 6 X 4 7 7

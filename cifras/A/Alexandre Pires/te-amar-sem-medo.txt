@@ -1,0 +1,55 @@
+Alexandre Pires - Te Amar Sem Medo 
+
+(Adaptação de trecho opcional feita baseado em show com introdução com efeitos eletrônicos).
+
+A|-------------|
+E|---x-x-x-5-7-| (4x)
+
+A|-------------|
+E|---7-5-3-x-0-|
+
+B|------------------------------------------------------------------10-8|
+G|-9/10---9--10--12--9--7-5-3-----5-7--9/10-9---7-9-10-12-----10-9------|
+
+(intro) G Bm7 C7+ D4/7
+
+G                 Bm7                         Em7
+Tá difícil esquecer a paixão que eu sinto por você
+C7+                Am7             D4/7
+Eu queria viver a emoção deixar acontecer
+  G             Bm7              Em7
+O amor faz a gente fazer tantas loucuras
+      C7+         Am7               D4/7
+Faz a gente mudar de cara mudar de figura
+
+C                 D7
+Queria ter você comigo
+          Bm7          Em7
+Eu não quero só ser teu amigo
+      A        Bm7    C7+
+Vou virar esse jogo e fazer
+        D4/7  D7
+Você me notar
+G
+Quero te amar sem medo
+Bm7
+ Não tem segredo
+  C7+                 D7
+Eu vou tentar te seduzir
+G
+Quero te amar sem medo
+Bm7
+ De manhã cedo
+C7+            D7
+Até a hora de dormir
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D4/7 = X X 0 2 1 3
+D7 = X X 0 2 1 2
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

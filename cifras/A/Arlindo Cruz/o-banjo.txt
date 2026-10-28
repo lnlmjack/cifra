@@ -1,0 +1,111 @@
+Arlindo Cruz - O banjo
+
+  INTROD.:C6(9) % Dm % G7 % C6(9) %%% Dm % G7 % C6(9) G7
+
+    C6(9)     A7(13)         D7(13)
+ SEM ELE NO PAGODE EU NÃO ME ARRANJO
+                  G7
+ VAI BUSCAR O MEU BANJO
+                     C6(9)  F7M
+ QUE HOJE EU QUERO VERSAR
+    C6(9)   A7           D7(9)
+ CURTIR COM A CARA DE MARMANJO
+                 G7
+ QUE CHEGOU NO PAGODE DIZENDO QUE PODE ATÉ ME
+      C6(9)  A7
+ DERRUBAR
+           G7
+....MAS SEM ELE
+
+                 Dm                   G7
+ VOU MOSTRAR PARA ELE QUE EU NÃO SOU MANÉ
+              Em
+ ME GARANTO NO BANJO
+
+                A7
+ E AINDA DIGO NO PÉ
+              Dm             G7
+ EU NÃO DEIXO FURO E NO SAMBA DURO
+             C6(9)              A7
+ NA FESTA DA PENHA JÁ DISSE QUAL É
+              Dm               G7
+ QUEM NÃO ACREDITA EMBURACA PRA VER
+                  E7              A7
+ TIRO CHINFRA ADOIDADO SE O CORO COMER
+              Dm                  G7
+ EU SOU DA ANTIGA EU NÃO GOSTO DE BRIGA
+               C6(9) A7
+ MAS NÃO VOU CORRER
+
+            G7
+....MAS SEM ELE
+
+              Dm               G7
+ TEM ATÉ FILMADORA PRA GENTE FILMAR
+             Em              A7
+ ELE PAGANDO MICO TENTANDO VERSAR
+                   Dm                G7
+ QUERO VER SE ELE AGÜENTA FICAR DE MAROLA
+            C6(9)            A7
+ COM A RAPAZIADA ATÉ O SOL RAIAR
+
+                 Dm                 G7
+ JÁ VERSEI COM ANICETO E O VELHO BABAU
+               E7                   A7
+ COM GERALDO BABÃO, PANDEIRINHO E GUARÁ
+               Dm
+ EU NUNCA ME ENTREGO
+             G7                 C6(9)  A7
+ QUEM É ESSE PREGO PRA ME ESCULACHAR
+
+           G7
+....MAS SEM ELE
+
+               Dm                 G7
+ ESSE MALA SEM ALÇA HOJE VAI ME PAGAR
+                   EM               A7
+ DÁ UM LENÇOL DE CASADO PRA ELE ENXUGAR
+               Dm
+ E SECAR TODO PRANTO
+             G7               C6(9)
+ BASTANTE CUIDADO COM ESSE COMÉDIA
+               A7
+ PRA NÃO SE AFOGAR
+                 Dm                  G7
+ ELE TEM QUE APRENDER A RESPEITAR A RAIZ
+                      E7                     A7
+ QUE UM SAMBISTA DA ANTIGA NÃO DIZ BLÁ, BLÁ, BLÁ
+                     Dm
+ QUANDO CHEGAR O MEU BANJO
+              G7              C6(9) A7
+ VAI SOBRAR OURIÇO PRA ELE SENTAR
+
+           G7
+....MAS SEM ELE
+
+FINAL
+
+C6(9) ^ Bb7 ^ A7              D7(9)
+              QUE CHEGOU NO PAGODE
+            G7              C6(9) ^ Bb7 ^
+DIZENDO QUE PODE ATÉ ME DERRUBAR
+A7               D7(9)
+ QUE CHEGOU NO PAGODE
+            G7              C6(9)
+DIZENDO QUE PODE ATÉ ME DERRUBAR
+
+VOLTA PARA A INTRODUÇÃO
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+Bb7 = X 1 3 1 3 1
+C = X 3 2 0 1 0
+C6(9) = X 3 2 2 3 3
+D7(13) = X 5 X 5 7 7
+D7(9) = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F7M = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3

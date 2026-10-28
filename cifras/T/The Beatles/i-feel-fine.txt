@@ -1,0 +1,157 @@
+The Beatles - I Feel Fine
+
+VERSÃO 1
+-======-
+          Riff1                         riff2                     riff3
+   (intro)     D7                            C7                        G
+E|----------------------------|-------------------------|--------------------------|
+B|----------------------------|-------------------------|--------------------------|
+G|---------------12-11-9-11-9-|--------------10-9-7-9-7-|--------------5-4-2-4--2--|
+D|---12-12-10-----------------|---10-10-8---------------|---5-5-3------------------|
+A|------------12--------------|-----------10------------|---------5----------------|
+E|-10-------------------------|-8-----------------------|-3------------------------|
+
+
+G7        (RIFF3)
+Baby's good to me, you know,
+
+         (riff3)                          D7 (riff1)
+she's happy as can be, you know, she said so.
+
+(riff1)           C7                G7 (riff3)
+I'm in love with her and I feel fine.
+
+
+Repete:
+
+G7
+Baby says she's mine, you know,
+                                         D7
+she tells me all the time, you know, she said so.
+                 C7               G7
+I'm in love with her and I feel fine.
+
+(refrão)
+G      Bm        C               D7
+I'm so glad that she's my little girl.
+G        Bm          Am              D7
+She's so glad, she's telling all the world.
+
+         G7
+That her baby buys her things, you know,
+                                         D7
+he buys her diamond rings, you know, she said so.
+D7                 C7              G7
+She's in love with me and I feel fine.
+D7                 C7              G
+She's in love with me and I feel fine.
+
+_______________________________________________________________________
+
+VERSÃO 2
+-======-
+Intro: Riff_4 / Riff_3 / Riff_5 / Riff_5
+
+G  Riff 5
+Baby's good to me, you know,
+ Riff_5                                    D Riff 1
+she's happy as can be, you know, she said so.
+Riff 2              C7              G Riff 5
+I'm in love with her and I feel fine.
+G   Riff 5
+Baby says she's mine, you know,
+ Riff 5                                     D Riff 1
+she tells me all the time, you know, she said so.
+ Riff 2           C7               G
+I'm in love with her and I feel fine.
+
+
+   G      Bm        C               D7
+   I'm so glad that she's my little girl.
+   G        Bm          Am              D7
+   She's so glad, she's telling all the world.
+
+         G Riff 5
+That her baby buys her things, you know,
+   Riff 5                                     D
+he buys her diamond rings, you know, she said so.
+D7                 C7              G
+She's in love with me and I feel fine.
+D7                 C7              G
+She's in love with me and I feel fine.
+
+(Solo:)
+
+
+--- Riffs e Solos ----
+
+O riff é tocado por duas guitarras na música, para ficar mais fácil
+de tocar em uma guitarra, afine sua corda E em Eb e toque os baixos
+uma casa à frente. Neste caso, segure o dedo na corda E durante todo
+o Riff.
+
+Existem diversas maneiras de tocar, ao invés de tentar reproduzir com
+exatidão a música original, toque o q vc achar q soa melhor.
+
+Os riffs mostrados abaixo são um bom ponto de partida.
+Sinta-se livre para modificá-los.
+
+  Riff 4
+E|-------------------------------|
+B|-------------------------------|
+G|---------------12--11--9---11p9|
+D|---12-12-10--------------------|
+A|------12----12-----------------|
+E|-10----------------------------|
+
+ Riff 3
+E|----------------------------|
+B|----------------------------|
+G|---------------10--9--7--7p9|
+D|----10-10-8-----------------|
+A|-------10---10--------------|
+E|--8-------------------------|
+
+  Riff 5
+E|-----------------------|
+B|-----------------------|
+G|------------5--4--2-4p2|
+D|----5-5-3--------------|
+A|------5---5------------|
+E|--3--------------------|
+
+  Riff 1
+E|---------------------|
+B|-------7-8-7-5-7p5---|
+G|---7-7---------------|
+D|---------------------|
+A|-5-------------------|
+E|---------------------|
+
+  Riff 2
+E|----------------------|
+B|----------------------|
+G|----7-7-5-----5-5-3---|
+D|----------------------|
+A|--5-------5-3-------3-|
+E|----------------------|
+
+  Solo
+E|------------------------------|
+B|-----6-----8-----6------------|
+G|-5/7---7/9---5/7---7/5--3-----|
+D|---------------------------5--|
+A|------------------------------|
+E|------------------------------|
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

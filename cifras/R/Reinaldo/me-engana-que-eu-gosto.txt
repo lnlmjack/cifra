@@ -1,0 +1,63 @@
+Reinaldo - Me Engana Que Eu Gosto
+
+Introdução: C#7 , F#m7 , B7 , E , C#7 , F#m7 , B7 , E
+
+
+C#7      F#m7  B7         E
+Que eu gosto,  que eu gosto
+                C#7
+Me engana,  me engana,  me engana
+         F#m7  B7        E
+Que eu gosto,  que eu gosto
+                 C#7
+Me engana,  me engana,  me engana
+        F#m7    B7      E6/9
+Que eu gosto,  que eu gosto
+         C#7              F#m7
+Quem é carioca esta satisfeito
+                 B7           E
+Pois esse é o jeito pra quem reclamar
+             C#º                 F#m7
+Se é  bom o governo é bom o prefeito
+           B7                 E6/9
+Cidade tranqüila como essa não há
+
+        C#7                 F#m7
+O meu capital esta sempre sobrando
+              B7                 G#m5-/7
+Não sei até quando ele vai ser assim
+                 C#7
+Por mais que eu gaste
+                F#m7
+Esta sempre almentando
+                 B7
+Por mais que eu gaste
+               E6/9
+Nunca chaga ao fim
+Refrão
+            C#7              F#m7
+A turma do rock se diz brasileira
+             B7           E
+E é sempre a primeira da MPB
+            C#º                   F#m7
+Não sofre nenhuma influência estrangeira
+        B7        E6/9
+É até filiada ao PSDB
+           C#7               F#7
+Se Chico Buarque nasceu em Caxias
+           B7            G#m5-/7
+Caitano Veloso em maria Angú
+            C#7           F#m7
+Gal Costa passeando em Madureira
+          B7                 E6/9
+Maria Bethânia sambando em Bangú
+
+----------------- Acordes -----------------
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+C#º = X 4 5 3 5 3
+E = 0 2 2 1 0 0
+E6/9 = X 7 6 6 7 7
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+G#m5-/7 = 4 X 4 4 3 X

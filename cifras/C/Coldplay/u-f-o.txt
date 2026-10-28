@@ -1,0 +1,57 @@
+Coldplay - U.F.O.
+
+Intro: Em7  D/C  G5
+
+        G               C6/9     G     D/G
+Lord I don't know which way I am going
+G                 C6/9        G   D/G
+Which way the river's gonna flow
+         G            C6/9           G  Bm7
+It just seems that up stream, I keep rowing
+Cadd9               D/G       G
+Still got such a long way to go
+D/C                            G  D/G
+Still got such a long way to go
+
+        G                 Cadd9
+And that light, hit's your eye
+  Am7
+I know, I swear, we'll find somewhere
+       F                     C
+The streets are paved with gold
+
+         G              C
+Bullets fly, split the sky
+
+     Am7
+But that's all right, sometimes, sunlight
+         F                    C
+Comes streaming through the holes
+
+G  C6  G  Bm7
+Oooohhh
+Csus2  C6  Am11  G  Gmaj7
+Ooooohh
+G   C6  G  Bm
+Ooooohh
+Cmaj7   C6  Am11  G
+Ooooohh
+
+----------------- Acordes -----------------
+Am11 = X 0 0 2 1 0
+Am7 = X 0 2 0 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C6 = 8 X 7 9 8 X
+C6/9 = X 3 2 2 3 3
+Cadd9 = X 3 5 5 3 3
+Cmaj7 = X 3 2 0 0 X
+Csus2 = X 3 5 5 3 3
+D/C = X 3 X 2 3 2
+D/G = 3 X X 2 3 2
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X
+Gmaj7 = 3 X 4 4 3 X

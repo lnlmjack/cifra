@@ -1,0 +1,59 @@
+Diogo Nogueira - Batendo a Porta
+
+Introdução:
+G7M C#m7(b5) Cm7 Bm7 E7(b9) Am7 D7(9) Dm7(9) G7(b13)
+
+C#m7(b5) Cm7 Bm7 E7(b9) Am7 D7(9) G7M C7M G7M
+
+   G7M          C7M C7(9) G7M
+Como é que vai?   Saúde boa?
+                                                                C7(9)    Bm7    A#º    Am7        E7(#5)
+Não foi à toa que você  mudou daqui pra melhorar,
+           Am7   E7(#5)      Am7
+Mas pode entrar,    a casa é sua
+        D7(9)         D7(13) D7(b13) G7M
+E nao repare a casa humilde   que   você
+   Gº      Am7     D7(b9)
+Trocou por um solar,
+       G7M   C7M   C7(9)      G7M
+Pode entrar,      fique à vontade
+         Dm7          G7(b13)         C7M
+Te deu saudade de um amor, que infelizmente já não há
+       A#º         C#º         Bm7
+Pode falar,pode sofrer,pode chorar
+
+         E7(b9)           Am7
+Porque agora você não me ganha
+                 D7(9)               Dm/F   G7
+Eu conheço essa manha,  não vou me curvar mais
+        C7M           C#º           Bm7
+Pode tentar, pode me olhar, pode odiar
+          E7(b9)           Am7
+E pode até sair batendo a porta
+              D7/9               G
+Que Inês já é morta do lado de  cá
+
+----------------- Acordes -----------------
+A#º = X 1 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C#m7(b5) = X 4 5 4 5 X
+C#º = X 4 5 3 5 3
+C7(9) = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+Cm7 = X 3 5 3 4 3
+D7(13) = X 5 X 5 7 7
+D7(9) = X 5 4 5 5 X
+D7(b13) = X 5 X 5 7 6
+D7(b9) = X 5 4 5 4 X
+D7/9 = X 5 4 5 5 X
+Dm/F = X X 3 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+E7(#5) = 0 X 0 1 1 0
+E7(b9) = X X 2 1 3 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+G7(b13) = 3 X 3 4 4 3
+G7M = 3 X 4 4 3 X
+Gº = 3 X 2 3 2 X

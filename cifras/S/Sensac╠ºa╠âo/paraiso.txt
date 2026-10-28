@@ -1,0 +1,80 @@
+Sensação - Paraíso
+
+[Intro] D6(9)  Db6(9)  Bb7M  A7(4)  A7
+
+[Solo] Bm  Bm7M  Bm7  Bm6
+       Asus  Bsus  B7(#5)
+
+     Em7(9)              D7M   B7
+Meu mundo tem amor para te dar
+   Em7(9)   A7(13)       Am7    D7
+Olha no céu azul da cor do mar
+     G7M                      F#m7  Bm7
+Olha pra mim te quero mais que tudo
+ Em7(9)    A7(13)            F#m7(b5)    B7        Em7(9)  A7(13)
+Seu mundo é  o que eu mais preciso pra sobreviver, você
+        Dm7(9)
+É o meu paraíso
+    Bb7M       Em7(b5)        A7
+O sorriso mais bonito que já vi
+          Dm7(9)
+É o meu paraíso
+   Bb7M            Gm7           C7(9)
+É a cor que o arco-íris deu pra mim
+
+            F7M
+É tudo que preciso
+              A7   A7(b13)/G
+Um sonho uma ilusão
+               Dm7(9)
+Que me deixou perdido
+Bb7M          Gm7         C7(9)
+Perdido nos caminhos que segui
+                 F7M
+Pra encontrar contigo
+           Em7(b5)   A7    Am7  D7(9)
+Pro nosso caso antigo renascer
+        G7M
+O nosso mundo de amor
+             Gm6
+É muito mais que isso
+     D7M(9)         D6(9)
+Isís do meu olhar
+                B7(4)  B7  B7(b9)
+Eu sou o seu Narciso
+          Em7(9)
+O amor do meu coração
+               A7(13)    Am7  D7(9)
+Transforma o mundo em paixão
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(4) = X 0 2 0 3 0
+Am7 = X 0 2 0 1 0
+Asus = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+B7(#5) = X 2 X 2 4 3
+B7(b9) = X 2 1 2 1 X
+Bb7M = X 1 3 2 3 1
+Bm = X 2 4 4 3 2
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+Bm7M = X 2 4 3 3 2
+Bsus = X 2 4 4 4 2
+C7(9) = X 3 2 3 3 X
+D6(9) = X 5 4 2 0 0
+D7 = X X 0 2 1 2
+D7(9) = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+Db6(9) = X 4 3 3 4 4
+Dm7(9) = X 5 3 5 5 X
+Em7(9) = X 7 5 7 7 X
+Em7(b5) = X X 2 3 3 3
+F#m7 = 2 X 2 2 2 X
+F#m7(b5) = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

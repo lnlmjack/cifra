@@ -1,0 +1,61 @@
+Grupo Clareou - Teu Abrigo
+
+[Intro]  D9  A/D  C7+  G7+  C7+  A/D  G7+/D  F#/D
+
+D6/9            D9(#5)     D6/9                 D9(#5)  F#/D
+  Ficou de mal comigo amor, levou á sério o que eu falei
+G6/9                     F#m7/11                               G6/9
+  Bateu a pota e nem quis ouvir, as coisas que eu tinha pra contar
+                          F#m7/11                              C7+
+Mesmo com mil motivos pra sorrir, você se esquiva e começa a brigar
+ A7sus4           A7/9
+E não quer conversar
+
+D6/9                D9(#5)    D6/9                   D9(#5)  F#/D
+  Tá perdoada, eu entendo bem, esse teu ciclo de insatisfação
+G6/9                   F#m7/11                            G6/9
+  Só não esquece que eu estou aqui, pra quando quiser conversar
+                         F#m7/11                           C7+
+E o amor que eu sinto por você, ninguém no mundo poderá te dar
+   A7sus4    Em7  G7+  F#m7  A7sus4
+Poderá te dar
+D6/9                         Bm7                                 Em7
+Abre aí, só to querendo conversar contigo, meu peito sempre foi o teu abrigo
+
+                               A7sus4  A7/9
+E o teu abrigo não quer mais brigar
+
+Bm7/11                               D/E                   E7             Em7/9
+Abre aí, se a gente discutiu já não importa, quem esta do outro lado dessa porta
+
+   Bm7   Bm6   G/B     Bm6  Bm7  Bm6         Em7  G7+  F#m7  A7sus4
+Te ama e nunca vai te abandonar,     abre aí
+   G9/B        G/A          D6/9
+Te ama e nunca vai te abandonar
+
+              D9(#5)      D6/9
+Ficou de mal comigo meu amor
+
+----------------- Acordes -----------------
+A/D = X X 0 6 5 5
+A7/9 = 5 X 5 4 2 X
+A7sus4 = X 0 2 0 3 0
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+Bm7/11 = 7 X 7 7 5 X
+C7+ = X 3 2 0 0 X
+D/E = X X 2 2 3 2
+D6/9 = X 5 4 2 0 0
+D9 = X X 0 2 3 0
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+F#/D = X 5 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7/11 = 2 X 2 2 0 X
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G6/9 = X X 5 4 5 5
+G7+ = 3 X 4 4 3 X
+G7+/D = X 5 5 4 7 X
+G9/B = 7 X X 7 8 5

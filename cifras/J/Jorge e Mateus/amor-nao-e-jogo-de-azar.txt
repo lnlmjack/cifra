@@ -1,0 +1,102 @@
+Jorge e Mateus - Amor Não É Jogo de Azar
+
+Intro: F# F#4 F# C# D#m D#4 D#m C#/B C# F#  F#4  F#
+
+E|---------------------------------------------------------------------------9-----------|
+B|----2--4-2-----2-6-6-7-6--------7--7-9-7--7-7-7-6---6--6-6-6--------7-9-7-9^(2)9ν-7----|
+G|--3----4-3--2/3-3-------8-6--6/8--8---------------8----------8-6-8--6-8-6--------------|
+D|-4-4-----------------------------------------------------------------------------------|
+A|---------------------------------------------------------------------------------------|
+E|---------------------------------------------------------------------------------------|
+
+F#                      G#m
+Tá na hora de você voltar pra mim
+    B                          F#
+E dar mais uma chance pra nós dois
+F#                          B
+Meu bem a gente já se machucou demais
+F#            C#          F#  C#
+Está na hora de voltar atrás
+
+F#                            G#m
+Melhor deixar falar a voz do coração
+    B                     F#
+Preciso de você, você de mim
+
+F#                             B
+Pra que fazer de conta que já não da mais
+F#           C#           F#
+Está na hora de voltar atrás
+
+Refrão:
+F#                 C#
+E a gente ainda se ama
+                 D#m
+Está na cara, está no ar
+                    C#              B
+Fica chorando escondido é tempo perdido
+            F#
+Amor não é jogo de azar
+F#                 C#
+E a gente ainda se ama
+                 D#m
+Está escrito no coração
+            C#                 B
+A nossa pirraça já perdeu a graça
+          F#
+chega de solidão
+
+Solo: ( F# C# B C# F# F#4 F# )
+
+E|-------------------------------7------|
+B|-----7-7--9-9--7-6-7-9--7--6/8--8h6-7\|
+G|-6/8--------------------------------6\|
+D|--------------------------------------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+F#                            G#m
+Melhor deixar falar a voz do coração
+    B                     F#
+Preciso de você, você de mim
+F#                             B
+Pra que fazer de conta que já não da mais
+F#           C#           F#
+Está na hora de voltar atrás
+
+Refrão 2x:
+F#                 C#
+E a gente ainda se ama
+                 D#m
+Está na cara, está no ar
+                    C#              B
+Fica chorando escondido é tempo perdido
+            F#
+Amor não é jogo de azar
+F#                 C#
+E a gente ainda se ama
+                 D#m
+Está escrito no coração
+            C#                 B
+A nossa pirraça já perdeu a graça
+          F#
+chega de solidão
+
+(solo final)
+E|-------------|
+B|--7/6-7-9-7--|
+G|-----6-6--6--|
+D|-------------|
+A|-------------|
+E|-------------|
+
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#/B = X 2 3 1 2 X
+D#4 = X 6 8 8 9 6
+D#m = X X 1 3 4 2
+F# = 2 4 4 3 2 2
+F#4 = 2 4 4 4 2 2
+G#m = 4 6 6 4 4 4

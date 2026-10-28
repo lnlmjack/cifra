@@ -1,0 +1,49 @@
+Dominguinhos - Pode Morrer Nessa Janela
+
+[Intro] C  F  C  F
+        C  G7  C  F
+        Em  F  C  G7  C  F7
+
+C                F7          C
+Por mim pode morrer nessa janela nem
+            G7                C  F7
+Que nem te ligo, que nem te ligo
+    C            F7             C
+E agora que arranjei outra mais bela
+             Dm    G7            C
+Tô de mau contigo, tô de mau contigo
+C             Gm  C
+Tú vais aprender
+F
+Como é bom chorar
+Em
+Como é bom fazer
+       Bb7    A     Dm  E7
+Um coração se machucar
+Am                 Gm   C
+Tanto mal que me fizeste
+
+       F            Em
+Tanto bem que só te fiz
+     F          Em
+Te perdi a paciência
+        Dm           G     C  F7
+Viva em paz que eu sou feliz
+
+[Final] C  F  C  F
+        C  G7  C  F
+        Em  F  C  G7  C  F7
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bb7 = X 1 3 1 3 1
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

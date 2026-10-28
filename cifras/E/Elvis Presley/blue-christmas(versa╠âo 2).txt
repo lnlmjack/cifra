@@ -1,0 +1,53 @@
+Elvis Presley - Blue Christmas
+
+ Riff 1:               Riff 2:               Riff 3:
+    e||------------||     e||-----------||      e||-----------------||
+    B||------------||     B||-----------||      B||-----------------||
+    G||------------||     G||-----------||      G||-----------------||
+    D||------------||     D||-----------||      D||-----------------||
+    A||--0---1--2--||     A||-----------||      A||---s----s----s---||
+    E||------------||     E||--5--4--3--||      E||--2/3--2/3--2/3--||
+
+                E    Riff 1  E             B7       Riff 1
+    I'll have a Blue         Christmas without you
+    B7                            E           Riff 1
+    I'll be so blue just thinking about you
+        E7                  A                   Riff 2
+    Decorations of red on a green Christmastree
+    F#                Riff 1  B7
+    Won't be the same if      you're not here with me
+
+    [nc]     Riff 1 E    Riff 1  E                B7       Riff 1
+    And when those  blue         snowflakes start falling
+    B7                                    E        Riff 3   E
+    That's when those blue mem'ries start calling
+
+              E7                         A            F#
+    You'll be doin' all right, with your Christmas of white,
+        B7                               E          Riff 1
+    But I'll have a blue, blue blue blue Christmas
+
+    [nc]        E    Riff 1  E                B7       Riff 1
+    I'll have a Blue         Christmas that's certain
+    B7                                   E        Riff 3   E
+    And when those blue heartaches start hurting
+              E7                         A            F#
+    You'll be doin' all right, with your Christmas of white,
+        B7                               E         Riff 1
+    But I'll have a blue, blue blue blue Christmas
+              E7                         A            F#
+    You'll be doin' all right, with your Christmas of white,
+        B7                Riff 3         E          Riff 1
+    But I'll have a blue, blue blue blue Christmas
+        B7                Riff 3         E          Riff 1    E
+    Ooh I'll have a blue, blue blue blue Christmas
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

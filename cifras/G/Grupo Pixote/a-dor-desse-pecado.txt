@@ -1,0 +1,53 @@
+Grupo Pixote - A Dor Desse Pecado
+
+
+Solo: 10,12,14,12,10 / 19,17,16,15
+      10,12,14,12,10 / 17,14
+      20,22,23,22,20,14,12,10,20
+      20,22,23,22,20,14 %%%%%%%%
+
+
+D6/9          Gm7/9                D6/9
+Eu vi uma vida melhor longe do teu amor
+            Am7/9     D7         G7+   G6
+Confesso me enganei eu ando bem pior
+                Em7                    Bm7
+eu vejo a noite amanhecer e cada dia sem você
+                 Em7        A7            D6/9
+é mais dificil o meu viver, to me sentindo só
+             Gm7/9            D6/9
+Eu me deixei levar, mas que decepção
+             Am7/9    D7          G7+    (F#7)
+eu vim me retratar, pedir o teu perdão
+
+Refrão
+
+    Bm7                E7/9
+Por favor esquece que já te magoei
+Bm7         E7/9       A7+
+a dor desse pecado eu paguei
+            A5+      F#m7
+agora estou carente demais
+F#7   Bm7            E7/9        Bm7
+Meu amor, preciso de você pra sorrir
+           E7/9       A7+
+preciso de você pra dormir
+             E7/9        A7/4  A7
+estar no seu perdão minha paz
+
+----------------- Acordes -----------------
+A5+ = X 0 3 2 2 0
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+A7/4 = X 0 2 0 3 0
+Am7/9 = X X 7 5 8 7
+Bm7 = X 2 4 2 3 2
+D6/9 = X 5 4 2 0 0
+D7 = X X 0 2 1 2
+E7/9 = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+G6 = 3 X 2 4 3 X
+G7+ = 3 X 4 4 3 X
+Gm7/9 = X X 5 3 6 5

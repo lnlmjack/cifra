@@ -1,0 +1,37 @@
+Leci Brandão - Auto-estima
+
+Introdução: Bm  F#m  Bm  F#m
+
+    Bm           Bm7+         F#m                      F#m7+
+Foi você quem pintou os sonhos, e em seguida a tela rasgou
+    B7/13                             Bm         D
+Me iludiu fez de gato e sapato quem de fato a vida lhe entregou
+Bm              Bm7+           F#m                    F#m7+
+Foi você quem jurava mentindo, e sorrindo fingia me amar
+    B7/6                      D         Bm         C#7
+Me feriu de um modo profundo, e agora quer me restaurar
+ D7+              E/D        C#m             F#7/6          F#7/5+
+Nada mais dá pra fazer, você usou e abusou do meu bem-querer
+ Bm                    E7               F#7
+Nada mais dá pra fazer, porque agora ?
+ D7+              E/D          C#m               F#7/6        F#7/5+
+Nada mais dá pra fazer, você usou e abusou do meu bem-querer
+ Bm              E/D               F#7
+Nada mais dá pra fazer pode ir embora
+
+----------------- Acordes -----------------
+B7/13 = X 2 X 2 4 4
+B7/6 = X 2 X 2 4 4
+Bm = X 2 4 4 3 2
+Bm7+ = X 2 4 3 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D7+ = X X 0 2 2 2
+E/D = X 5 X 4 5 4
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2
+F#7/5+ = 2 X 2 3 3 2
+F#7/6 = 2 X 2 3 4 X
+F#m = 2 4 4 2 2 2
+F#m7+ = X X 4 6 6 5

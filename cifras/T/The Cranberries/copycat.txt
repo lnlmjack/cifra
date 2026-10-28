@@ -1,0 +1,149 @@
+The Cranberries - Copycat
+
+Symbols:
+
+h=hammer-on
+/=slide-up
+\=slide-down
+
+CHORDS:
+
+-Gm=355333
+-Cm=x35343
+-CMaj=335553
+
+INTRO:
+e|---3---|
+B|---4---|
+G|---3---|
+D|---5---|
+A|---3---|
+E|---x---|...Repeat many times, rapidly.
+
+
+e|-------------------|-------------------|
+B|-4-4-1h4-4-4--3-3--|-4-4-1h4-4-4--3-3--|
+G|-------------------|-------------------|(x2 times)
+
+e|--------------------------|----------------|
+B|--------------------------|-4-4-1h4-4-4-3--|
+G|-0--0-0--2-2h3-3-3--3-3h5-|----------------|
+
+e|-------------------|-------------------|
+B|-4-4-1h4-4-4--3-3--|-4-4-1h4-4-4--3-3--|
+G|-------------------|-------------------|
+
+1st VERSE:
+Gm                            Cm
+"They had an accident and they never noticed anyway
+Gm                              Cm
+ A lack of originality coundn't focus on the day
+Gm                      Cm
+ So much for the radio everybody sounds the same
+Gm                                        Cm
+ Everybody wears the same clothes now and everybody plays the game
+
+
+CHORUS:
+Gm
+CMaj          Cm
+ copy copy copy copy yourself
+Gm
+ copycat, copycat, copycat
+CMaj          Cm
+ copy copy copy everyone else (x 2 times)
+
+And then:
+e|-------------------|-------------------|
+B|-4-4-1h4-4-4--3-3--|-4-4-1h4-4-4--3-3--|
+G|-------------------|-------------------|(x2 times)
+
+e|--------------------------|----------------|
+B|--------------------------|-4-4-1h4-4-4-3--|
+G|-0--0-0--2-2h3-3-3--3-3h5-|----------------|
+
+e|-------------------|-------------------|
+B|-4-4-1h4-4-4--3-3--|-4-4-1h4-4-4--3-3--|
+G|-------------------|-------------------|
+
+2nd VERSE(the same as 1st one):
+
+"I've got a great idea I will change things on my own
+ I see my vision very clear, woudn't want to be another clone
+ So much for the radio, the radio is sad
+ Sad, sad, sad".
+
+After this, play CHORUS part again.
+
+SOLO:
+e|----------------|----------3/6--|
+B|----------------|---------------|
+G|--------------7-|---------------|
+D|-5/8-5--5-5/8---|-5/8-5--5-5/8--|
+A|----------------|---------------|
+E|----------------|---------------|
+"Copy everyone else..."
+e|----------------------------|
+B|-------------6--------------|
+G|-7-7\3-----7----7-7\3-------|
+D|-------5/8------------5-5\3-|
+A|----------------------------|
+E|----------------------------|
+"Copy everyone else..."
+
+3rd VERSE:
+
+"They had an accident and they never noticed anyway,
+e|--3---3-3-3--|
+B|--3---3-3-3--|
+G|--3---3-3-3--|
+D|--5---5-5-5--|
+A|--5---5-5-5--|
+E|--3---3-3-3--|
+
+ A lack of originality coundn't focus on the day,
+e|--3---3-3-3--|
+B|--3---3-3-3--|
+G|--3---3-3-3--|
+D|--5---5-5-5--|
+A|--5---5-5-5--|
+E|--3---3-3-3--|
+
+ So much for the radio everybody sounds the same,
+e|--3---3-3-3--|
+B|--3---3-3-3--|
+G|--3---3-3-3--|
+D|--5---5-5-5--|
+A|--5---5-5-5--|
+E|--3---3-3-3--|
+
+ Everybody wears the same clothes now and
+ Everybody plays the game".
+e|---3---|
+B|---4---|
+G|---3---|
+D|---5---|
+A|---3---|
+E|---x---|...Repeat many times, rapidly.
+
+
+Repeat CHORUS
+
+"Copy everyone else"... (x4 times)
+
+During that, play this:
+e|-------------------|-------------------|
+B|-4-4-1h4-4-4--3-3--|-4-4-1h4-4-4--3-3--|
+G|-------------------|-------------------|(x2 times)
+
+e|--------------------------|----------------|
+B|--------------------------|-4-4-1h4-4-4-3--|
+G|-0--0-0--2-2h3-3-3--3-3h5-|----------------|
+
+e|-------------------|-------------------|
+B|-4-4-1h4-4-4--3-3--|-4-4-1h4-4-4--3-3--|
+G|-------------------|-------------------|
+
+----------------- Acordes -----------------
+Cm = X 3 5 5 4 3
+Gm = 3 5 5 3 3 3

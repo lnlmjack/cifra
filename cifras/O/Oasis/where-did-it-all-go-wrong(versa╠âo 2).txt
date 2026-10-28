@@ -1,0 +1,48 @@
+Oasis - Where Did It All Go Wrong
+
+intro  Em7 Dsus2 Em7 Dsus2
+
+Verse 1  Em7 D Dsus2
+         Em7 D Dsus2
+         Cadd9* Dsus2 Em7 Dsus2
+
+Verse 2 Em7 D Dsus2
+        Em7 D Dsus2
+        Cadd9* Dsus2
+        A7sus4 Cadd9
+
+Chorus 1 Em Em7 Dsus2 A7sus4
+         Em Em7 Dsus2 A7sus4 C
+
+Link    Em7 Dsus2 Em7 Dsus2
+
+Verse 3 Em7 Dsus2 Em7 Dsus2
+        Cadd9 Dsus2
+        A7sus4 Cadd9
+        A7sus4 Cadd9
+
+
+Chorus 2 same as Chorus 1 but leave out the C at the end
+
+solo Cadd9 G D Em
+     Cadd9 G D Em
+     Cadd9 G D Em
+     Cadd9   B7
+
+Chorus 3 same as Chorus 2
+
+Chorus 4  Em Em7 Dsus2 A7sus4
+          Em Em7 Dsus2 A7sus4 Cadd9 Em
+
+Thats it!
+
+----------------- Acordes -----------------
+A7sus4 = X 0 2 0 3 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+Cadd9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Dsus2 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

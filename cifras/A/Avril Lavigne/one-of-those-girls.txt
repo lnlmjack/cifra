@@ -1,0 +1,127 @@
+Avril Lavigne - One Of Those Girls
+
+Intro:
+Guitar 1: Palm muted
+D#|------| 
+A#|------| 
+F#|------| 
+C#|-0--0-| 
+G#|-0--0-| 
+C#|-0--0-| 
+then
+    D5    E5    G5 
+D#|-----------------| 
+A#|-----------------| 
+F#|-----------------| 
+C#|-0-0---2-2---5-5-| (x2) 
+G#|-0-0---2-2---5-5-| 
+C#|-0-0---2-2---5-5-| 
+Guitar 2: * means harmonics 
+D#|-------------------------| 
+A#|-------------------------| 
+F#|-7*----7*----7*----7*----| 
+C#|----7*----7*----7*----7*-| 
+G#|-------------------------| 
+C#|-------------------------| 
+
+then
+D#|--------------------| 
+A#|--------------------| 
+F#|-7-7--9-9--7-7/11\9-| 
+C#|-x-x--x-x--x-x/-x\x-| (x2) 
+G#|-5-5--7-7--5-5/-9\7-| 
+C#|--------------------| 
+
+Verse 1: Palm mute
+D5                        G5
+  I know you're a kind of girl You only care about one thing
+B5                                G5
+  Who you've seen or where you've been Who's got money
+D5                        G5
+  I see that look in your eyes It tells a million lies
+B5                       G5
+  But deep inside I know why You're talking to him
+
+Refrain 1:
+F#5                  G5          E/G#                      A5
+  I know what you're all about I really hope he figures it out
+
+Chorus 1:
+      D5                  E5
+She's one of those girls, nothing but trouble
+G5
+Just one look, and now you're seeing double
+D5           E5                G5
+  Before you know it she'll be gone
+B5         A5
+Off to the next one
+D5                 E5
+She's so good that you won't see it coming
+       G5
+She'll take you for a ride and you'll be left with nothing
+D5          E5               G5
+  You'll be broken she'll be gone
+B5         A5
+Off to the next one
+
+Post Chorus:
+D5 E5 G5 (x2)
+Verse 2:
+D5                             G5
+  She's going to be the end of you At least that's what they say
+B5                                G5
+  It's been a while, you're in denial And now it's too late
+D5                               G5
+  The way she looks it makes you high All the warning signs
+B5                                G5
+  Cause her blonde hair, her blue eyes It makes you want to die
+
+Refrain 2:
+F#5                 G5          E/G#                       A5
+  I know what she's all about I really hope you figured it out
+
+(Repeat Chorus 1)
+
+Bridge:
+B5                                      G5
+  You know it's a game, You know it's a game
+                                     D5
+She's keeps playing around with your head
+                         A5
+Playing around with your head
+B5                      G5
+  She's so insane, So insane
+                 D5
+She's the one to blame
+                 A5
+She's the one to blame
+
+Chorus 2:
+      D5                  E5
+She's one of those girls, nothing but trouble
+G5
+Just one look, and now you're seeing double
+D5           E5                G5
+  Before you know it she'll be gone
+Bb5        A5
+Off to the next one
+D5                 E5
+She's so good that you won't see it coming
+       G5
+She'll take you for a ride and you'll be left with nothing
+D5          E5               G5
+  You'll be broken she'll be gone
+B5         A5
+Off to the next one
+
+Outro: D5  G5  B5  G5 A5 D5  E5  G5  Bb5 A5  D5
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+Bb5 = X 1 3 3 X X
+D5 = X 5 7 7 X X
+E/G# = 4 X 2 4 5 X
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+G5 = 3 5 5 X X X

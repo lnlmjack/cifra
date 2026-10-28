@@ -1,0 +1,73 @@
+The Beatles - Some Other Guy
+
+(intro)
+
+    A  C
+E|-------|
+B|-------|
+G|----5~-|
+D|-7~-5~-|
+A|-7~-3~-|
+E|-5~----|
+
+     D7
+E|-----------|
+B|-----------|
+G|-5-7-7-5-7-|
+D|-5-7-7-5-7-|
+A|-----------|
+E|-----------|
+
+        G7
+E|----------------|
+B|----------------|
+G|-10-12-12-10-12-|
+D|-10-12-12-10-12-|
+A|----------------|
+E|----------------|
+
+
+        A7
+E|----------------|
+B|----------------|
+G|-12-14-14-12-14-|
+D|-12-14-14-12-14-|
+A|----------------|
+E|----------------|
+
+D                                                    G7
+Some other guy now, has taken my love away from me.  Oh now.
+                         D
+Some other guy now, has taken away my sweet desire.  Oh now.
+
+Some other guy now, I just don't wanna hold my hand.  Oh  A7  now.
+                                         D9    D      D7
+I'm the lonely one.  As lonely as I can feel all right.
+
+Some other guy now, is sippin' up the honey like a yellow dog.  Oh now.
+
+Some other guy now, has taken my love just like I'm gone.  Oh now.
+
+Some other guy now, has taken my love away from me.  Oh now.
+
+I'm the lonely one.  As lonely as I can feel all right.  Oh-oh-hoho.
+
+{ D  G  D  A7  D )
+
+Some other guy now, is makin' me very very mad.  Oh now.
+Some other guy now, is makin' my past seem oh, so bad.  Oh now.
+Some other guy now, she was the first girl I ever had.  Oh now.
+I'm the lonely one.  As lonely as I can feel all right.  Oh-oh-hoho.
+                   D9   D    A7   C     D    D7add9
+I'm a'talkin' to you, right now.   Hey,  Ow!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7add9 = X 5 4 5 5 X
+D9 = X X 0 2 3 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

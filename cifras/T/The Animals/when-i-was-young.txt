@@ -1,0 +1,129 @@
+The Animals - When I Was Young
+
+Intro:
+
+        Em
+        /  /  /  /   /  /  /  /
+
+        [5X: 1: bass (eighth notes) w/cymbal
+             2: electric guitar (tune low E down to D and back up)
+             3: acoustic guitar enters
+             4: violin enters]
+
+Verse 1:
+
+             Em                 D
+        The rooms were so much colder then
+            Em           D
+        My father was a soldier then
+
+             Em              D
+        And times were very hard
+                    Em
+        When I was young
+
+        Riff 1 [guitar and violin, arranged for two guitars]:
+
+        (Em)
+         v          v          v          v             v
+        ------------12-14-12---10-12-10---9--10--9----|-7--|
+        ------------10-12-10---8--10-8----7--8---7----|-5--|
+        ----------------------------------------------|----|
+        ----------------------------------------------|----|
+        ----------------------------------------------|----|
+        ----------------------------------------------|----|
+        (young)
+
+             /D     Em   [Riff 1]
+        When I was young
+
+Verse 2:
+
+        I smoked my first cigarette at ten
+        And for girls I had a bad yen
+        And I had quite a ball
+        When I was young [Riff 1]
+
+        Em
+        / / / /  / / / /
+
+Bridge:
+
+             G                   Em
+        When I was young it was more important
+                                                        D
+        Pain, more pain, but I laughed so much louder, yeah
+                    Em
+        When I was young [Riff 1]
+            (D)     Em
+        When I was young [Riff 1]
+
+Verse 3:
+
+        I met my first love at thirteen
+        She was brown and I was pretty green
+        And I learned quite a lot
+        When I was young [Riff 1]
+            /D      Em [N.C.]
+        When I was young
+
+Instrumental break:
+
+        [key changes to Gm]:
+
+        Gm       F       [3X]
+        / / / /  / / / /
+        Gm
+        / / / /  / / / /
+
+Chorus [in Bb]
+
+             Bb                  Gm
+        When I was young it was more important
+                                                           F
+        Pain, more pain, though I laughed so much louder, yeah
+                    Gm
+        When I was young
+
+        Riff 2 [guitar and violin, arranged for two guitars]:
+
+        (Gm)
+         v          v          v          v             v
+        ------------15-17-15---14-15-14---12-14--12---|-10-|
+        ------------13-15-13---11-13-11---10-11--10---|-8--|
+        ----------------------------------------------|----|
+        ----------------------------------------------|----|
+        ----------------------------------------------|----|
+        ----------------------------------------------|----|
+        (young)                *     *       *  parts do not always track
+                                                in parallel fifths
+
+                    Gm  [N.C.]
+        When I was young
+
+Verse 4 [chords implied by bass]:
+
+             Gm                 F
+        My faith was so much stronger then
+        Gm             F
+        I believed in fellow men
+        Gm                 F
+        And I was so much older then
+                    Gm  [acoustic guitar strums Gm chord; violin enters]
+        When I was young
+        When I was young
+
+Coda:
+
+        [band re-enters]
+
+        (Gm)
+        When I was young  [repeat to fade]
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

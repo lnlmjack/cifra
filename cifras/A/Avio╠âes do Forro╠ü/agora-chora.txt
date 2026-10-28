@@ -1,0 +1,147 @@
+Aviões do Forró - Agora Chora
+
+INTRO
+      F#m             D      A         F#m          D      A E
+e|------------------------7-9--------------------------------------
+B|----9-10-9---------9-10-----10-9-----9-10---------7--------------
+G|------------9-11--------------------------6-10-------7--9--------
+D|-----------------------------------------------------------9-----
+A|-----------------------------------------------------------------
+E|-----------------------------------------------------------------
+
+      F#m          D     A E
+e|--------------------------------
+B|----9-10---------7--------------
+G|---------6-10-------7--9--------
+D|--------------------------9-----
+A|--------------------------------
+E|--------------------------------
+
+Obs.: O início é no teclado, aí esses são os acordes tocados pelo teclado
+e o dedilhado também feito no teclado que aqui tá adaptado pra guitarra ou violão.
+
+(Xandy)
+
+
+ F#m    Bm7                       E
+Sei     que nada vai fazer você voltar
+ A                          D
+Mas por amor eu tenho que tentar
+
+Nesse D tem um pequeno solinho:
+
+e|-------------------------
+B|-------------------------
+G|---6h7p6-----------------
+D|----------7--4-----------
+A|----------------5--------
+E|-------------------7-----
+
+ Bm7                       E/G#
+Eu sei que não confia mais em mim
+      F#m
+E eu mereço...
+   D               E       C#m7             F#m
+...toda a sua indiferença, o desprezo em seu olhar
+ D                 E        F#m
+Mas ainda há tempo pra recomeçar
+D                    E            C#m7          F#m
+Reconheço os meus defeitos, mas na vida quem não tem?
+D                  E        F#m
+É só seu o meu amor, de mais ninguém
+
+(Solange)
+
+D5                       E5               F#m5
+Você sabe que eu te amo e pra sempre vou te amar
+  D5                          E5             A5 G#m5    F#m5
+Mas tomei a decisão de te esquecer de vez, vai ser melhor assim
+F#m5 E5 C#m5  D5        C#
+Pois já te    dei chance demais
+
+(Refrão Solange)
+
+  F#m            Bm7                             E
+Agora chora. E vai sentir na pele tudo o que eu passei
+ A                               D (entra o solinho do início)
+Nas madrugadas que sozinha te esperei
+      Bm7                           E
+Já suportei demais, não quero mais sofrer
+
+  F#m          Bm7                            E
+Agora chora e prova um pouco do sabor da solidão
+       A                       D (entra o solinho do início)
+O meu amor já escapou das tuas mãos
+         Bm7                   E/G#
+Agora é tarde pra você se arrepender
+    F#m
+Agora chora...
+
+SOLO
+          D                C#m7                  Bm7     E     F#m
+e|------------------------------------------------------------------------
+B|------------------------------------------7b9-7-7-5-7--5-7-5-3-2--14----
+G|-------7h9-7b9-7-6-7--------4-6b7-6-4-6---------------------------------
+D|---7/9-----------------6/7----------------------------------------------
+A|------------------------------------------------------------------------
+E|------------------------------------------------------------------------
+
+             D                          C#m7                Bm7        F#m
+e|--------10-12-10b12-10-9-10--------7-9-9b10-9-7-7-------5-7b9-7-5-7--5-4-2--/14---
+B|--10/12-----------------------9/10------------------7/9---------------------------
+G|----------------------------------------------------------------------------------
+D|----------------------------------------------------------------------------------
+A|----------------------------------------------------------------------------------
+E|----------------------------------------------------------------------------------
+
+Vamo descontar os efeitos que eu tirei a música no violão xD
+
+(Xandy)
+D               E       C#m7             F#m
+Toda a sua indiferença, o desprezo em seu olhar
+D                  E        F#m
+Mas ainda há tempo pra recomeçar
+D                    E            C#m7          F#m
+Reconheço os meus defeitos, mas na vida quem não tem?
+D                  E        F#m
+É só seu o meu amor, de mais ninguém
+
+(Refrão Solange)
+D5                       E5               F#m5
+Você sabe que eu te amo e pra sempre vou te amar
+D5                          E5             A5 G#m5    F#m5
+Mas tomei a decisão de te esquecer de vez, vai ser melhor assim
+F#m5 E5 C#m5  D5        C#
+Pois já te    dei chance demais
+
+  F#m            Bm7                             E
+Agora chora, e vai sentir na pele tudo o que eu passei
+ A                               D (entra o solinho do início)
+Nas madrugadas que sozinha te esperei
+      Bm7                           E
+Já suportei demais não quero mais sofrer
+
+  F#m          Bm7                            E
+Agora chora e prova um pouco do sabor da solidão
+       A                       D (entra o solinho do início)
+O meu amor já escapou das tuas mãos
+         Bm7                   E/G#
+Agora é tarde pra você se arrepender
+    F#m
+Agora chora...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+C#m5 = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E5 = 0 2 2 X X X
+F#m = 2 4 4 2 2 2
+F#m5 = 2 4 4 2 2 2
+G#m5 = 4 6 6 4 4 4

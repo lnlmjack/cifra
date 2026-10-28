@@ -1,0 +1,71 @@
+The Police - De Do Do Do, De Da Da Da
+
+[Intro]
+
+Riff 1:
+    A9      A   A4      A         E         D
+E|--------------------------------0---------2-2-|
+B|--2-2-2-2-2---3-3-3-3-2---------0---------3-3-|
+G|--4-4-4-4-2---4-4-4-4-2---------1---------2-2-|
+D|--2-2-2-2-2---2-2-2-2-2---------2---------0-0-|
+A|--------------------------------2-------------|
+E|------------------------0-0-0-0-0--0-0-0-0----|
+
+Riff 2:
+  A9        F#m        C#m7
+E|------------------------------|
+B|------------------------------|
+G|--4--4--4---4--4--4---4--4--4-|
+D|---2---2-----2---2-----2---2--|
+A|-0--0-0--------------4--4-4---|
+E|-----------2--2-2-------------|
+
+(Riff 2)
+
+A9         F#m   C#m7
+Don't think me unkind
+A9        F#m     C#m7
+Words are hard to find
+A9       F#m                 C#m7
+The only cheques I've left unsigned
+A9                F#m         C#m7
+From the banks of chaos in my mind
+
+D                          E
+And when their eloquence escapes me
+D                             E
+Their logic ties me up and rapes me
+
+(Riff 1)
+   A9       A   A4       A   E                        D
+De do do do, de da da da, is all I want to say to you
+   A9       A   A4       A   E                                D
+De do do do, de da da da, their innocence will pull me through
+   A9       A   A4       A   E                        D
+De do do do, de da da da, is all I want to say to you
+   A9       A   A4       A   E                                   D
+De do do do, de da da da, they're meaningless and all that's true
+
+(Riff 2)
+A9       F#m           C#m7
+Poets, priests and politicians
+A9            F#m                   C#m7
+Have words to thank for their positions
+A9          F#m                  C#m7
+Words that scream for your submission
+A9             F#m                     C#m7
+And no one's jamming their transmission
+
+D                          E
+And when their eloquence escapes me
+D                             E
+Their logic ties me up and rapes me
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A9 = X 0 2 2 0 0
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

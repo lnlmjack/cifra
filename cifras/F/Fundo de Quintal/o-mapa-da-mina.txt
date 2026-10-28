@@ -1,0 +1,48 @@
+Fundo de Quintal - O Mapa da Mina
+
+Introdução: E : C#7 : F#m : B7 : G#m : C#7 : F#m : B7 :...
+  E        C#7
+Eu vou pensar...
+        F#m             B7           G#m    C#7
+Eu vou pensar se vou te dar o mapa da mina
+       F#m                  B7       E
+E até pensar se vou te dar o mapa da mina
+   C#7                F#m        B7          E
+Você não vai me comprar jamais... com sua propina
+                     Bm7                    E7/9            A7+
+Pois eu não me vendo moço, sou dono, sou osso e osso não inclina
+   A6            Am6               D7/9              G#m
+Mas se chegar sua hora e na hora provar que é gente fina
+  C#7                  F#m    B7         E
+Pode ser que eu vá te dar...   o mapa da mina
+ Gº            F#m            B7           E
+E até posso te dar pra ajudar... o mapa da mina
+refrão...
+   C#7               F#m          B7                E
+Você não vai me encontrar por aí... em qualquer esquina
+                 Bm7                E7/9                   A7+
+Pois tenho minha bagagem, sou da malandragem, ninguém me ensina
+
+  A6                 Am6                D7/9             G#m
+Mas se eu provar teu veneno e for café pequeno, não estricnina
+   C#7               F#m    B7           E
+Pode ser que eu vá te dar...   o mapa da mina
+  Gº           F#m            B7           E
+E até posso te dar pra ajudar... o mapa da mina
+refrão...
+solo...
+: C#7 : F#m : B7 : G#m : C#7 : F#m : B7 : E : C#7 : F#m : B7 : G#m : C#7 : F#m : B7 : E :...
+
+----------------- Acordes -----------------
+A6 = 5 X 4 6 5 X
+A7+ = X 0 2 1 2 0
+Am6 = 5 X 4 5 5 X
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+D7/9 = X 5 4 5 5 X
+E = 0 2 2 1 0 0
+E7/9 = X X 2 1 3 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4
+Gº = 3 X 2 3 2 X

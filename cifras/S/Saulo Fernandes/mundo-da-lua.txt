@@ -1,0 +1,71 @@
+Saulo Fernandes - Mundo da Lua
+
+[Intro] F#m  G#m  A  B  A  B  C#m  F#m  B7
+
+E                              C#m
+Quando me faltar voz
+B
+Meus olhos vão saber falar
+E                               C#m
+Quando me faltar o olhar
+      B
+Minhas mãos alcançarão
+A                              B
+Quando me faltar sorte
+C#m
+Meus pés irão mais longe
+A                             B
+Quando me faltar verso
+                          C#m  F#m  B7
+O silencio vai ecoar
+
+E                            C#m
+Quando me faltar dor
+
+B
+Minha pele vai saber trocar
+E                                C#m
+Quando me faltar sangue
+B
+O amor que vai pulsar
+A                                     B
+Quando me faltar os cheiros
+   C°                          C#m
+Ainda me lembrarei das cores
+A                                      E
+Quando me faltar saudade
+                               B7
+Eu colecionarei amores
+
+A                              F#m
+Se me faltar companhia
+                     G#m
+Eu sigo comigo
+C#m                     C#7
+Se me faltar direção
+                               F#m
+Seguirei os meus filhos
+F#m                              G#m
+Quando me faltar segredo
+         B                  C#m
+Reinvento o mistério
+                                C#7
+Quando me faltar chão
+
+F#m      B7                         E
+Vou            pro mundo da lua
+C#7
+Quando me faltar chão
+F#m      B7    C°                 C#m
+Vou            pro mundo da lua
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C° = X 3 4 2 4 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

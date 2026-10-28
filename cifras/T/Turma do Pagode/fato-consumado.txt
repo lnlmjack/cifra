@@ -1,0 +1,72 @@
+Turma do Pagode - Fato Consumado
+
+Introdução:  G7+ / E7+ / Am7/9 / D7/9
+Solo:(20 21 23.28,28,27,25,37,35)(20 21 23.28,28,27,25,37,35 35 35,45).
+
+
+ G7+           E7+        Am7/9
+Te guererê te guererê te guerê
+                 D7/9
+Te guererê te guererê rerererê
+G7+           E7+           Am7/9
+Te guererê te guererê te guerê
+                 D7/9
+Te guererê te guererê rerererê
+G7+              E7+     Am7/9      D7/9
+Te guê e guê e guê e guê e guê guererê oh oh oh
+G7+              E7+    Am7/9      D7/9
+Te guê e guê e guê e guê e guê guererê oh oh oh
+G7+          E7+            Am7/9
+Eu quero ver você mandar na razão
+                          D7/9
+Pra mim não é qualquer notícia que abala um coração
+G7+          E7+            Am7/9
+Eu quero ver você mandar na razão
+
+                          D7/9
+Pra mim não é qualquer notícia que abala um coração
+G7+            E7           Am7/9
+Se toda hora é hora de dar decisão,
+          D7/9
+Eu falo agora
+G7+              E7+                 Am7/9
+No fundo eu julgo o mundo um fato consumado
+        D7/9
+E vou embora
+G7+                        E7+
+Não quero mais, de mais a mais,
+Am7/9                   D7/9
+Me aprofundar nessa história
+G7+             E7+           Am7/9
+Arreio os meus anseios, perco o veio
+            F#m5-/7  B7
+E vivo de memória
+E7+         F#m7     G#m7
+Eu quero é viver em paz
+C#7(#9)              F7
+Por favor me beije a boca
+    B7/9            G#m7^C#7(#9)^F#m7^B7/9
+Que louca, que louca!
+E7+         F#m7     G#m7
+Eu quero é viver em paz
+C#7(#9)              F7
+Por favor me beije a boca
+        B7/9        G#m7^C#7(#9)^Am7^D7
+Que louca, que louca!
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7/9 = X X 7 5 8 7
+B7 = X 2 1 2 0 2
+B7/9 = X 2 1 2 2 X
+C = X 3 2 0 1 0
+C#7(#9) = X 4 3 4 5 X
+D7 = X X 0 2 1 2
+D7/9 = X 5 4 5 5 X
+E7 = 0 2 2 1 3 0
+E7+ = X X 2 4 4 4
+F#m5-/7 = 2 X 2 2 1 X
+F#m7 = 2 X 2 2 2 X
+F7 = 1 3 1 2 1 1
+G#m7 = 4 X 4 4 4 X
+G7+ = 3 X 4 4 3 X

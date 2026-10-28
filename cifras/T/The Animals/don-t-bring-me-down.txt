@@ -1,0 +1,138 @@
+The Animals - Don't Bring Me Down
+
+Intro:
+
+        organ arr. for guitar {chords implied} w/bass and drums:
+
+             C7                C9
+             v   v   v   v     v   v   v   v
+        ---|-----------------|----------------- 
+        ---|-1-1-----1-1-----|-3-3-----3-3----- 
+        ---|-3-3-----3-3-----|-3-3-----3-3----- 
+        -5-|-------5-------5-|-------5-------5- 
+        ---|-----------------|----------------- 
+        ---|-----------------|----------------- 
+
+             C7                C7sus4
+             v   v   v   v     v   v   v   v
+            -----------------|----------------- 
+            -5-5-----5-5-----|-6-6-----6---6--- 
+            -3-3-----3-3-----|-3-3-----3---3--- 
+            -------5-------5-|-------5--------- 
+            -----------------|----------------- 
+            -----------------|----------------- 
+
+
+        {bass tacit 1st repeat of intro}
+
+        fuzz guitar w/tremolo:
+
+         C5               Bb5      A5 F5    C5
+         v   v   v   v     v   v   v   v     v v v v   v v v v
+        -/---------------|-/-------/---/---|-/-------|--------- 
+
+        organ:
+
+         C                Bb                  C       Bb
+         v   v   v   v     v   v   v   v     v v v v   v v v v
+        -----------------|-----------------|---------|--------- 
+
+
+        fuzz guitar w/tremolo:
+
+         C5               Bb5      A5 F5    C5
+         v   v   v   v     v   v   v   v     v v v v   v v v v
+        -/---------------|-/-------/---/---|-/-------|--------- 
+
+        organ:
+
+         C                Bb               G7sus4   {/C 2nd time}
+         v   v   v   v     v   v   v   v     v v v v   v v v v
+        -----------------|-----------------|---------|--------- 
+
+
+Verse 1 {no guitar; organ chords shown}:
+
+              C7                 F7sus4           F7
+        {1: Though} you complain        and criticize
+        C7                 F7sus4          F7
+        I feel I'm nothin'        in your eyes
+        C7                    F7sus4        F7
+        It makes me feel like        giving up
+         C7                 F7sus4        F7
+        Because my best just ain't good enough
+
+        G7sus4
+        Girl, I want to provide for you
+        G7
+        And do all the things that you want me to, but
+
+Chorus:
+
+        {organ chords shown; fuzz guitar plays C5, Bb5 (tacit last chord)}
+
+        C    Bbsus4 Bb              C      Bbsus4         Bb
+        Oh, oh no, don't bring me down {1: I'm beggin, you, darling}
+                                       {2: Oh no, no, no, no, no}
+        C    Bbsus4 Bb           {1: G7  2: 2-bar piano fill (C
+        Oh, oh no, don't bring me down
+
+Verse 2:
+
+        fuzz guitar {first four lines}:
+
+        (C)             (F7sus4)  (F7)
+         v   v   v   v     v   v   v   v
+        -----------------|----------------- 
+        -----------------|----------------- 
+        -----------------|----------------- 
+        -----------------|----------------- 
+        -----------3---1-|-------0--------- 
+        (3)----------3---|-----------3---1-
+          (sacrifices...)
+
+        Sacrifices   I will make
+        I'm ready to give   as well as take
+        One thing I need is your respect
+        One thing I can't take is your neglect
+
+        G7sus4 {guitar plays D5: xx023x}
+        More than anything, I need your love
+         G7
+        Then troubles are easy to rise above
+
+{repeat Chorus}
+
+{repeat intro}
+
+{repeat verse 1 w/fuzz guitar as per verse 2}
+
+Coda:
+
+        C      Bb                  C         Bb  {continue}
+        Oh, oh no, don't bring me down
+        I'm beggin'   oh, no, don't bring me down, oh no no
+        Baby, please, oh no, no, don't bring me down
+              (please, baby, don't bring me down  you know I need)
+        I need    your tender loving
+              (Oh, woman, you can't do that to me)
+        Oh, please, don't bring me down
+              (unintelligible)
+        Oh, baby, baby, don't hurt me
+              (Don't hurt me   don't hurt me  please)  {fade}
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Bb = X 1 3 3 3 1
+Bb5 = X 1 3 3 X X
+Bbsus4 = X 1 3 3 4 1
+C = X 3 2 0 1 0
+C5 = X 3 5 5 X X
+C7 = X 3 2 3 1 X
+C7sus4 = X 3 3 3 1 X
+C9 = X 3 5 5 3 3
+F5 = 1 3 3 X X X
+F7 = 1 3 1 2 1 1
+F7sus4 = 1 3 1 3 1 X
+G7 = 3 5 3 4 3 3
+G7sus4 = 3 5 3 5 3 X

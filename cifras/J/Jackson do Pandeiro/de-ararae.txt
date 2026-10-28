@@ -1,0 +1,43 @@
+Jackson do Pandeiro - De Araraê
+
+D7/F#     G
+Você não sabe
+D7/9       Em7
+Mas é bom saber
+E7             A7
+Que eu sou do samba
+D7    G
+De araraê
+D7/A
+Vai ver...
+         G
+Você não sabe
+D7/9       Em7
+Mas é bom saber
+E7            A7
+Que eu sou do samba
+D7     G
+De araraê
+G7     C
+Não adianta
+C#º    G7
+seu canjerê
+
+ E7            A7
+Que eu também sou de lá
+A7/C# D7/F#
+De araraê
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/C# = X 4 5 2 5 X
+C = X 3 2 0 1 0
+C#º = X 4 5 3 5 3
+D7 = X X 0 2 1 2
+D7/9 = X 5 4 5 5 X
+D7/A = 5 X 4 5 3 X
+D7/F# = X X 4 5 3 5
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

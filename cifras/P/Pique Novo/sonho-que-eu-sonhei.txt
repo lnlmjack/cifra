@@ -1,0 +1,54 @@
+Pique Novo - Sonho Que Eu Sonhei
+
+Introdução:  E C G7+ A^B (2x) A^B B7
+Solo:34 25 16 17 16 25 34 35 25 23 /  37 28 19 100 19 28 37 39 37 34 14/24 (2x) 25 34 25 23 34 14/24
+ E7+            E6
+Só pra te dar o meu amor
+      A7+    G#m7    F#m7             B7/9        B7/13
+Eu deixei de me amar foi sem perceber que me entreguei
+E7+            E6
+Sem me importar com a diresão
+       A7+   G#m7  F#m7          B7/9      B7/13
+Deixei meu coração me levar além do meu querer
+C7+       Bm7           E    Em
+A luz que encontrei no meu olhar
+C7+       Bm7       E  Em
+Reluz e me faz acreditar
+A7+ A6     Cdmi         E^C#m^Bm7^E7/9
+Que valeu apotar nesse amor
+
+Refrão:
+A7+     A6           G#m7      D
+Busquei a felicidade encontrei
+    A7+  Cdmi             C#m       E7/9
+Meu bem você e o sonho que eu sonhei
+
+A7+   A6              G#m7    C#7
+Amei e no seu olhar me encantei
+     F#  F#m                  E
+Ninguém vai saber amar como eu sei
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A6 = 5 X 4 6 5 X
+A7+ = X 0 2 1 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7/13 = X 2 X 2 4 4
+B7/9 = X 2 1 2 2 X
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E6 = X X 2 4 2 4
+E7+ = X X 2 4 4 4
+E7/9 = X X 2 1 3 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m7 = 4 X 4 4 4 X
+G7+ = 3 X 4 4 3 X

@@ -1,0 +1,41 @@
+Catedral - A beleza eterna
+
+(intro 2x) D G A Bm G A
+
+  D      A/C#    G       A
+Eu acreditei em meu coração
+  F#m     Bm       G            A
+Em uma razão que é mais que emoção
+      D        A/C#
+Que é  brilho dos céus
+       G          A
+Que é mais que demais
+  F#m         Bm
+A paz que nos traz
+G                 A
+O que o amor é capaz
+
+D            A/C#              Bm
+Deixa a luz entrar pela janela
+          Bm7/A           G
+E que a poesia seja aquela
+        D/F#      Em    A
+O tema do nosso olhar
+
+D            A/C#               Bm
+E que Deus dos céus nos dê agora
+          Bm7/A            G
+A beleza eterna que outrora
+              D/F#     Em     A  D
+   nunca pensávamos achar.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Bm = X 2 4 4 3 2
+Bm7/A = 5 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

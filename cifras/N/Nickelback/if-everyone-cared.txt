@@ -1,0 +1,152 @@
+Nickelback - If Everyone Cared
+
+Intro:
+   F#m              A5               E5               F#5
+E|----------------|----------------|----------------|-------------------|
+B|----------------|----------------|----------------|-------------------|
+G|----------1---2-|----------4-----|----------------|----------1--------|
+D|-----4----------|-----7--------7-|-----2----4---4-|-----4---------4-4-|
+A|---4---4----4---|---7---7----7---|---2---2----2---|---4---4----4------|
+E|-2--------------|-5--------------|-0--------------|-2-----------------|
+
+   F#m              A5               E5               F#5
+E|----------------|----------------|----------------|------------------|
+B|----------------|----------------|----------------|------------------|
+G|----------1-----|----------4-----|----------------|----------1-------|
+D|-----4--------4-|-----7--------7-|-----2----4---2-|-----4---------4--|
+A|---4---4----4---|---7---7----7---|---2---2----2---|---4---4----4-----|
+E|-2--------------|-5--------------|-0--------------|-2----------------|
+
+Intro 2x:  F#m  A5  E5  F#5
+
+Primeira Parte:
+                    F#m                  A
+From underneath the trees, We watch the sky
+
+           E             F#
+Confusing stars for sattelites
+        F#m                   A
+I never dreamed that you'd be mine
+            E                  F#
+But here we are, we're here tonight
+
+Pré-Refrão:
+      A        E         F#
+Singing, amen, I... I'm alive (I'm alive)
+      A        E         F#
+Singing, amen, I... I'm alive
+
+Refrão:
+              D               A
+If everyone cared and nobody cried
+              E             F#
+If everyone loved and nobody lied
+              D                         A
+If everyone shared and swallowed their pride
+                   E
+Then we'd see the day when nobody died
+
+Re-intro:
+            F#m
+I'm singin amen
+      A         E         F#
+Amen, I...Imen, I... I'm alive
+      F#m        A          E         F#
+Amem, I... Imen, I... amen, I... I'm alive
+
+Segunda Parte:
+           F#m          A
+And In the air the fireflyes
+          E            F#
+Our only light in paradise
+                F#m              A
+We'll show the world they were wrong
+                E           F#
+And teach them all to sing along
+
+Pré-Refrão:
+      A        E         F#
+Singing, amen, I... I'm alive (I'm alive)
+      A        E         F#
+Singing, amen, I... I'm alive
+
+Refrão 2x:
+              D               A
+If everyone cared and nobody cried
+              E             F#
+If everyone loved and nobody lied
+              D                         A
+If everyone shared and swallowed their pride
+                   E               F#
+We'd see the day when nobody died
+
+Solo:
+E|-------------------------|----------------------|
+B|----------2-----------2--|-----------5-5/7-7/10-|
+G|---2--4--------2--4------|-4--2--4/6------------|
+D|-4-----------4-----------|----------------------|
+A|-------------------------|----------------------|
+E|-------------------------|----------------------|
+
+E|--------------------|--------------------|
+B|--------------14----|-----------14-------|
+G|-------14-16--------|----14-16------16~--|
+D|-14/16--------------|-16-----------------|
+A|--------------------|--------------------|
+E|--------------------|--------------------|
+
+Terceira Parte:
+   F#m               A
+E|-----------------|---------------|
+B|---------10--9~--|----------14~--|
+G|------11---------|-------14------|
+D|---11------------|----14---------|
+A|-9---------------|-12------------|
+E|-----------------|---------------|
+   E             F#
+E|---------7~--|----------9~--|
+B|-------------|--------------|
+G|------9------|-------11-----|
+D|---9---------|----11--------|
+A|-7-----------|-9------------|
+E|-------------|--------------|
+          F#m                A
+And as we lie beaneath the stars
+       E                F#
+We realize how small we are
+               F#m              A
+If they could love like you and me
+         E                   F#
+Imagine what the world could be
+
+Refrão 2x:
+              D               A
+If everyone cared and nobody cried
+              E             F#
+If everyone loved and nobody lied
+              D                         A
+If everyone shared and swallowed their pride
+                   E               F#
+We'd see the day when nobody died
+
+Final:
+              D                 A
+We'd see the day, We'd see the day
+              E  F#m
+When nobody died
+              D                 A
+We'd see the day, We'd see the day
+              E  F#m
+When nobody died
+              D          A       E
+We'd see the day when nobody died...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F# = 2 4 4 3 2 2
+F#5 = 2 4 4 X X X
+F#m = 2 4 4 2 2 2

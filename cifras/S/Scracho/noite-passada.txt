@@ -1,0 +1,104 @@
+Scracho - Noite Passada
+
+Guitarra Base: B5 F#5 E5 F#5 (2x)
+Guitarra Solo:
+
+Riff 2
+E|---------------------|
+B|---------------------|
+G|--------------1------|
+D|--1-4-1-4-1-4---4-2--|
+A|---------------------|
+E|---------------------|
+
+Abafado:
+  B5       F#5     E5       F#5
+Aonde estou? não lembro de mais nada
+  B5      F#5      E5       F#5
+Quem é você? há alguma coisa errada
+
+Guitarra Base: B5 F#5 E5 F#5
+Guitarra Solo: Riff 2
+
+abafado:
+
+  B5   F#5  E5   F#5     B5  F#5  E5  F#5
+Noite passada exagerei e hoje quando eu acordei
+
+
+  E5             F#5
+Me diga o que aconteceu
+ B5            B5/A#        G#5     riff 1 E|--4--2--0--
+Não sei o seu nome ou quem sou eu
+    E5            F#5
+Me leva de volta pra casa
+
+Guitarra Base: B5 F#5 E5 F#5
+Guitarra Solo: Riff2
+
+abafado:
+  B5     F#5      E5      F#5
+Me deixa em paz se eu nem te conheço
+  B5     F#5      E5      F#5
+Aonde estou, me ajuda a dar um jeito
+
+  E5           F#5
+Me diga o que aconteceu
+ B5            B5/A#         G#5     riff 1 E|--4--2--0--
+Não sei o seu nome ou quem sou eu
+    E5              F#5
+Me leva de volta pra casa
+
+Guitarra Solo - oitavas
+Guitarra Base - abafado Bb5 (na primeira vez)
+
+Guitarra Solo
+E|---------------------------------------------------------------------------------------------------|
+B|---------------------------------------------------------------------------------------------------|
+G|---4-4-4-4-4-4-4-4--8-8-8-8-8/9--3-3-3-3-3-3-3-3---------------------8-8-8-8/9--6-6-6-6-6-6-6-6----|
+D|---x-x-x-x-x-x-x-x--x-x-x-x-x/x--x-x-x-x-x-x-x-x----6-6-6-6-6-6-6-6--x-x-x-x/x--x-x-x-x-x-x-x-x----| X2
+A|---2-2-2-2-2-2-2-2--6-6-6-6-6/7--1-1-1-1-1-1-1-1----x-x-x-x-x-x-x-x--6-6-6-6/7--4-4-4-4-4-4-4-4----|
+E|----------------------------------------------------4-4-4-4-4-4-4-4--------------------------------|
+
+Guitarra Base sem distorção e com chorus (nas duas últimas vezes)
+
+E|------------------------------------------------------------------------------------------------------|
+B|------------------------------------------------------------------------------------------------------|
+G|--11-11-11-11-11-11-11-11--11-11-11-11-11-11-11-11--11-11-11-11-11-11-11-11--11-11-11-11-11-11-11-11--|
+D|--x--x--x--x--x--x--x--x---x--x--x--x--x--x--x--x---x--x--x--x--x--x--x--x---x--x--x--x--x--x--x--x---|
+A|--9--9--9--9--9--9--9--9---9--9--9--9--9--9--9--9---9--9--9--9--9--9--9--9---9--9--9--9--9--9--9--9---|
+E|------------------------------------------------------------------------------------------------------|
+
+B5 B5/A# G#5 F#5
+
+Guitarra Base:
+ E5            F#5
+Me diga o que aconteceu
+
+Distorção:
+ B5          B5/A#          G#5
+Não sei seu nome ou quem sou eu
+    E5               F#5
+Me leva de volta pra casa
+
+B5 B5/A# G#5  F#5
+O que aconteceu aqui
+
+B5 B5/A# G#5  F#5
+Não sei nem quero descobrir
+
+  E5            F#5
+Me leva de volta pra casa
+  E5            F#5
+Me leva de volta pra casa
+  E5            F#5      B5
+Me leva de volta pra casa
+
+
+----------------- Acordes -----------------
+B5 = X 2 4 4 X X
+B5/A# = X 1 4 4 X X
+Bb5 = X 1 3 3 X X
+E5 = 0 2 2 X X X
+F#5 = 2 4 4 X X X
+G#5 = 4 6 6 X X X

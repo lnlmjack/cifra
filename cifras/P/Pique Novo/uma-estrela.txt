@@ -1,0 +1,62 @@
+Pique Novo - Uma estrela
+
+(intro) Bb7+   C7   Am   Dm   Bb7+  A7/6   Dm   F7/9
+
+(solo) 43-30-32-43-30-42-43-30-35-32-30-43-21-33-11-22-31-33-11
+
+   Bb7+          F7+
+Conversei com uma estrela
+  C  Gm7  Dm6/9  F7/9
+Caminhando pelas ruas
+  Bb7+          F7+
+Pra te ter fiz um pedido
+   Eb      Gm7  C7/13 F7/9
+E rezei por onde andei
+  Bb7+         F7+
+Aprendi te amar sonhando
+    C  Gm7  Dm6/9  F7/9
+Dediquei meu sentimento
+   Bb7+           F7+
+De coração, de corpo e alma
+    Eb       Gm7    C7/13  F7/9
+Eu te amei por onde andei
+  Bb7+   C7   Am   Dm
+Um amor me deixou aqui
+
+  Bb7+   A7/6     Dm
+Nessa esquina abandonada
+  Dm7+      Dm6
+Na fria madrugada
+  Dm7+     Bb7+  Bb6  Gm7/9  C7/13
+Sozinho na calçada
+  F7+          C         Dm
+Mas quando a cidade adormeceu
+    Am7        Bb7+
+Um anjo lindo apareceu
+    Am7         Gm7/9  C7/13
+Era você na minha vida
+   F7+       C        Dm
+Vi brilhar no céu com emoção
+   Am7         Bb7+
+A luz da minha direção
+   Am7     Gm7/9  C7/13
+Era você na minha vida
+
+----------------- Acordes -----------------
+A7/6 = X 0 X 0 2 2
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb6 = X 1 3 0 3 X
+Bb7+ = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7/13 = X 3 X 3 5 5
+Dm = X X 0 2 3 1
+Dm6 = X 5 X 4 6 5
+Dm6/9 = X 5 3 4 5 X
+Dm7+ = X X 0 2 2 1
+Eb = X 6 5 3 4 3
+F7+ = 1 X 2 2 1 X
+F7/9 = X X 3 2 4 3
+Gm7 = 3 X 3 3 3 X
+Gm7/9 = X X 5 3 6 5

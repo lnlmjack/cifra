@@ -1,0 +1,77 @@
+Almir Guineto - Faz de Conta
+
+Intro:  Am7    D7/9    Am7    D7/9    Am7    D7/9    Am7    D7/9
+
+Am7       D7/9        Am7       D7/9
+Faz de conta que é gente mas não é
+Am7    D7/9             G7             E7  F7  F#7  G7
+Faz de conta que dá mas nuca deu
+         C7/9               F7M      F6
+Faz de conta que liga pra ralé
+   B7/13        B7           E7       A#7(b5)
+Faz de conta que é nosso galileu
+
+Am7          D7/9         Am7
+Se estou desse jeito xará
+                      A7(#5)
+Balançando que nem boi bumbá
+A7      Dm7      Dm7/C
+Devo a você
+Bm7(b5)           E7(b9)
+Se o fino da dor suportei
+Bm7(b5)        Dm6/F     E7   E7(b9)/G#
+E ao som da miséria bailei
+
+Am7             E7(b9)
+Devo a você
+Am7                A7(#5)
+Se pro bolso do compositor
+                          Eb7/9    A7
+O que vem arrochando o credor
+     Dm7
+Devemos a você
+G4/7             G7/13        C7M
+E os direitos o doutor me retém
+                 F7M
+Em um banco e o juros talvez
+Bm7(b5)      E7(b9)     Em7(b5)      Eb7/9
+Descansando no saldo de quem? porque?
+Dm7         G7/13        C7M
+Espalho por favor que nos fez
+         F7M          Bm7(b5)
+É mais falso que nota de três
+      E7(b9)          Em7(b5)     Eb7/9
+E o que o doze traiu de uma vez
+
+Dm7          G7/13            C7M
+Espalho por favor que nos fez
+         F7M                  Bm7(b5)
+É mais falso que nota de três
+   E7(b9)      Am7      E7(b9)           Am7
+E o que o doze traiu de vez e saio a você
+
+----------------- Acordes -----------------
+A#7(b5) = X 1 2 1 3 X
+A7 = X 0 2 0 2 0
+A7(#5) = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7/13 = X 2 X 2 4 4
+Bm7(b5) = X 2 3 2 3 X
+C7/9 = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+D7/9 = X 5 4 5 5 X
+Dm6/F = 1 X 0 2 0 X
+Dm7 = X 5 7 5 6 5
+Dm7/C = X 3 0 2 1 1
+E7 = 0 2 2 1 3 0
+E7(b9) = X X 2 1 3 1
+Eb7/9 = X 6 5 6 6 X
+Em7(b5) = X X 2 3 3 3
+F#7 = 2 4 2 3 2 2
+F6 = 1 X 0 2 1 X
+F7 = 1 3 1 2 1 1
+F7M = 1 X 2 2 1 X
+G4/7 = 3 5 3 5 3 X
+G7 = 3 5 3 4 3 3
+G7/13 = 3 X 3 4 5 X

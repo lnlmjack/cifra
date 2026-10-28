@@ -1,0 +1,61 @@
+Exaltasamba - Beco Sem Saída
+
+Introdução: Am7/9    F7M/9   G7/9   G7/4   C7M   F7M   Bm7/5-   E7/5+   Am7/9   A7/5+
+
+Dm7/9          E7/5+              Am7/9       Dm7/9
+    VIERAM ME DIZER QUE VOCÊ ANDA VACILANDO
+              E7/5+              Am7/9     Dm7/9
+QUEM VEIO ME CONTAR NUNCA MENTIU PRA MIM
+                  E7/5+      Am7/9
+E ESSA NÃO É A PRIMEIRA VEZ
+D7/9       Gm7/9      C7/9     F7M
+SEMPRE VOCÊ TEM UMA DESCULPA
+             E7/5+            Am7/9       Dm7/9
+EU QUERO VER AONDE ISSO VAI PARAR
+                   E7/5+              Am7/9       Dm7/9
+E QUANTO MAIS EU FUJO MAIS EU VOU ME AMARRANDO
+            E7/5+              Am7/9          Dm7/9
+SE FICO SEM VOCÊ A VIDA É TÃO RUIM
+                E7/5+         Am7/9
+E TUDO ISSO QUE VOCÊ ME FEZ
+   D7/9                  Gm7/9   C7/9  F7M
+NO FUNDO EU SEI QUE TAMBÉM TENHO CULPA
+               E7/5+           Am7/9    E7/5+
+EU NÃO TENHO CORAGEM DE TE ABANDONAR  (EU VOU)
+
+Am7/5+   C7/13
+EU TÔ
+   F7M/9      E7/5+
+NUM BECO SEM SAÍDA
+Am7/9
+VOCÊ
+F#7/4 - G7/4              G7/9
+         CONFUNDE A MINHA VIDA
+C7M    Am7
+EU SEI
+    Dm7/9     G7/4 G7/9
+QUE DEVO TE DEIXAR
+C7M     Am7
+MAS EU
+    Dm7/9       E7/5+
+NÃO DEIXO DE TE AMAR
+
+----------------- Acordes -----------------
+A7/5+ = X 0 X 0 2 1
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7/5+ = X 0 3 0 1 0
+Am7/9 = X X 7 5 8 7
+Bm7/5- = X 2 3 2 3 X
+C7/13 = X 3 X 3 5 5
+C7/9 = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+D7/9 = X 5 4 5 5 X
+Dm7/9 = X 5 3 5 5 X
+E7/5+ = 0 X 0 1 1 0
+F#7/4 = 2 4 2 4 2 X
+F7M = 1 X 2 2 1 X
+F7M/9 = X 8 7 9 8 X
+G7/4 = 3 5 3 5 3 X
+G7/9 = 3 X 3 2 0 X
+Gm7/9 = X X 5 3 6 5

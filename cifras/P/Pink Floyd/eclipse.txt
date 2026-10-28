@@ -1,0 +1,88 @@
+Pink Floyd - Eclipse
+
+Intro:
+
+  D                     D/C 
+E|------------2--------|------------2--------|
+B|---------3-----3-----|---------3-----3-----|
+G|------2-----------2--|------2-----------2--|
+D|---0-----------------|---------------------|
+A|---------------------|---3-----------------|
+E|---------------------|---------------------|
+
+  Bb7+                  A7 
+E|------------1--------|------------0--------|
+B|---------3-----3-----|---------2-----2-----|
+G|------2-----------2--|------0-----------0--|
+D|---------------------|---------------------|
+A|---1-----------------|---0-----------------|
+E|---------------------|---------------------|
+
+
+D
+All that you touch
+
+D/C
+All that you see
+Bb7+
+All that you taste
+A7
+All you feel
+D
+All that you love
+D/C
+All that you hate
+Bb7+
+All you distrust
+A7
+All that you save
+D
+All that you give
+D/C
+All that you deal
+Bb7+
+All that you buy
+A7
+Beg, borrow or steal
+D
+All you create
+D/C
+All you destroy
+Bb7+
+All that you do
+A7
+All that you say
+D
+All that you eat
+D/C
+Everyone you meet
+Bb7+
+All that you slight
+A7
+Everyone you fight
+D
+All that is now
+D/C
+All that is gone
+Bb7+
+All that's to come
+A7                       D
+And everything under the sun is in tune
+D/C                            Bb7+   D
+But the sun is eclipsed by the moon
+
+
+  D                     D/C                   Bb7+                    D
+E|------------2--------|------------2--------|------------1--------|--2--|
+B|---------3-----3-----|---------3-----3-----|---------3-----3-----|--3--|
+G|------2-----------2--|------2-----------2--|------2-----------2--|--2--|
+D|---0-----------------|---------------------|---------------------|--0--|
+A|---------------------|---3-----------------|---1-----------------|-----|
+E|---------------------|---------------------|---------------------|-----|
+ (... sun is in tune ... eclipsed by the moon)  
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bb7+ = X 1 3 2 3 1
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2

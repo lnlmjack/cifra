@@ -1,0 +1,74 @@
+Coldplay - Atlas
+
+Intro: F#
+
+F#m           B
+Some saw the sun
+Bm            F#
+Some saw the smoke
+C#m             G#
+Some heard the gun
+F#6           C#m
+Some bent the bow
+C#m              D#dim
+Sometimes the wire
+C#m       G           C#m
+Must be tense for the note
+F#m             B       F#m
+Caugth in the fire, say ho
+      B            F#
+We're about to explode.
+
+(Estribillo)
+              C#m7
+Carry your world,
+
+E                B
+I'll carry your world.
+F#              C#m7
+Carry your world,
+E                B
+I'll carry your world.
+
+Principio: F#m - B
+
+Bm            F#
+Some far away
+C#m             G#
+Some search for gold
+F#6           C#m
+Some dragon to slay
+C#m       D#dim    C#m   G#    C#m
+Heaven we hope is just up the road
+F#m            B         F#m
+Show me the way Lord, because I
+     B           F#
+I'm about to explode.
+
+(Estribillo)
+             C#m
+Carry your world,
+E                B
+I'll carry your world.
+F#           C#m
+Carry your world,
+E                B
+I'll carry your world.
+
+(Repite x3)
+
+Final: F#m - G#m - G - F#
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D#dim = X X 1 2 1 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#6 = 2 X 1 3 2 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,46 @@
+Estakazero - Algo Especial
+
+Tom : G
+
+instrução:
+o primeiro numero é a corda
+o segundo número é a casa
+por exemplo : 25 - corda 2 casa 5
+
+Solo inicial 1 parte:
+28/112 112 112 110 110 18 18 18
+212 210 28
+28/112 112 112 110 110 18 18 18 212 212 210 210 28 25 27 28
+
+Solo inicial 2 parte:
+28 /210/ 212 | 212 212 210 210 28 25 27 28
+
+   G            Bm                  C
+Imaginei, nosso amor nao fosse acabar assim
+Cm
+pouco tempo muita história pra contar,
+G                  Bm                C
+Hoje a chuva me acalma e também me faz lembrar
+
+Cm                                   G
+Que se hoje ela se foi amanhã ira voltar
+G                  Bm                 C
+Na memória num sorriso um bilhete de amor
+              Cm
+guarde sempre com você e leve aonde você for
+
+Solo Inicial parte 2
+
+G                   Bm
+Voce é assim, algo especial pra mim
+C                       Cm
+eu assumo toda culpa só pra lhe fazer feliz
+
+
+Solo inicial parte 1 e 2
+
+----------------- Acordes -----------------
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+G = 3 2 0 0 0 3

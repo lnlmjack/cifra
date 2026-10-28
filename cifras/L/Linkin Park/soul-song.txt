@@ -1,0 +1,117 @@
+Linkin Park - Soul Song
+
+Standard Tunning
+
+chord used:
+
+     Am    C9   Em   G    D    D*   
+E |--------3----0----3----2----3----|
+B |---1----3----0----3----3----3----|
+G |---2----0----1----0----2----2----|
+D |---2----2----2----0----0----0----|
+A |---0----3----2----2--------------|
+E |-------------0----3--------------| 
+
+==========================================
+Picking 1, 2 and 3:
+
+    [     C             G       C9      ] [Picking Part 1]
+
+E |----0-------------------3-----3--3---|
+B |----1--0--1/0-----------3-----3--3---|
+G |---------------0---------------------|
+D |------------------2------------------|
+A |-0-------------------------3---------|
+E |---------------------3---------------|
+
+
+
+    [   C               C9              ] [Picking Part 2]
+
+E |----0------------------------3--3---|
+B |----1--0--1/0----------------3--3---|
+G |---------------0--------------------|
+D |------------------2-----2-2---------|
+A |-0-------------------3--------------|
+E |------------------------------------|
+
+    [Am         C9                 Am   C9      ] [Picking Part 3]
+
+E |------3--3---------3---------3-------3--|
+B |-1-1--3--3---------3---------3--1-1--3--|
+G |-2-2--0-------------------------2-2--0--|
+D |-2-2--2-----0/2-------0/2-------2-2--2--|
+A |-0-0--3----------3---------3----0-0--3--|
+E |----------------------------------------|
+
+
+intro : Am, C9
+
+Am, C9
+I will be waiting,
+Am, C9
+with a song in my soul,
+Am, C9
+a fortunate weakling,
+Am, C9
+which I have foretold,
+
+Am, C9
+He raises his arms tied,
+Am, C9
+above the abyss,
+Am, C9
+singing his sweet song,
+Am, C9                   Em     G       D
+his melody opens up the sun,
+
+Am        Em    G       D
+Freedom raid,
+D*        Em    G       D
+God has come,
+Am        Em    G       D
+Rivers of blood,
+D*        [     C       G       C9      ] [Picking Part 1] 1x
+pushed back in my veins,
+
+[C, C9] [Picking Part 2] 1x
+
+
+Am, C9
+She sleeps with her eyes closed,
+Am, C9
+to dream of the past,
+Am, C9
+her mind has gone blind now,
+Am, C9                           Em     G       D
+while the memory closes up this sun,
+
+Am        Em    G       D
+freedom rain,
+D*        Em    G       D
+God has come,
+Am        Em    G       D
+Rivers of blood,
+D*        [     C       G       C9      ] [Picking Part 1] 3x
+pushed back in my veins,
+
+[C, C9] [Picking Part 2] 1x
+
+
+Am, C9
+I will be waiting,
+Am, C9
+with a song in my soul,
+Am, C9
+a fortunate weakling,
+Am, C9
+which I have foretold
+
+[Am, C9, Am, C9] [Picking Part 3]
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

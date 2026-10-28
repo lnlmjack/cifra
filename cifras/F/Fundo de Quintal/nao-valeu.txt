@@ -1,0 +1,66 @@
+Fundo de Quintal - Não Valeu
+
+ C
+Introdução:  C C7+ C6 C7+ D7/9 Dm7/9 G7
+
+C            C#° Dm         D#°  Gm
+Não valeu erguer...esse patamar
+         C7     F7+               F6
+Nem edificar...arranha-céus de paixão
+F#m5-/7     Bb7  Em           A7/5+
+Pra desmoronar...nossa contrução
+ Dm         Dm7+ Dm7         G#  G7
+Não valeu pintar...tanta criação, é
+C            C#°  Dm            D#°  Gm
+Não valeu tecer...tricotar...cerzir
+            C7     F7+               F6
+Pra descosturar...bem antes de se vestir
+F#m5-/7     Bb7  Em        A7/5+
+Não valeu suar...essa relação
+ Dm         G#  G7     C   G# G7
+Não valeu, foi tudo em vão
+ Cm                   G7
+Não valeu...treinar e não jogar
+
+           Gm5-/7  C7          Fm
+Ler e não aprender...rir pra depois chorar
+ Bb7/4         Bb7   Eb7         Cm
+Não valeu ter sede...balançar a rede
+Ao                Dm             G7
+Ir contra a parede... e bater de frente
+C              D7/9
+Não valeu valer...nem valorizar
+Dm7/9           G7           C   A7  Dm   G7
+Se o mais lindo sonho se perdeu, se perdeu!
+C                 D7/9
+Mas eu vou achar e...vou refazer
+Dm7/9         G7             C  G7
+Desse nosso amor, que não valeu
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/5+ = X 0 X 0 2 1
+Bb7 = X 1 3 1 3 1
+Bb7/4 = X 1 3 1 4 1
+C = X 3 2 0 1 0
+C#° = X 4 5 3 5 3
+C6 = 8 X 7 9 8 X
+C7 = X 3 2 3 1 X
+C7+ = X 3 2 0 0 X
+Cm = X 3 5 5 4 3
+D#° = X X 1 2 1 2
+D7/9 = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7+ = X X 0 2 2 1
+Dm7/9 = X 5 3 5 5 X
+Eb7 = X 6 5 6 4 X
+Em = 0 2 2 0 0 0
+F#m5-/7 = 2 X 2 2 1 X
+F6 = 1 X 0 2 1 X
+F7+ = 1 X 2 2 1 X
+Fm = 1 3 3 1 1 1
+G# = 4 3 1 1 1 4
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3
+Gm5-/7 = 3 X 3 3 2 X

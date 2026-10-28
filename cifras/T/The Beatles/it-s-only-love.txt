@@ -1,0 +1,80 @@
+The Beatles - It's Only Love
+
+(intro) ( C Am C Am )
+
+E |- --------------------
+B |- ---1--0-------------
+G |- ----------2-0-------
+D |- ----------------2---
+A |- --------------------
+E |- --------------------
+
+  C      Em       Bb     F      G   G(b13)
+  I get high when I see you go by,  my-oh-my
+  C        Em      Bb    F        G      G(b13)
+  When you sigh my my inside just flies, butterflies
+  F           G               C       Am
+  Why am i so shy when i'm beside you
+              Bb             G
+  It's only love and that is all
+                 C            Am
+  Why should i feel the way i do?
+              Bb             G
+  It's only love and that is all
+
+                F           G
+  But it's so hard, loving you.
+
+  C      Em       Bb     F          G     G(b13)
+  Is it right that you and i should fight every night
+  C        Em       Bb    F         G            G(b13)
+  Just the sight of you makes night time bright, very bright
+  F             G                C       Am
+  Haven't i the right to make it up, girl
+              Bb             G
+  It's only love and that is all,
+                 C            Am
+  Why should i feel the way i do?
+              Bb             G
+  It's only love and that is all
+               F            G
+  But it's so hard, loving you,
+            F               G            C  Am  C  Am  C
+  Yes it's so hard, loving you, loving you
+
+(solo vocal)
+E |- ------------------------------------------
+B |- ---1---3---0--------1-------------0--------
+G |- ----------------0-3----2----0---0-- 0-----
+D |- ---------------------------3--------------
+A |- ------------------------------------------
+E |- ------------------------------------------
+
+E |- ------------------------------------------
+B |- --1---------------------------------------
+G |- -------2----------0--------0-----2---0----
+D |- -----------3--0---------2----2------------
+A |- ------------------------------------------
+E |- ------------------------------------------
+         "why am I so shy..."
+
+E |- --------0-1---0--------------------0-------------
+B |- --1-3-----------3-1-0----0-1-3------3-1-0--------
+G |- -----------------------------------------------2-
+D |- -------------------------------------------------
+A |- -------------------------------------------------
+E |- -------------------------------------------------
+         "it's only love and that's all..."
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G(b13) = 3 X 1 0 0 X

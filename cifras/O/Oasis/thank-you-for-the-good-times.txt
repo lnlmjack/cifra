@@ -1,0 +1,66 @@
+Oasis - Thank You For The Good Times
+
+Dsus4  (0,0,0,2,3,3)
+G      (3,2,0,0,3,3)
+G/F#   (2,0,0,0,3,3)
+Em7    (0,2,2,0,3,3)
+Bm     (x,2,4,4,3,2)
+A7sus4 (0,0,2,2,3,3)
+A      (0,0,2,2,2,0)
+
+Intro:
+
+Dsus4 Dsus4   G   G/F#  Em7   A   A   A  G   D   D   D
+
+Chorus 1:
+
+      Dsus4
+Who Will Rise?
+               G       G/F#     Em7
+It would be so nice to hear you say,
+                    A
+"Thank You For The Good Times"
+                          G   Dsus4
+Before the good times fly a---way.
+
+
+Verse1:
+     Dsus4
+Your eyes are telling lies,
+            G     G/F#    Em7
+Some other storys on the way,
+        A
+It's so nice,
+                                 G   Dsus4
+But don't let the good times fly a---way.
+
+Bridge1:
+  Em7            G               Bm        Bm
+I drink to every sucker standing here,
+  Em7               G                Bm        Bm
+A-mong the few who try to teach the years.
+         Em7          G                Bm       Bm
+There's always one of us who's blown a-way,
+   Em7                       G              A         A
+Or strapped and stopped for breath along the way.
+
+Chorus 2: Same as Chorus 1
+
+Instrumental: Dsus4   Dsus4  G  G/F#   Em7
+              A       A      G        Dsus4
+
+Bridge 2: Same as Bridge 1
+
+Chorus 3:  Same as Chorus 1 and 2
+
+Outro: Dsus4    Dsus4    Dsus4   Dsus4        Play 4 times
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7sus4 = X 0 2 0 3 0
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+Dsus4 = X X 0 2 3 3
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3
+G/F# = X X 4 4 3 3

@@ -1,0 +1,93 @@
+Fundo de Quintal - Janú, Januário
+
+Introdução: E / C#m / F#m / B7 / E /
+
+B7   E   C#m      F#m
+Ô Janú.....ô Januário
+                               B7
+Olha só o que armaram pra tu, Janú
+                  E
+Pra te fazer de otário, Janú
+B7  E   C#m     F#m
+Ô Janú....ô Januário
+                               B7
+Olha só o que armaram pra tu, Janú
+                  E
+Pra te fazer de otário
+  B7            E            C#m           F#m
+Januário, gente boa.....bom de onda e de marola
+                   B7                            E
+Pinta e borda e como zoa.....também não pisa na bola
+       F#m               G#m         E7      A
+Mesmo assim meu bom Janú, meu compadre Januário
+    A          A#°             E      C#7
+Olha só o que armaram pra tu, Janú
+
+  F#7     B7        E
+Pra te fazer de otário, Janú
+Refrão
+  B7             E          C#m              F#m
+Januário, gente fina.....acostumado a correr gira
+                    B7                            E
+Não dá mole na esquina.....se não põe também não tira
+        F#m          G#m          E7        A
+Mesmo assim meu bom Janú, meu compadre Januário
+  A             A#°       E      C#7
+Olha só o que armaram pra tu, Janú
+    F#7     B7       E
+Pra te fazer de otário, Janú
+Refrão
+        B7           E       C#m                    F#m
+Quem te conhece, te compra.....de olho fechado no escuro
+                   B7                        E
+Nunca a favor do contra.....jamais em cima do muro
+     F#m             G#m         E7        A
+Mesmo assim meu bom Janú, meu compadre Januário
+    A         A#°          E       C#7
+Olha só o que armaram pra tu, Janú
+ F#7      B7       E
+Pra te fazer de otário, Janú
+Refrão
+     B7           E      C#m               F#m
+Houve até um julgamento.....simularam plebicito
+                      B7                   E
+E seu bom comportamento.....confirmou o veredito
+        F#m          G#m         E7        A
+Mesmo assim meu bom Janú, meu compadre Januário
+    A         A#°         E       C#7
+Olha só o que armaram pra tu, Janú
+  F#7     B7       E
+Pra te fazer de otário, Janú
+Refrão
+      C#m               F#m                B7                  E
+Tua família viajou pra França, levando a herança do seu inventário
+    C#m                F#m         B7                      E
+Olha só o que armaram pra tu, Janú.....pra te fazer de otário
+       C#m           F#m                B7                  E
+Três empregos de repente, o novo presidente cortou dois salários
+     C#m                F#m         B7                   E
+Olha só o que armaram pra tu, Janú.....pra te fazer de otário
+    C#m                 F#m               B7                E
+Te venderam uma loja e um ovo, dizendo pro povo que era um aviário
+   C#m                  F#m          B7                  E
+Olha só o que armaram pra tu, Janú.....pra te fazer de otário
+  C#m               F#m               B7             E
+Sem destacar golpe algum, rodou no 171, como estelionatário
+    C#m                   F#m       B7                   E
+Olha só o que armaram pra tu, Janú.....pra te fazer de otário
+     C#m          F#m                 B7                E
+Pintadinho na de pau, te venderam pardal, dizendo ser canário
+    C#m                   F#m        B7                  E
+Olha só o que armaram pra tu, Janú.....pra te fazer de otário
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#° = X 1 2 0 2 0
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

@@ -1,0 +1,107 @@
+The Animals - Monterey
+
+Intro:
+
+        bass:
+
+        (Am)
+         v   v   v   v     v   v   v   v     v   v   v   v
+        -----------------|-----------------|----------------- 
+        -----5-7-----5-6-|-7---------------|-------0--------- 
+        -5-7-----5-7-----|-----0-----------|-0-2-3-----3---2- 
+        -----------------|-----------------|----------------- 
+
+        Am      Bm        {8X; continue into verse}
+         v   v   v   v
+        ----------------- 
+        ----------------- 
+        -0---0---2------- 
+        -----------0---3- 
+
+Verse 1:
+
+             Am     Bm       Am      Bm  Am  Bm
+        The people came and listened
+
+         Am           Bm        Am    Bm  Am  Bm
+        Some of them came and played
+          F                      Esus4         E
+        Others give flowers away, yes they did
+                 Am      Bm  Am  Bm
+        Down in Monterey
+                 Am      Bm  Am  Bm
+        Down in Monterey
+
+Verse 2:
+
+        Young gods smiled upon the crowd
+        Their music being born of love
+        Children danced night and day
+        Religion was being born
+        Down in Monterey
+
+foo:
+
+        bass {as per verses} w/drums and sound effects:
+
+             (Am) (Bm)         (Am)     (Bm)     (Am) (Bm) (Am) (Bm)
+        The Byrds      and the Airplane      did fly   {w/guiro}
+        Oh, Ravi Shanknar's {sic} music made me cry    {w/sitar}
+        The Who exploded into fire and light           {w/feedback}
+        Hugh Masekela's music was black as night       {w/trumpet}
+        The Grateful Dead blew everybody's mind
+        Jimi Hendrix, baby believe me, set the world on fire
+        His majesty, Prince Jones, smiled as he grooved among the crowd
+        Ten thousand electric guitars were groovin' real loud
+        You wanna find the truth in life
+        Don't pass music by
+        And you know   I would not lie
+        No, I would not lie
+        No, I would not lie
+        Down in Monterey
+
+        bass:
+
+        {N.C.}                              Am
+         v   v   v   v     v   v   v   v     v v v v   v   v   v   v
+        -----------------|-----------------|---------|------------------ 
+        -----------------|-----------------|---------|-----5-7-5-7-5-5-- 
+        -----------------|-----------------|-0-------|-5-7-------------- 
+        -0-2---3---4-----|-0-1---2---3---4-|---------|------------------ 
+
+                                               Monterey!
+
+        {instrumental break - sitar solo over Am Bm
+
+Verse 3:
+
+        Three days of understanding
+        Of moving with one another
+        Even the cops grooved with us
+        Do you believe me, yeah
+        Down in Monterey
+
+Coda:
+
+                 Am        Bm  {continue}
+        Down in Monterey, yeah
+        Down in Monterey
+        Down in Monterey, yeah
+
+        Am {N.C.}                       Am {N.C.}
+        I think that maybe I'm dreamin'
+
+         Am      Bm  {continue}
+        Monterey
+        Monterey
+        Down in Monterey
+        Down in Monterey
+        Did you hear what I say
+        Down in Monterey {fade}
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+E = 0 2 2 1 0 0
+Esus4 = 0 2 2 2 0 0
+F = 1 3 3 2 1 1

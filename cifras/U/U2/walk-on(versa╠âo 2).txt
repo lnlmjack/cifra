@@ -1,0 +1,181 @@
+U2 - Walk On
+
+Intro/Main Riff: (play the chords anywhere you like, D A G Em progression)
+|--------10----5----3----0--------------------------------------------------|
+|--(12)--10----5----3----0--------------------------------------------------|
+|--------11----6----4----0--------------------------------------------------|
+|--------12----7----5----2--------------------------------------------------|
+|--------12----7----5----2--------------------------------------------------|
+|--------10----5----3----0--------------------------------------------------|
+Em (maybe Emajor)
+
+Guitar 2:
+|-----------12--------------------------------------------12----------------|
+|--------------10--------------------------------------------12-------------|
+|--------11--------- repeat 7x ---- end with ----------13-------------------|
+|--12-12-----------------------------------------12-12----------------------|
+|---------------------------------------------------------------------------|
+|---------------------------------------------------------------------------|
+
+
+Bridge:
+|---2---3---0---0----2---3---0---0---0---0---0------------------------------|
+|---3---0---0---2----3---0---0---2---2---2---2------------------------------|
+|---4---0---0---2----4---0---0---2---2---2---2------------------------------|
+|---4---0---2---2----4---0---2---2---2---2---2------------------------------|
+|---2---2---2---0----2---2---2---0---0---0---0------------------------------|
+|-------3---0------------3---0----------------------------------------------|
+
+After Bridge:
+|---2---0---3---3-----------------------2---0---0---0----------------------|
+|---3---2---3---3-----------------------3---2---0---0----------------------|
+|---2---2---0---0-- repeat once, then---2---2---0---0----------------------|
+|---0---2---0---0-----------------------0---2---2---2----------------------|
+|-------0---x---x---------------------------0---2---2----------------------|
+|-----------3---3-------------------------------0---0----------------------|
+
+Song Ending: (this progression played til end of song)
+|----0----3----2----0-------------------------------------------------------|
+|----0----3----3----2-------------------------------------------------------|
+|----0----0----2----2-------------------------------------------------------|
+|----2----0----0----2-------------------------------------------------------|
+|----2----x---------0-------------------------------------------------------|
+|----0----3-----------------------------------------------------------------|
+
+INTRO (spoken):
+Dm Cadd9
+And love it's not the easy thing
+G
+The only baggage That you can bring
+Dm
+Love It's not the easy thing
+Cadd9
+The only baggage you can bring
+G
+Is all that you can't leave behind
+
+then gtr1 plays:
+D Asus4 G Em7
+D Asus4 G E
+
+gtr2 plays the following 7x:
+--------------12----
+-----------------10-
+--------11----------
+-12--12----12-------
+--------------------
+--------------------
+
+then the following 1x:
+--------------12----
+-----------------12-
+--------13----------
+-12--12----12-------
+--------------------
+--------------------
+
+VERSE:
+D A G Em7
+And if the darkness is to keep us apart
+D A G Em7
+And if the daylight feels like it's a long way off
+D A G
+And if your glass heart should crack
+Em7 D
+Before the second you turn back
+A E
+Oh no, be strong ... ohhh
+
+CHORUS:
+D
+Walk on
+Asus4
+Walk on
+G
+What you got, they can't steal it
+Em7
+No they can't even feel it
+D
+Walk on
+Asus4
+Walk on
+G E
+Stay safe tonight
+
+VERSE 2:
+D Asus4 G
+You're packing a suitcase for a place
+Em7
+None of us has been
+D Asus4
+A place that has to be believed
+G Em7
+To be seen
+D Asus4
+You could have flown away
+G
+A singing bird
+Em7
+In an open cage
+D
+Who will only fly
+Asus4 E
+Only fly for freedom ... Ohhh
+
+CHORUS
+
+D
+And I know it aches
+Asus4
+How your heart it breaks
+E
+You can only take so much
+Bm G Em7 A
+Walk on
+Bm G Em7 A (then stay on A)
+Walk on
+
+D A/C#
+Home
+G
+Hard to know what it is if you never had one
+D A/C#
+Home
+G
+I can't say where it is but I know I'm going
+D A/C#
+Home
+E
+That's where the heart is
+D
+And I know it aches
+Asus4
+How your heart it breaks
+E
+You can only take so much
+Em7 G D Asus4
+Walk on
+Em7 G D Asus4
+Leave it behind..you've got to leave it behind
+
+Em7 G
+All that you fashion.. all that you make
+D A
+All that you build.. all that you break
+Em7 G
+All that you measure.. all that you feel
+D A
+All this you can leave behind
+(repeat and fade)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+Asus4 = X 0 2 2 3 0
+Bm = X 2 4 4 3 2
+Cadd9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+G = 3 2 0 0 0 3

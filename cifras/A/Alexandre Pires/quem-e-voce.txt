@@ -1,0 +1,74 @@
+Alexandre Pires - Quem É Voce
+
+(intro) C#9
+
+     C#9
+Eu descobri quem você é
+        F#/C#
+Posso estar equivocado
+         F#m6/C#
+Mais não vou ficar calado
+                               C#6/9            C#7/9
+Me desculpe fale alguma coisa se estiver errado
+    F#7+               G#/F#
+Sua luz é capaz de acender um país
+      Fm7                   A#m7
+Seu sorriso transmite o que não é normal
+    D#m7                 G#7                C#6/9  D#m7 Fm7
+Uma pele , um corpo, um cheiro, um olhar fatal
+      F#7+            G#/F#
+No jardim a beleza da mais fina flor
+   Fm7             A#m7
+Inocência acima do bem e do mal
+    D#7/9      C#/F  D#/G  C#/F  D#7/9   G#sus
+Você é a mulher que encheu o meu peito de amor
+
+
+         C#6/9
+Quem é você?
+     C#7/9                     F#7+  F#
+Você é o grande amor da minha vida
+F# C#/F D#m7                  G#7
+Não me canso de dizer, todo mundo vai saber
+      D#m7                         G#7
+Que você é o grande amor da minha vida
+   C#6/9
+Você
+     C#7/9                     F#7+  F#
+Você é o grande amor da minha vida
+F#  C#/F  D#m7                   G#7
+    Não me canso de dizer, todo mundo vai saber
+      D#m7         G#7             A7+   E7+ G7+ D7+ D#m7 G#7/13
+Que você é o grande amor da minha vida    (primeira parte)
+
+( E7+ G7+ D7+ A7+ )(segunda parte)
+
+"A paixão explode quando eu te vejo
+Nosso sobrenome sempre foi desejo
+Uma intimidade que eu nunca tive
+Uma liberdade de um vôo livre
+O mais perfeito encontro do horizonte com o mar
+Eu acredito que pra sempre, eu sempre vou te amar"
+
+----------------- Acordes -----------------
+A#m7 = X 1 3 1 2 1
+A7+ = X 0 2 1 2 0
+C#/F = X 8 X 6 9 9
+C#6/9 = X 4 3 3 4 4
+C#7/9 = X 4 3 4 4 X
+C#9 = X 4 6 6 4 4
+D#/G = 3 X 1 3 4 X
+D#7/9 = X 6 5 6 6 X
+D#m7 = X X 1 3 2 2
+D7+ = X X 0 2 2 2
+E7+ = X X 2 4 4 4
+F# = 2 4 4 3 2 2
+F#/C# = X 4 4 3 2 2
+F#7+ = 2 X 3 3 2 X
+F#m6/C# = X 4 4 2 4 X
+Fm7 = 1 X 1 1 1 X
+G#/F# = 2 X 1 1 1 X
+G#7 = 4 6 4 5 4 4
+G#7/13 = 4 X 4 5 6 X
+G#sus = 4 3 1 1 1 4
+G7+ = 3 X 4 4 3 X

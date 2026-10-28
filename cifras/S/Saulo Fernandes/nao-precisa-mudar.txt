@@ -1,0 +1,62 @@
+Saulo Fernandes - Não Precisa Mudar
+
+  E9               A7M
+Não precisa mudar
+          E9                   A7M
+Vou me adaptar ao seu jeito
+                C#m7          C#m6
+Seus costumes, seus defeitos
+                   B9           B7
+Seus ciúmes, suas caras, pra que mudá-las?
+
+        E9          A7M
+Não precisa mudar
+            E9                A7M
+Vou saber fazer o seu jogo
+               C#m7       C#m6
+Deixar tudo do seu gosto
+                    B9              B7
+Sem guardar nenhuma mágoa, sem cobrar nada
+
+A7M               Ab7(#5)         C#m7   F#7(9)
+ Se eu sei que no final fica tudo be....em
+            F#m7              Abm7
+A gente se ajeita numa cama pequena
+
+         A7M               B7
+Te faço poema, te cubro de amor
+
+A7M             E/Ab
+Então você adormece
+     F#m7        E/Ab
+Meu coração enobrece
+    A7M          E/Ab
+E a gente sempre esquece
+              C#7(4)    C#7
+De tudo que passo......ou
+A7M           E/Ab
+Então você adormece
+     F#m7        E/Ab
+Meu coração enobrece
+    A7M           E/Ab
+E a gente sempre esquece
+              C#7(4)   C#7
+De tudo que passo......u
+              F#7(4)
+De tudo que passou
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+Ab7(#5) = 4 X 4 5 5 4
+Abm7 = 4 X 4 4 4 X
+B7 = X 2 1 2 0 2
+B9 = X 2 4 4 2 2
+C#7 = X 4 3 4 2 X
+C#7(4) = X 4 6 4 7 4
+C#m6 = X 4 X 3 5 4
+C#m7 = X 4 6 4 5 4
+E/Ab = 4 X 2 4 5 X
+E9 = 0 2 4 1 0 0
+F#7(4) = 2 4 2 4 2 X
+F#7(9) = X X 4 3 5 4
+F#m7 = 2 X 2 2 2 X

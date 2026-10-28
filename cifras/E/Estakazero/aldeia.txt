@@ -1,0 +1,80 @@
+Estakazero - Aldeia
+
+Introdução:
+
+são 2 partes faz nessa ordem 1,2,1,2
+
+1:
+e|--5---5----5--4-5-7-5---------------------------------|
+B|-5-5-7-7--3-3-----------------------------------------|  
+G|------------------------------------------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+2:
+e|--5---5--5--4-5-7-5-----------------------------------|
+B|-5-5-4--3-3-------------------------------------------|  
+G|------------------------------------------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+A          D       F#m     E
+Pra mim o mundo é cidade
+
+A          D      Bm7     E
+E o nordeste aldeia
+A           D  F#m             E
+Eu me apaixonei pela dança nativa
+A       D                 Bm7  E
+Que mantém a sua história viva
+A              D
+Há um caso de amor
+F#m            E
+Entre a aldeia e o sol
+A              D
+Que machuca a terra
+               Bm7   E
+Por não poder tê-la
+A               D
+Mas a aldeia já ama
+F#m          E
+Mandacaru o Deus da chuva
+A              D
+Que quando a beija
+           Bm7   E
+Pode florescê-la
+
+Bm
+Uma vez por ano
+         F#m
+Há uma festa especial
+Bm                                C#m
+Em que a dança nativa invade a cidade
+       Bm
+E tem festa em caruaru
+          E
+Muita estrela no céu azul e é aí
+
+A            D
+Que a aldeia incendeia
+F#m         E           A
+E na veia corre o forró
+         D          Bm7  E
+E a tristeza vai embora
+A          D
+Encontre uma morena
+F#m          E
+Pra fazer valer a pena
+A           D          Bm7               E
+Que hoje a festa não tem hora pra acabar...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

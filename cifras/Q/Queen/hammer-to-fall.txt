@@ -1,0 +1,134 @@
+Queen - Hammer To Fall
+
+Riff 1:
+3x  A5     A   D/A     E/A           A
+E|----------------| |--------------------------|
+B|---------2---3--| |--5-5-5---5--/--2--2-2-2--|
+G|--2-2-2--2---2--| |--4-4-4---4--/--2--2-2-2--|
+D|--2-2-2--2---4--| |--6-6-6---6--/--2--2-2-2--|
+A|--0-0-0--0---0--| |--0-0-0---0-----0--0-0-0--|
+E|----------------| |--------------------------|
+
+Riff 2:
+3x  A5     A   D/A     E/A   A        A5
+E|----------------| |-----------------------|
+B|---------2---3--| |--5-----2--------------|
+G|--2-2-2--2---2--| |--4-----2--------2-2---|
+D|--2-2-2--2---4--| |--6-----2--------2-2---|
+A|--0-0-0--0---0--| |--0-----0---4-/--0-0---|
+E|----------------| |-----------------------|
+
+Intro:Riff 1 e 2
+
+
+
+Verso 1:
+Riff 1:
+Here we stand, here we fall, history don-t care at all
+Riff 2:
+Make the bed, light the light; lady mercy won-t be home tonight
+
+
+Refrão:
+A5        E5       D5      A5                               D5
+You don-t waste no time at all, don-t hear the bell but you answer the
+A5             E5      D5    A5                                  D5
+Call. Comes to you and to us all, while you-re waiting for the Hammer
+A5
+Fall.
+
+
+Riff 1:
+
+
+Verso 2:
+Riff 1:
+Every night, and every day, a little piece of you is falling away
+Riff 2:
+Lift your face, the western way; build your muscles as your body decays
+
+
+Refrão 2:
+A5        E5       D5      A5                         D5      A5
+Toe your line and play the game, let the anaesthetic cover it all
+A5        E5       D5       A5                                 D5      A5
+Till one day they call your name, you know it-s time for the Hammer to fall
+
+3x  A5     A   D/A        E/A   A        A5
+E|-------------------| |-----------------------|
+B|---------2---3-xxx-| |--5-----2--------------|
+G|--2-2-2--2---2-xxx-| |--4-----2--------2-2---|
+D|--2-2-2--2---4-xxx-| |--6-----2--------2-2---|
+A|--0-0-0--0---0-xxx-| |--0-----0---4-/--0-0---|
+E|-------------------| |-----------------------|
+
+Ponte:
+E               F#                   E               A   D  A  G  D  G D
+Rich or poor or famous but your truth; it-s all the same Oh No Oh No
+E                   F#              E                 A   D  E
+Lock your door but rain is pouring through the windowpane Oh No
+                A               Em
+Baby, now your struggles are in vein
+
+
+base do Solo:
+B5 B5 | E5 E5| B5 E5 E5 | G5 A5 A5 | x3
+C5---tocar várias vezes--
+A5 E5 | D5 A5 | A5 | D5 A5|x2
+A5 D5 | A5 D5 A5 D5 | E5 |
+
+Solo:(2:34)
+-------------------------------------12b14-10-9-10--------------------|
+------------10-12b14r12-10-12b14r12-----------------10-12b14-10h12p10-|
+--6--6-8-9------------------------------------------------------------|
+----------------------------------------------------------------------|
+----------------------------------------------------------------------|
+----------------------------------------------------------------------|
+
+-17b-17p16p14------------------------------------------------------------------------------------
+--------------17-16-14-16-17-------------17-16-14------------------------------------------------
+-----------------------------14-14-14b16----------14h15-12---------------------------------------
+-----------------------------------------------------------14-12-11-------12-11------12-11--12-11
+-------------------------------------------------------------------12-12------12-12-------12-----
+-------------------------------------------------------------------------------------------------
+
+-----------|
+----16b18--|
+-----------|
+-----------|
+12---------|
+-----------|
+
+
+Verso 3:
+D                A               D                    D
+You who grew up tall and proud, in the shadow of the mushroom cloud
+D                     A                  D                    D
+Convinced our voices can-t be heard, so we want to scream it louder and louder and louder
+
+
+Refrão: 3
+A5       E5      D5       A5                                D5      A5
+What the hell we fighting for?  Just surrender and it won-t hurt us all
+A5       E5      D5        A5                                 D5
+Just got time to say your prayers, while your waiting for the Hammer to
+           A5
+Hammer to fall
+
+Riff 2=6x
+
+                            A5    A5
+Give it to me one more time.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D5 = X 5 7 7 X X
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E5 = 0 2 2 X X X
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

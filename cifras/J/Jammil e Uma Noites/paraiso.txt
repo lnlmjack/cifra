@@ -1,0 +1,65 @@
+Jammil e Uma Noites - Paraíso
+
+(intro)  D4 D D9 D
+
+E |---3~2--0~2---|
+B |--------------|
+G |--------------|
+D |---0----0-----|
+A |--------------|
+E |--------------|
+
+D                D7+        D         D7+
+Eu sei eu perco o juízo ao te ver
+D               D7+         D     D7+
+E penso como a vida pode ser
+    G        Gm6
+Paraíso sem abrigo
+       D   D7+   D   D7+
+Sem você
+
+     D           D7+        D         D7+
+As coisas andam muito mal meu bem
+     D           D7+        D         D7+
+Não vejo nem sinal de vida além
+
+    G        Gm6           D   D7+   D   D7+
+Paraíso sem abrigo, sem você
+   Am     D             G
+Tentei entender porque isso assim
+  Gm6     D   D7+   D   D7+
+Você sem mim
+     G6            A       A4
+A meia noite o sol pode brilhar
+             A#º         Bm      Bm7
+Se você sorrindo me procurar
+    G
+Paraíso
+  Gm6          D    D7+    D    D7+
+É estar com você
+
+     G6       A     A4
+E se o amanhecer chegar
+     A#º        Bm    Bm7
+E escuro ainda continuar
+    G         Gm6
+Paraíso sem abrigo
+       D   D7+   D    D7+
+Sem você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#º = X 1 2 0 2 0
+A4 = X 0 2 2 3 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X
+Gm6 = 3 X 2 3 3 X

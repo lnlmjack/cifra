@@ -1,0 +1,59 @@
+Katinguelê - Apelo de Quem Ama
+
+ Introdução: F#m5-/7 Fm7+ Eb7+ Am D7/9 G7/9 C7/9+
+
+C6/9               B7/D#         Dm7/9
+Quando eu me encontrar    vou te encontrar
+         G7/9           C6/9           D#º Dm7
+Pra te dizer que só você me faz feliz (feliz)
+G7/9 C6/9      B7/D#          Dm7
+   Me sinto perdido e enganado
+         G7/9           Gm C7/9
+Por alguém que me iludiu
+F7+       Fm7+           C9/E
+Se eu comparar a minha mágoa
+       Am7/9      Dm                 G7/13
+Será pouca a toda água que há no mar
+C6/9     B7/D#          Dm7/9
+Já me esqueci que um dia fui
+           G7/9     C6/9           D#º  Dm7  G7/9
+Feliz demais até pintar desilusão (desilusão)
+C6/9           B7/D#   Dm7
+É tão triste a vida de quem sofre
+     G7/9           Gm          C7/9
+Por amar de corpo alma e coração
+
+F7+            Fm7+    C9/E    Am7/9        Dm
+Esse é o apelo de quem ama e declama seu carinho
+        G7/13          C6/9
+Pra não mais viver sozinho
+C6/9               B7/D#         Dm7/9
+Quando eu me encontrar    vou te encontrar
+         G7/9           F7+
+Pra te dizer que só você
+        Eb7+  Em     Am7/9
+Lalalaia    lalalaia
+Dm7/9      G7/13  C6/9
+   Pra não mais viver sozinho
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7/9 = X X 7 5 8 7
+B7/D# = X X 1 2 0 2
+C6/9 = X 3 2 2 3 3
+C7/9 = X 3 2 3 3 X
+C7/9+ = X 3 2 3 4 X
+C9/E = X X 2 5 3 0
+D#º = X X 1 2 1 2
+D7/9 = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+Eb7+ = X X 1 3 3 3
+Em = 0 2 2 0 0 0
+F#m5-/7 = 2 X 2 2 1 X
+F7+ = 1 X 2 2 1 X
+Fm7+ = 1 X 1 1 1 X
+G7/13 = 3 X 3 4 5 X
+G7/9 = 3 X 3 2 0 X
+Gm = 3 5 5 3 3 3

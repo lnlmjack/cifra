@@ -1,0 +1,82 @@
+Raça Negra - Mas Que Nada / O Telefone Tocou Novamente (Pot-Pourri)
+
+Intro/b>: ( Am7 )
+
+ Am7   Dm7(9) E7 Am7       D7/9   Am7 E7(9)
+O,o,o Ariana,  aio , oba, oba, oba
+      Am7                      Bm7(11)
+Mas que nada sai da minha frente
+             E7(9)        Am7
+Que eu quero passar
+           Dm7(9)             C7M(9)  F7
+Pois o samba está animado
+               Bm7(b5)   E7(9)   Am7  A7(#5)
+O que eu quero é sambar
+  Dm7(9)                  G7          G#dim      Am7
+Este samba que é misto de maracatu
+                      Dm7(9)
+É samba de preto velho
+  E7(b9)          Am7
+Samba de preto tú
+   E7(b9)    Am7         E7(b9)                    Am7
+Mas que nada     um samba como este tão legal
+  Dm7(9)   G7    C7M(9)     F7       Bm7(b9)    Am7    A7(#5)
+Você não vai     querer     que eu chegue no final
+
+ Am7  Dm7(9)  E7   Am7         D7(9)    Am7 E7(b9)
+O,o,o, Ariana ,         aio,  oba, oba, oba
+
+
+Dm7              Am
+O telefone tocou novamente
+         Dm7                  Am
+Fui atender e não era o meu amor
+         Dm7                             Am
+Será que ela ainda está muito zangada comigo
+     Gm  C
+Que pena há,há,há
+    Dm7
+Que pena
+     Gm  C
+Que pena há,há,há
+     Dm7
+Que pena
+                               Am
+Pois só ela / me entende e me acode
+                  Dm7
+Na queda ou na ascensão
+                      Am
+Ela é a paz da minha guerra
+                       Dm7
+Ela é meu estado de espírito
+                 Am
+Ela é a minha proteção
+     Gm  C
+Que pena há,há,ha
+     Dm7
+Que pena
+     Gm  C
+Que pena há,há,ha
+     Dm7
+Que pena......
+
+----------------- Acordes -----------------
+A7(#5) = X 0 X 0 2 1
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm7(11) = 7 X 7 7 5 X
+Bm7(b5) = X 2 3 2 3 X
+Bm7(b9) = 7 5 7 5 7 5
+C = X 3 2 0 1 0
+C7M(9) = X 3 2 4 3 X
+D7(9) = X 5 4 5 5 X
+D7/9 = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+E7 = 0 2 2 1 3 0
+E7(9) = X X 2 1 3 2
+E7(b9) = X X 2 1 3 1
+F7 = 1 3 1 2 1 1
+G#dim = 4 X 3 4 3 X
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

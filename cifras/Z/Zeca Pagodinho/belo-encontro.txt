@@ -1,0 +1,60 @@
+Zeca Pagodinho - Belo encontro
+
+Introdução: B7+ / F#7/9 / D / A7 /
+
+D6/9      Gm6            D6/9  B7
+.....Veio...a.....lembrança
+        Em      B7    Em
+De tudo que aconteceu
+  A7                       D6/9     B7
+.....Eu era menino e ela menina era
+     E7
+Hoje sucedeu
+              Gm6
+O mais belo encontro
+      A7    D6/9
+Entre eu e ela
+        F#7     Bm
+Que, na nossa infância
+      B7      Em
+Foi a minha namorada
+     D7/9    G#m5-/7
+Hoje ela é aquela
+        Gm6                D6/9
+Que figura....nos meus versos
+
+          B7      F#4/7  F#7      B7
+Minhas rimas, uma dama.......tão pura
+ Em           A7              D6/9
+.....Pura qual a brisa que a trouxe
+ G          A7     D6/9
+.....E o amanhã primaveril
+G#m5-/7        C#7          F#m        F#m7+  F#m7
+..........Eu sorri....e ela também sorriu
+ B7                E7           A7
+.....Unimos nossas mãos num só aperto
+     D6/9   F#7  B7
+A felicidade........no meu coração
+ Em               A7            D6/9  A7  D6/9
+.....Estou me imaginando com saudades..
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+B7+ = X 2 4 3 4 2
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D6/9 = X 5 4 2 0 0
+D7/9 = X 5 4 5 5 X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#4/7 = 2 4 2 4 2 X
+F#7 = 2 4 2 3 2 2
+F#7/9 = X X 4 3 5 4
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7+ = X X 4 6 6 5
+G = 3 2 0 0 0 3
+G#m5-/7 = 4 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

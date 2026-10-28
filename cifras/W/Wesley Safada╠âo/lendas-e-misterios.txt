@@ -1,0 +1,162 @@
+Wesley Safadão - Lendas e Mistérios
+
+Tom: G#
+
+Intro:
+
+E|--------------------------------------------------|
+B|--------------------------------------------------|
+G|---------------------------------------------7-4--|
+D|-7h9-9-9-7-7-7-5-5-4-5---7h9-9-9-7-7-7-5-5-7------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+E|--------------------------------------------------|
+B|--------------------------------------------------|
+G|-----------------------5/7-7-4-4-2-0--------------|
+D|-7h9-9-9-7-7-7-5-5-4/5-----------------4-2--------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+
+     Em                              C9        G|------9/11-12-9--|
+Diz a lenda que muitos e muitos anos atrás  D|--7/9------------|
+
+
+
+     Em                               C9
+Um casal que se amava contra a vontade dos pais D|-0h2-5-5/7-5--|
+
+
+        G         D/F#      Em        C9        Em     D/F#   C9
+E|---------|---------|---------|---------|---------|---|---------|
+B|-3-----3-|-3-----3-|-0-----0-|-3-----3-|-0-----0-|-3-|-3-----3-|
+G|-0---0---|-2---2---|-0---0---|-0---0---|-0---0---|-2-|-0---0---|
+D|-0-0-----|-0-0-----|-2-2-----|-2-2-----|-2-2-----|-0-|-2-2-----|
+A|---------|---------|---------|-3-------|---------|---|-3-------|
+E|-3-------|-2-------|-0-------|---------|-0-------|-2-|---------|
+
+
+G                  D/F#
+Se encontravam escondidos na escuridão
+Em                 C9
+Eram guiados pela força da sua paixão
+Em                    D/F#
+Era o amor vencendo o medo,
+                   C9
+Eles guardavam o segredo a sete chaves em seu coração
+Em                             C9
+Deus ouvindo as preces daquele jovem casal
+
+   Em                                     C9          B|-10/12-12-10------|
+Resolveu, lá do céu, lhe mandar o mais lindo sinal G|-------------12-7-|
+
+G                    D/F#
+E nesse instante uma luz iluminou o céu
+
+Em                C9
+E ele prometeu olhando em seus olhos de mel
+Em                          D/F#                       C9
+O mundo inteiro vai saber que foi o nosso amor que fez nascer
+         D9
+A lua cheia no céu
+
+Refrão:
+Em             C9           G|-12-11-9-7-|
+Pra iluminar quem quiser amar
+G                     D9           G|-11-12-11-7-9-|
+Uma vez por mês a lua cheia vai brilhar
+Em                  C9              G|-9-11-12-|
+Lendas e mistérios de um amor eterno
+G                            D9
+Que nem mesmo o tempo foi capaz de apagar
+
+Cm             G
+Foi assim que aconteceu
+Cm          D9
+Um amor que não morreu
+
+Solo:
+
+      Em             C             G               D
+E|-----------------------------------------------------|
+B|------------------------------9/12-12-12--7-9-10---7-|
+G|-7/9-9-9-11-12--7/9-9-9-11-12--------------------9---|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+
+      Fm            C#                Ab                Eb
+E|---------------9/11-8-----------------------------------------|
+B|-4/6-6-6-8-8/9--------11-11/13-13\11-11\9--8-9-11-8-8\6-4-4/6-|
+G|--------------------------------------------------------------|
+D|--------------------------------------------------------------|
+A|--------------------------------------------------------------|
+E|--------------------------------------------------------------|
+
+
+  Fm                             C#
+Deus ouvindo as preces daquele jovem casal
+  Fm                                     C#
+Resolveu, lá do céu, lhe mandar o mais lindo sinal
+Ab                   Eb/G
+E nesse instante uma luz iluminou o céu
+  Fm                C#
+E ele prometeu olhando em seus olhos de mel
+  Fm                        Eb/G                      C#
+O mundo inteiro vai saber que foi o nosso amor que fez nascer
+          Eb
+alua cheia no céu
+
+(Refrão)
+
+Fm            C#
+Pra iluminar quem quiser amar
+Ab                     Eb
+Uma vez por mês a lua cheia vai brilhar
+Fm                 C#
+Lendas e mistérios de um amor eterno
+Ab                           Eb
+Que nem mesmo o tempo foi capaz de apagar
+
+Fm            C#
+Pra iluminar quem quiser amar
+Ab                     Eb
+Uma vez por mês a lua cheia vai brilhar
+Fm                 C#
+Lendas e mistérios de um amor eterno
+Ab                           Eb
+Que nem mesmo o tempo foi capaz de apagar
+
+C#m            Ab
+Foi assim que aconteceu
+C#m         Eb
+Um amor que não morreu
+
+
+      Fm            C#                Ab               Eb      Fm
+E|------------------------------9/11-8-------------------------|
+B|-4/6-6-6-8-8/9--4/6-6-6-8-8/9--------11-9-8-9-11-8-8\6-4-4/6-|
+G|-------------------------------------------------------------|
+D|-------------------------------------------------------------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+
+
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D9 = X X 0 2 3 0
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Em = 0 2 2 0 0 0
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

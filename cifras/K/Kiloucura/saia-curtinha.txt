@@ -1,0 +1,47 @@
+Kiloucura - Saia Curtinha
+
+[Intro]  F7+  G7  C6(9)  Am  Bm7(b5)  E7(#5)
+
+  Am                 F       E7
+Mas que moreninha de saia curtinha
+ Am        C7    Bm7(b5)   E7
+Chegou no samba, chegou no samba
+  Am        Am/G     F          E7
+É muito gatinha, vai ter que ser minha
+  Am       C7     Bm7(b5)    E7
+Chegou no samba, chegou no samba
+ A7+      A6          D6(9)          E7        A7+
+Me hipnotizei no teu olhar no meio daquela multidão
+           F#m7      Bm7             E7        Am7(9)
+Senti teu perfume pelo ar aí fiquei louco de paixão
+                        F7+                          Am7(9)
+Requebra, requebra até o chão que eu fico louco de prazer
+          C7           Bm7(b5)     E7   Am7(9)
+Requebra gostoso, meu amor que eu quero ver
+                        F7+               G7         C7+
+Requebra, requebra até o chão que eu fico louco de prazer
+            Am7      Bm7(b5)       E7     Am7(9)
+Requebra gostoso, meu amor que eu quero ver
+
+
+[Final]  F7+  G7  C6(9)  Am  Bm7(b5)  E7(#5)
+
+----------------- Acordes -----------------
+A6 = 5 X 4 6 5 X
+A7+ = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+C6(9) = X 3 2 2 3 3
+C7 = X 3 2 3 1 X
+C7+ = X 3 2 0 0 X
+D6(9) = X 5 4 2 0 0
+E7 = 0 2 2 1 3 0
+E7(#5) = 0 X 0 1 1 0
+F = 1 3 3 2 1 1
+F#m7 = 2 X 2 2 2 X
+F7+ = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3

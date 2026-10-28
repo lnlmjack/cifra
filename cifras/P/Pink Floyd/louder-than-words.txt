@@ -1,0 +1,100 @@
+Pink Floyd - Louder Than Words
+
+Intro: C#m  B  A
+
+Solo Da Intro:
+Primeiro dedilhado:
+     C#m           C#m
+E|-4-------------4----------------
+B|-5---5-----5---5---5-----5------
+G|-6--6-6---6-6--6--6-6---6-6-----
+D|-6-6---6-6---6-6-6---6-6---6----
+A|-4------4------4------4---------
+E|--------------------------------
+
+Segundo dedilhado: (Começa depois do B)
+    C#m
+E|-4------------------------------
+B|-5---5------5------5------5-----
+G|-6-6--6---6--6---6--6---6--6----
+D|-6--6--6---6--6---6--6---6--6---
+A|-4------4------4------4------4--
+E|--------------------------------
+
+
+D9
+We bitch and we fight,
+Diss each other on sight
+Am
+But this thing we do
+D9
+These times together
+Rain or shine or stormy weather
+Am
+This thing we do
+D9
+With world-weary grace
+We've taken our places
+Am
+We could curse it or nurse it and give it a name
+
+Refrão:
+B9
+It's louder than words
+                   A
+This thing that we do
+Louder than words
+               C#m
+It way it unfurls
+B9
+It's louder than words
+                   A
+The sum of our parts
+The beat of our hearts
+                C#m
+Is louder than words.
+F#
+Louder than words  D9
+
+D9
+The strings bend and slide
+As the hours glide by
+Am
+An old pair of shoes
+Your favorite blues
+Gonna tap out the rhythm.
+D9
+Let's go with the flow
+Wherever it goes.
+We're more than alive
+
+B9
+It's louder than words
+                    A
+This thing that we do
+Louder than words
+                 C#m
+The way it unfurls.
+B9
+It's louder than words
+                   A
+The sum of our parts
+The beat of our hearts
+C#m
+Is louder than words.
+B9
+Louder than words
+
+Solo: D9  Am (2x)
+      B9  A  C#m
+      B9  A  G#m  F#
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+D9 = X X 0 2 3 0
+F# = 2 4 4 3 2 2
+G#m = 4 6 6 4 4 4

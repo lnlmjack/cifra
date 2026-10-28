@@ -1,0 +1,59 @@
+Exaltasamba - Choro de Alegria
+
+Introdução: Surdo | C#m7/5- | D7/9 | Bm7/4 | E7/9- | A7 | D7 | G7+ | G7+ (Violão)|
+
+
+** C#m7/5- D7/9                Bm7/4     E7/9-
+  Cho_____ra, chora que chorar faz bem
+                     A7/9
+Ainda mais se for um choro de alegria
+D7/9                 G7+     Dm7    G7
+    Ao reencontrar alguém
+C#m7/5-  D7/9                 Bm7/4     E7/9-
+Cho_____ra, chora que chorar faz bem
+                 A7/9
+Deixa a lágrima rolar
+D7/9
+Deixe o pranto derramar
+                    G7+
+Que motivo a gente tem
+Bm7   Bbm7   Am7                 E7
+            Chora ao chegar no mundo
+         Am7         D7/9
+Quem é que não chora
+
+G7+             D7/9             G7+   G6
+Parece até que viemos aqui pra chorar
+F#7/5-            B7                  Em7
+O samba chora no toque das cordas do pinho
+A7/9                                  D7/9
+De um cavaquinho que chora pra gente sambar
+ *E7                  A7/9
+ Chora a natureza pródiga
+ D7/9           G7+
+Na chuva quando cai
+E7             A7/9
+Pra lavar as impurezas
+      D7/9       G7+  * ‚ Em   Dm  G7  **
+São as lágrimas do Pai
+
+----------------- Acordes -----------------
+A7/9 = 5 X 5 4 2 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bbm7 = X 1 3 1 2 1
+Bm7 = X 2 4 2 3 2
+Bm7/4 = 7 X 7 7 5 X
+C#m7/5- = X 4 5 4 5 X
+D7 = X X 0 2 1 2
+D7/9 = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+E7/9- = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7/5- = 2 X 2 3 1 X
+G6 = 3 X 2 4 3 X
+G7 = 3 5 3 4 3 3
+G7+ = 3 X 4 4 3 X

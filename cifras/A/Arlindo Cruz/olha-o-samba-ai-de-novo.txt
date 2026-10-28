@@ -1,0 +1,73 @@
+Arlindo Cruz - Olha o Samba Ai de Novo
+
+(intro)  G   G7/13   C#m7(b5)   F7/9   Bm7   E7   A7/9   D7/9   G          D7
+
+G6             E7        A7/9
+Olha o samba ai de novo
+Am7/9       D7/9                             G7+
+Servindo de rima pro bem do meu povo
+                   Bb°                       Am7(11)
+Saindo das cinzas sem ter se queimado
+Am7/9           D7/9                  G Em Am7 D7
+É o velho malandro de corpo fechado
+G6               E7        A7(b13)
+Olha o samba ai de novo
+Am7/9         D7/9                 Dm7  G7/13
+De peito aberto querendo passar
+C#m7(b5)            C#°                            Bm7   E7
+Mais forte que o tempo, quem sabe o infinito
+Am7/9            D7/9                  G7/13     G7
+E bem mais bonito pra gente contar (cantar)
+C#m7(b5)          C#°                            Bm7   E7
+Mais forte que o tempo, quem sabe o infinito
+Am7/9             D7/9                   G6  E7
+E bem mais bonito pra gente contar
+
+   Am7(11)  D7/9  G7+   G6
+O samba é.. retrato do eu ser,
+       F#m7(b5) B7    Em7            E7
+uma pintura é um quadro de Debret
+                       Am7(11)  D7/9
+Um arrastão de paz
+        G7+                                A7/9           Am7/9         D7/9 E7
+é o meu coração.. que quando bate faz o reviver da multidão
+                      Am7(11)  D7/9             G7+             G6
+por que meu samba é..            meu dengo, meu chamego
+            F#m7(b5) B7    Em7            E7
+É meu sossego é.. meu bem, meu bem querer
+                       Am7/9 C#°        G7+         E7
+é tudo que eu quiser,    o samba é meu lugar
+           Am7(11) D7/9  Dm7
+é meu viver sambar..
+    G7/13       C#m7(b5) C#°   Bm7            E7
+é tudo que eu quiser,         o samba é meu lugar
+        Am7/9 D7/9 G7+  D7/9
+é meu viver sambar
+
+(repete tudo)
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+A7/9 = 5 X 5 4 2 X
+Am7 = X 0 2 0 1 0
+Am7(11) = 5 X 5 5 3 X
+Am7/9 = X X 7 5 8 7
+B7 = X 2 1 2 0 2
+Bb° = X 1 2 0 2 0
+Bm7 = X 2 4 2 3 2
+C#m7(b5) = X 4 5 4 5 X
+C#° = X 4 5 3 5 3
+D7 = X X 0 2 1 2
+D7/9 = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m7(b5) = 2 X 2 2 1 X
+F7/9 = X X 3 2 4 3
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X
+G7 = 3 5 3 4 3 3
+G7+ = 3 X 4 4 3 X
+G7/13 = 3 X 3 4 5 X

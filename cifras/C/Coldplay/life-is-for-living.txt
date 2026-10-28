@@ -1,0 +1,79 @@
+Coldplay - Life Is For Living
+
+Capo Casa 1
+
+Dedilhado:
+
+      A     F#m    E4(6)  E       D     Bm7     A  Asus4 A
+E|---------------------------|----------------------------|
+B|----2------2------2----0---|----3------3------2--3--2---|
+G|----2------2------2----1---|----2------2------2--2--2---|
+D|---------------------------|--0-------------------------|
+A|--0------------------------|------4--2---2--0-------0---|
+E|------4--2---2--0----0-----|----------------------------|
+
+
+A            F#m
+Now I never meant
+      E4(6)    E
+To do you wrong
+  D            Bm           A   Asus4 A
+That's what I came here to say
+    A          F#m
+But if I was wrong
+         E4(6)  E
+Then I'm sorry
+
+         D       Bm          A    Asus4 A
+I don't let it stand in our way
+
+ A                  F#m
+'Cause my head just aches
+        E4(6)    E
+When I think of
+      D             Bm            A    Asus4 A
+The things that I shouldn't have done
+A                F#m
+But life is for living
+   E4(6)    E
+We all know
+       D           Bm       A    Asus4 A
+And I don't wanna live it alone
+
+    E7/D  D7M
+
+E|---4-----5---|
+B|---5-----7---|
+G|---4-----6---|
+D|---0-----0---|
+A|---x-----x---|
+E|---x-----x---|
+
+     E4  A   E7
+Sing ah  ah  ah
+     D  E7/D D7M
+Sing ah  ah  ah
+             E4  A   E7
+And you sing ah  ah  ah
+
+
+A F#m E4(6) E  D Bm A  Asus4 A   (até o final)
+
+
+*Na versão ao vivo, são adicionados alguns versos ao final da música, que mudam de ordem.
+ Para tocá-los, basta usar os mesmos acordes da maior parte da música.
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A*  = X 0 2 2 2 0 - (*A# na forma de A)
+Asus4*  = X 0 2 2 3 0 - (*A#sus4 na forma de Asus4)
+Bm*  = X 2 4 4 3 2 - (*Cm na forma de Bm)
+Bm7*  = X 2 4 2 3 2 - (*Cm7 na forma de Bm7)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+D7M*  = X X 0 2 2 2 - (*D#7M na forma de D7M)
+E*  = 0 2 2 1 0 0 - (*F na forma de E)
+E4*  = 0 2 2 2 0 0 - (*F4 na forma de E4)
+E4(6)*  = 12 11 9 9 10 9 - (*F4(6) na forma de E4(6))
+E7*  = 0 2 2 1 3 0 - (*F7 na forma de E7)
+E7/D*  = X 5 X 4 5 4 - (*F7/D# na forma de E7/D)
+F#m*  = 2 4 4 2 2 2 - (*Gm na forma de F#m)

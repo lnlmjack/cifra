@@ -1,0 +1,54 @@
+Noel Rosa - Só Pode Ser Você
+
+(Noel Rosa e Vadico)
+
+C6/9                 Cº
+     Compreendi seu gesto
+C6/9        A7/b13       Dm7/9             Dm/C
+     Você entrou naquele meu chalé modesto
+Bm7/b5            E7  Am7
+     Porque pretendia somente saber
+                Em7        B7     Em7 A7/b13 Dm7 G7/13
+     Qual era o dia em que eu deixaria de viver
+C6/9               Cº
+    Mas eu estava fora
+C6/9         A7/b13            Dm7/9         Dm/C
+    Você mandou lembranças e foi logo embora
+Bm7/b5          E7 Am7
+    Sem dizer qual o primeiro nome
+            Em7
+    De tal visita
+            B7          Em7 A7/b13 Dm7 G7/13
+    Mais cruel, mais bonita que sincera
+Dm7                 Dm/C     Bm7/b5  E7
+    E pelas informações que recebi já vi
+
+A7                   A7/b9       D7/9
+   Que essa ilustre visita era você
+Dm7/9       G7/13 G7/b13       E7/+5  E7/6  E7
+    Porque não existe nessa vida
+A7/b13             Dm7     G7
+    Pessoa mais fingida
+            C6/9
+    Do que você
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/b13 = X 0 X 0 2 1
+A7/b9 = 5 X 5 3 2 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7/b5 = X 2 3 2 3 X
+C6/9 = X 3 2 2 3 3
+Cº = X 3 4 2 4 2
+D7/9 = X 5 4 5 5 X
+Dm/C = X 3 X 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+E7 = 0 2 2 1 3 0
+E7/+5 = 0 X 0 1 1 0
+E7/6 = 0 X 0 1 2 0
+Em7 = 0 2 2 0 3 0
+G7 = 3 5 3 4 3 3
+G7/13 = 3 X 3 4 5 X
+G7/b13 = 3 X 3 4 4 3

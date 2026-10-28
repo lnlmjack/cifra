@@ -1,0 +1,91 @@
+Jorge Aragão - Coisa de Pele
+
+[Intro] G7M  Am7  Bm7  E7/9-  Am6
+        Cm6  Bm7  E7  Am7  D7
+
+  G7M
+Podemos sorrir
+             F#m7(b5)  B7(b9)
+Nada mais nos impede
+   Em7
+Não dá pra fugir
+              Dm7   G7
+Dessa coisa de pele
+   C7M       C#°
+Sentida por nós
+   G          E7
+Desatando os nós
+  A7(13)     A7(b13)
+Sabemos agora
+     Am7                   D7(b13)
+Nem tudo que é bom vem de fora
+   G7M                     F#m7(b5)     B7(b9)
+E a nossa canção pelas ruas e bares
+
+     Em7
+Nos traz a razão
+             Dm7   G7
+Relembrando Palmares
+   C7M        C°
+Foi bom insistir
+    G        E7
+Compôr e ouvir
+   A7(13)    A7(b13)    Am7               D7(b13)
+Resiste quem pode na força dos nossos pagodes
+    Gm
+E o samba se faz
+             D/F#
+Prisioneiro pacato dos nossos tantãs
+   Fm6        G7
+O banjo liberta
+            Cm     G7         Cm
+Da garganta do povo as suas emoções
+  F7
+Alimentando muito mais
+   Bb
+A cabeça de um compositor
+  A#°
+Eterno reduto de paz
+ Am7                 D7       G
+Nascente das várias feições do amor
+
+[Refrão]
+
+      D/F#  B7       Em     E7
+Art popular do nosso chão
+  Am                     D7
+É o povo quem conduz o show
+           G
+E assina a direção
+
+----------------- Acordes -----------------
+A#° = X 1 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(b9) = X 2 1 2 1 X
+Bb = X 1 3 3 3 1
+Bm7 = X 2 4 2 3 2
+C#° = X 4 5 3 5 3
+C7M = X 3 2 0 0 X
+Cm = X 3 5 5 4 3
+Cm6 = X 3 X 2 4 3
+C° = X 3 4 2 4 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D7(b13) = X 5 X 5 7 6
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+E7/9- = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m7(b5) = 2 X 2 2 1 X
+F7 = 1 3 1 2 1 1
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+G7M = 3 X 4 4 3 X
+Gm = 3 5 5 3 3 3

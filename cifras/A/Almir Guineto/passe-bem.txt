@@ -1,0 +1,57 @@
+Almir Guineto - Passe Bem
+
+Introdução: G7M / G6(9) / Gm6 / F#m7 / % / B7 / % / E7 / % / A7 / % / D / A7
+
+
+D6(9)
+Passe bem
+                E7(9)
+Se é por falta de adeus então
+               Em7 A7 A7(13)
+Com prazer vou lhe estender a mão
+       D6(9)    A7
+Pra dizer adeus e nada mais
+D6(9)
+Passem bem
+           E7(9)
+Não esqueça de levar porem
+           Em7 A7
+Eu presumo que por lá também
+             D  D7
+Você pode precisar de mais
+G7M    G#m7(5b)
+Passe bem
+
+C#7          F#m7  B7
+Bem depressa se me encontrar
+            Em7    A7
+Não me olhe ou tente me falar
+               Am   D7
+Que eu não vou lhe responder jamais
+G7M   G#m7(5b)
+Passem bem
+C#7          F#m7  C7 B7
+Bem distante do meu coração
+            Em7   A7
+Vou viver com minha solidão
+           D  A7
+Que carece de sofrer em paz
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D6(9) = X 5 4 2 0 0
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+E7(9) = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G#m7(5b) = 4 X 4 4 3 X
+G6(9) = X X 5 4 5 5
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

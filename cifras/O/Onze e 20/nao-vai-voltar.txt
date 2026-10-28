@@ -1,0 +1,149 @@
+Onze:20 - Não Vai Voltar
+
+(afinação 1/2 tom abaixo)
+
+Intro: D7M  A7M  F#m  E
+
+Solo Intro:
+
+   D7M(9)
+E|-------0-------0-------0-------0----------|
+B|---3-------3-------3-------3--------------|
+G|-----6-------6-------6-------6------------|
+D|-0----------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+   A7M
+E|-------0-------0-------0-------0----------|
+B|---2-------2-------2-------2--------------|
+G|-----1-------1-------1-------1------------|
+D|------------------------------------------|
+A|-0----------------------------------------|
+E|------------------------------------------|
+
+
+   F#m7(11)
+E|-------0-------0-------0-------0----------|
+B|---0-------0-------0-------0--------------|
+G|-----2-------2-------2-------2------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|-2----------------------------------------|
+
+   E11
+E|-------0-------0-------0-------0----------|
+B|------------------------------------------|
+G|---2-------2-------2-------2--------------|
+D|-----6-------6-------6-------6------------|
+A|------------------------------------------|
+E|-0----------------------------------------|
+
+Primeira Parte:
+
+F#m
+    Abro os meus olhos
+         E
+Hoje percebo que nada foi em vão
+F#m
+    O sol que arde
+             E
+Invade as janelas do coração
+           D7M
+E bate no peito e deixa sem jeito
+              C#m7
+E te faz lembrar uma bela canção
+        Bm7
+Porque hoje você faz doce
+              E7(4/9)
+E nem muda a cara pra pedir perdão
+
+F#m
+    Sei que por dentro
+         E
+Leva no peito toda desilusão
+F#m
+    Chora em segredo
+            E
+Sofre em silêncio, eu sei
+       D7M
+Que a vida vai ser bonita
+         C#m7
+E com o tempo eu volto a sorrir
+     Bm7
+E se ontem você fez doce
+             E7(4/9)
+Sei que amanhã não vai viver sem mim
+
+Refrão:
+                         D7M
+Não sei por que você já pôs
+                       A7M
+Outra pessoa em meu lugar
+                       F#m
+Eu sinto que assim já foi
+                   E
+Mais fácil de aceitar
+                   D7M
+E mesmo se você mudar
+                      A7M
+Querer voltar, não adianta mais
+                    F#m
+Agora que você quebrou
+                       E
+Aquilo que não vai voltar
+
+Intro: D7M  A7M  F#m  E
+
+Segunda Parte:
+
+F#m
+    Abro os meus olhos
+         E
+Hoje percebo que nada foi em vão
+F#m
+    O sol que arde
+             E
+Invade as janelas do coração
+              D7M
+Eu sei que a vida vai ser bonita
+         C#m7
+E com o tempo eu volto a sorrir
+     Bm7
+E se ontem você fez doce
+             E7(4/9)
+Sei que amanhã não vai viver sem mim
+
+Refrão 2x:
+                         D7M
+Não sei por que você já pôs
+                       A7M
+Outra pessoa em meu lugar
+                       F#m
+Eu sinto que assim já foi
+                   E
+Mais fácil de aceitar
+                   D7M
+E mesmo se você mudar
+                      A7M
+Querer voltar, não adianta mais
+                    F#m
+Agora que você quebrou
+                       E
+Aquilo que não vai voltar
+
+Intro: D7M  A7M  F#m  E
+
+(termina com fade out)
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D7M = X 5 7 6 7 5
+D7M(9) = X X 0 6 3 0
+E = 0 2 2 1 0 0
+E11 = 0 X 6 2 0 0
+E7(4/9) = X 7 7 7 7 7
+F#m = 2 4 4 2 2 2
+F#m7(11) = 2 X 2 2 0 X

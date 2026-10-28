@@ -1,0 +1,74 @@
+Rodriguinho - Digo Que Te Amo
+
+[Intro] F7M  Em7(b5)  A7  Dm
+        Cm7  F7  Bb7M  Cm7
+        Gm7  Dm7  C7  C7(11)  C7
+
+[Solo] C  F  G  G  A
+       C  Bb  A  Bb  A
+       G  G  F  A  G
+       F  A  G  F
+       C  D  G  Bb  C
+       G  A  Bb  C  F
+       G  D  C
+       F  G  E  D  C
+
+            F7M              G7(11)
+Digo que te amo e você ri de mim
+               Em7                 A7  Dm7
+Diz que nessa idade o coração inventa, pare
+               G7(11)
+Não me trate assim
+                    Em7               A7
+Não sou mais tão criança como você pensa
+
+
+   Gm7               C7
+Na vida ninguém sabe tudo
+                   F7M
+E eu não sei quase nada
+              Dm7
+E você também não
+   Gm7                   C7
+Se acha tão sabida e não vê
+                     F7M
+Um amor tão lindo sorrindo
+              Dm7
+Lhe pedindo a mão
+
+   F7
+Tá toda mudada
+    Cm7
+Tá igual todo mundo
+    Bb7M
+Não ouve ninguém
+       Gm7         Cm7
+Quase me esqueceu, tome cuidado
+    F7
+Se olhar bem no fundo
+    Bb7M
+Vai ver que é muito mais
+   Gm7         C7
+Criança do que eu
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bb = X 1 3 3 3 1
+Bb7M = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7(11) = X 3 3 3 1 X
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+Em7(b5) = X X 2 3 3 3
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G7(11) = 3 5 3 5 3 X
+Gm7 = 3 X 3 3 3 X

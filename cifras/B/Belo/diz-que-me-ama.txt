@@ -1,0 +1,71 @@
+Belo - Diz que me ama
+
+(intro)
+
+E|--------------------|--------------------|
+B|-----0--1--3--5-----|-----0--1--3--5-----|
+G|--2--------------2--|--2--------------2--|
+D|--------------------|--------------------|
+A|--------------------|--------------------|
+E|--------------------|--------------------|
+
+  Am
+Você foi embora
+      Em7
+Sinto falta de você
+        F7+
+Eu não vejo a hora
+         Em7
+De um novo dia amanhecer
+       Am
+Pra te encontrar de novo
+      Em7
+Te abraçar com prazer
+
+      F7+             G7
+Quero sentir teu corpo
+       C7+       E7
+E poder te dizer
+
+Am
+Que eu te amo muito
+      Am5+                 Am/G          D79
+E a cada minuto aumenta mais o meu querer
+      Dm79      A7/5+       Dm       Em7
+De abraçar você... E de beijar você
+F7+        Em7          Dm        F/G
+Cada vez mais me entregar para você
+
+           C7+/9      G/B
+Então diz que me ama
+Am                   Am/G
+Quando você chegar
+           F7+                  Em7
+Senta em meu colo, olha os meus olhos
+                  Dm        F/G
+E deixa a emoção nos guiar
+             C7+/9    G/B
+Então diz que me ama
+Am             Am/G
+Quando me encontrar
+           F7+
+Diz que é meu anjo
+            Em7             Dm       F/G
+E que esse sonho não vai se acabar
+
+----------------- Acordes -----------------
+A7/5+ = X 0 X 0 2 1
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am5+ = 5 8 7 5 6 5
+C7+ = X 3 2 0 0 X
+C7+/9 = X 3 2 4 3 X
+D79 = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+Dm79 = X 5 3 5 5 X
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

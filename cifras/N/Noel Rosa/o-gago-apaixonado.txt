@@ -1,0 +1,61 @@
+Noel Rosa - O Gago Apaixonado
+
+[Intro] G  Am/G  Am7/G
+
+G   Am/G   Am7/G          G       Am/G         D/C
+Mu   mu   mulher em mim fi   fizeste um estrago
+        Bm7              E7            Am  E7/B  Am
+Eu de nervoso esto  tou fi   ficando gago
+         F#m7(b5)        B7(b9)   Em         Em/D
+Não po   posso com a cru   crueldade da saudade
+                A7/13      Am7         D7(9)
+Que   mal   maldade, vi   vivo sem afago
+G/B         C#°                   A#°  E°  G°  Em7
+Tem   tem pe   pena deste mo   mo   moribundo
+F#m7(b5)        B7                      Em7  Dm7  G7(b9)
+Que   que já virou va   va   ga   gabundo
+C7M                       D/C                 Bm7    E7
+Só   só   só   só    por ter so   so   fri   frido
+Tu   tu   tu   tu   tu   tu   tu   tu
+    Am7            D7(9)     G
+Tu tens um co   coração fingido!
+
+( G  Am/G  Am7/G )
+
+
+  G/B            C#°      A#°  E°  G°  Em7
+Teu   teu co   coração me entregaste
+ F#m7(b5)                 B7                 Em7  Dm7  G7(b9)
+De   de   pois   pois de mim tu to   toma   maste
+ C7M                     D/C             Bm7  E7
+Tu   tua falsi   si   sidade é profu   funda
+Tu   tu   tu   tu   tu   tu   tu   tu
+    Am7         D7(9)      G
+Tu vais fi   ficar corcunda!
+
+----------------- Acordes -----------------
+A#° = X 1 2 0 2 0
+A7/13 = X 0 X 0 2 2
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(b9) = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+C#° = X 4 5 3 5 3
+C7M = X 3 2 0 0 X
+D/C = X 3 X 2 3 2
+D7(9) = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+E7/B = X 2 2 1 3 X
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+E° = X X 2 3 2 3
+F#m7(b5) = 2 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7(b9) = 3 X 3 1 0 X
+G° = 3 X 2 3 2 X

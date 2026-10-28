@@ -1,0 +1,114 @@
+Oasis - Bring It On Down
+
+Acordes
+-------
+B5      (x2444x)
+B5/A    (x0444x)
+Dsus2   (x57755)
+E       (022100)
+Esus2   (x79977)
+A       (577655)
+G       (355433)
+
+Riff Principal
+--------------
+h= hammer
+
+   B5/A    B5    B5/A    B5    B5/A    B5   B5/A    B5    D        E2   D   
+e---------------------------------------------------------------------------
+B--4-4-4-4-4-4---4-4-4-4-4-4---4-4-4-4-4-4--4-4-4-4-4-4---7-7-7-7--9-9--7-7-
+G--4-4-4-4-4-4---4-4-4-4-4-4---4-4-4-4-4-4--4-4-4-4-4-4---7-7-7-7--9-9--7-7-
+D--4-4-4-4-4-4---4-4-4-4-4-4---4-4-4-4-4-4--4-4-4-4-4-4---7-7-7-7--9-9--7-7-
+A--0-0-0-0h2-2---0-0-0-0h2-2---0-0-0-0h2-2--0-0-0-0h2-2---5-5-5-5--7-7--5-5-
+E---------------------------------------------------------------------------
+
+
+[repetir]
+
+Se não gostar da sonoridade do riff acima, tente esse:
+
+s=slide
+
+   A5      B5    A5      B5    A5      B5   A5      B5    D        E2   D
+e---------------------------------------------------------------------------
+B---------------------------------------------------------7-7-7-7--9-9--7-7-
+G---------------------------------------------------------7-7-7-7--9-9--7-7-
+D--7-7-7-7s9-9---7-7-7-7s9-9---7-7-7-7s9-9--7-7-7-7s9-9---7-7-7-7--9-9--7-7-
+A--7-7-7-7s9-9---7-7-7-7s9-9---7-7-7-7s9-9--7-7-7-7s9-9---5-5-5-5--7-7--5-5-
+E--5-5-5-5s7-7---5-5-5-5s7-7---5-5-5-5s7-7--5-5-5-5s7-7---------------------
+
+[repetir]
+
+
+Intro
+-----
+B (muitas vezes)
+B5 (c/ riff)  D  E5  D  B5
+
+Verso 1
+-------
+B5 (c/ riff)
+What was that sound ringin' around your brain?
+  D                        E2    D           B5
+Today was just a blur, you got a head like a ghost train
+What was that sound ringin' around your brain?
+       D                 E2         D          B5
+You're here on your own, who you gonna find to blame?
+
+Pre-refrão
+----------
+           B5      D  A            B            D  A
+You're the outcast      you're the underclass
+        B5         D  A                B5           D   A
+But you don't care      because you're living fast
+
+
+Refrão
+------
+           B5                   D
+You're the uninvited guest that stays till the end
+  G                                  E
+I know you've got a problem that the devil sends
+    B5                                      D
+You think they're talking 'bout you but you don't know who
+        G                           E
+I'll be scraping your life from the sole of my shoe tonight
+
+Transição
+---------
+   G           E
+D--5--5--------2--2----
+A--5--5--------2--2----
+E--3--3--3-2-1-0--0----
+
+Verso 2
+-------
+Bring it on down. Bring it down for me.
+Your head's in a fish tank
+your body and your mind can't breathe
+
+Pre-Refrão
+----------
+You're the outcast - you're the underclass
+But you don't care - because you're living fast
+
+Refrão
+------
+You're the uninvited guest who stays till the end
+I know you've got a problem that the devil sends
+You think they're talking 'bout you but you don't know who
+I'll be scraping your life from the sole of my shoe tonight
+
+[Acaba em B]
+
+Rafael Tosta
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E2 = 0 2 4 1 0 0
+G = 3 2 0 0 0 3

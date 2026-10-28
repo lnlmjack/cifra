@@ -1,0 +1,58 @@
+Belo - Se For Sonhar
+
+Introdução: A7sus4 A7(13) D7+ F#m7/9 Bsus D/E
+
+
+A7+                        D7+     D/E
+Se for sonhar quero sonhar contigo  meu amor
+A7+                       Em7  A7
+E acordar vivendo um sonho lindo  meu amor
+ Dm               Gsus
+Agente não pode ficar assim
+                             C7+    Bm7     D/E
+A solidão que sinto agora ta doendo, ta doendo.
+A7+                          D7+      D/E
+Se é pra viver, quero viver te amando  meu amor
+A7+                        Em7         A7
+O meu carinho vai secar teu pranto   meu amor
+Dm                               Gsus
+O que eu mais quero é te fazer feliz
+                             C7+ D/E C7+
+Esqueça tudo e fica do meu lado,
+ Bm7    D/E
+do meu lado.
+
+A7+   E/F#      F#m7    Em7 A7 D7+  C#m7
+Se você voltar, eu aqui estou pronto pra te dar.
+Bm7      D/E
+Meu amor, meu amor.
+A7+    E/F#      G/A  A/G    F#m7
+Dou o céu e o mar, peço ao senhor.
+      A/C#   Bm7    D/E
+Pra abençoar nosso amor, nosso amor.
+Se for sonhar ...
+final: G/A  D7+  B7  Esus
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7+ = X 0 2 1 2 0
+A7sus4 = X 0 2 0 3 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+Bsus = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+C7+ = X 3 2 0 0 X
+D/E = X X 2 2 3 2
+D7+ = X X 0 2 2 2
+Dm = X X 0 2 3 1
+E/F# = X X 4 4 5 4
+Em7 = 0 2 2 0 3 0
+Esus = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+F#m7/9 = X X 4 2 5 4
+G/A = 5 X 5 4 3 X
+Gsus = 3 2 0 0 0 3

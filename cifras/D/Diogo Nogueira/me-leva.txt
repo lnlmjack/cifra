@@ -1,0 +1,68 @@
+Diogo Nogueira - Me Leva
+
+[Intro] C#m7/5-  D/C  Bm7  E4/7  E7  A7  Eb7  D7
+
+G                      D7  D#º  Em
+ Tudo nasceu de brincadeira
+                     B7
+Nas cordilheiras da ilusão
+C                       G
+ Veio num vento sem destino
+A7                   D7  D7/5+
+ Amor menino fez paixão
+
+G                         D7   D#º  Em
+ Foi me invadindo pouco a pouco
+                B7        G
+Me deixou louco de prazer
+C                       G
+ Depois subiu no mesmo vento
+A7                  D7     Gm/B  G/B  C
+ Fiquei aos poucos sem você
+
+                       G
+Deixou marcado o seu sorriso
+
+D7                  G        G7
+ Que não me deixa te esquecer
+C                G
+E me tirou do paraíso
+A7          D7     G        D7
+  Sem um sentido,  pra viver
+
+    G
+Me leva, óh, vento
+             B7/Eb
+Me leva pra ela
+    Em
+Me leva
+                      B7  G7
+Me faça ficar junto  dela
+C                      D/C
+É desse amor que eu preciso
+   Bm7                    E  E7
+Preciso e não posso esquecer
+   C#m7/5-         D/C
+Eu faço de tudo no mundo
+              G/B  D7/5+  D7
+Pra não te perder
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+B7/Eb = X X 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m7/5- = X 4 5 4 5 X
+D#º = X X 1 2 1 2
+D/C = X 3 X 2 3 2
+D7 = X X 0 2 1 2
+D7/5+ = X 5 X 5 7 6
+E = 0 2 2 1 0 0
+E4/7 = 0 2 0 2 0 X
+E7 = 0 2 2 1 3 0
+Eb7 = X 6 5 6 4 X
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

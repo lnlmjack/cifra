@@ -1,0 +1,228 @@
+U2 - Elevation
+
+Note: The Edge seems to be using a lot of different distortion effects through most of the song.  I've tried to match them as best as I can:  Guitar #1 requires the gain and bass buttons on your amp to be turned all the way up (10), and the treble button to be turned all the way down.  Guitar #2 requires the gain, treble, and bass to all be turned up to 10.
+
+Intro
+
+Play riff 1 seven times, then (Bono singing "Ooh!") play riff 2 along with riff 1 seven times.
+
+
+(Guitar 1)
+|--------------------------|
+|--------------------------|
+|----9---------------------|
+|----9--x2---------7-------|
+|----7--------------7-x2---|
+|--------------------5-----|
+
+(Guitar 2)
+|---------------------------|
+|---------------------------|
+|----9-------------14-------|
+|----9-x4---------14-x4-----|
+|----7-------------12-------|
+|---------------------------|
+
+
+Before verse 1 starts, add this riff in using guitar 2:
+
+
+(Guitar 2)
+|----------------------------------------|
+|----------------------------------------|
+|----4-4--4-4-4 \ 2----2--2--------------|
+|----4-4--4-4-4 \ 2----2--2--------------|
+|----2-2--2-2-4 \ 0----0--0--------------|
+|----------------------------------------|
+
+Verse 1
+
+(Guitar 1)
+     B5      A5            E5
+|------------------------------------|
+|------------------------------------|
+|----4--4 \ 2--2--2-----9---9--------|
+|----4--4 \ 2--2--2-----9---9--------|   x4
+|----2--2 \ 0--0--0-----7---7--------|
+|------------------------------------|
+Chorus
+
+The chorus uses the same chords from verse 1, plus the following acoustic riff:
+
+(Guitar 2 in acoustic)
+|---------------------------------------------------------|
+|----5p3h5-----5p3h5------3---0----5p3h5----5p3h5--0--3---|
+|---------------------------------------------------------|
+|---------------------------------------------------------|     x4
+|---------------------------------------------------------|
+|---------------------------------------------------------|
+
+Verse 2
+
+(Guitar 1)
+     B5      A5            E5
+|------------------------------------|
+|------------------------------------|
+|----4--4 \ 2--2--2-----9---9--------|
+|----4--4 \ 2--2--2-----9---9--------|   x4
+|----2--2 \ 0--0--0-----7---7--------|
+|------------------------------------|
+
+Chorus
+
+The chorus uses the same guitar 1 chords from verse 2, plus the following acoustic riff:
+
+(Guitar 2 in acoustic)
+|---------------------------------------------------------|
+|----5p3h5-----5p3h5------3---0----5p3h5----5p3h5--0--3---|
+|---------------------------------------------------------|
+|---------------------------------------------------------|    x4
+|---------------------------------------------------------|
+|---------------------------------------------------------|
+
+
+Bridge Lead in
+(Play this before the bridge while Bono is singing "Oooh")
+
+Riff 1 + Riff 2 x7.  On the last time, add in riff 3 with guitar 2
+
+Bridge
+
+The bridge is an acoustic section (While Bono is singing "Love, lift me up out of these...) It uses the chords E, D, A.  Just finger pick each chord
+
+Chord diagram:
+
+     E                   D                    A
+|----7-----|       |---10----|        |----5----|
+|----9-----|       |---10----|        |----5----|
+|----9-----|       |---11----|        |----6----|
+|----9-----|       |---12----|        |----7----|
+|----7-----|       |---12----|        |----7----|
+|----7-----|       |---10----|        |----5----|
+
+E                  A
+Love, lift me up out of these blues
+E                                                 D                      A
+Won't you tell me something true     I believe in you
+
+Chorus
+
+The chorus uses the same guitar 1 chords from verse 2, plus the following acoustic riff:
+
+(Guitar 2 in acoustic)
+|---------------------------------------------------------|
+|----5p3h5-----5p3h5------3---0----5p3h5----5p3h5--0--3---|
+|---------------------------------------------------------|
+|---------------------------------------------------------|    x4
+|---------------------------------------------------------|
+|---------------------------------------------------------|
+
+Outro
+
+Play these two bits together 4 times
+
+(Guitar 1)
+|------------------------|
+|------------------------|
+|------9----8----7-------|
+|------9----8----7-------|
+|------7----6----5-------|
+|------------------------|
+
+(Guitar 2)
+|-------------------------|
+|-------------------------|
+|----9-------------14-----|
+|----9-x2---------14-x2---|
+|----7-------------12-----|
+|-------------------------|
+
+After you've played this four times, fade out with riff 1 and riff 2
+
+Lyrics:
+
+Intro
+
+Yeah, yeah
+
+Ooh!
+
+Verse 1
+
+High, higher than the sun
+You shoot me from a gun
+I need you to elevate me here
+At the corner of your lips
+As the orbit of your hips
+Eclipse
+You elevate my soul
+
+Chorus
+
+I've got no self-control
+Been living like a mole now
+Going down,
+Excavation
+I and I, in the sky
+You make me feel like I can fly,
+So high
+El-e-vation
+
+Verse 2
+
+A star, lit up like a cigar
+Strung out like a guitar
+Maybe you could educate my mind
+Explain all these controls
+I can't sing but I've got soul
+The goal,
+Is elevation
+
+Chorus
+
+A mole, diggin' in a hole
+Digging up my soul now
+Going down
+Excavation
+I and I, in the sky
+You make me feel like I can fly,
+So high
+El-e-vation
+
+Bridge lead in
+
+Ooh!
+
+Bridge
+
+Love, lift me up out of these blues
+Won't you tell me something true
+I believe in you
+
+Chorus
+
+A mole, diggin' in a hole
+Digging up my soul now
+Going down excavation
+I and I, in the sky
+You make me feel like I can fly
+So high
+El-e-vation
+
+Outro
+
+Ooh!
+Ooh!
+Hoo hoo!
+Ooh!
+Ooh!
+Ooh!
+Ooh!
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X

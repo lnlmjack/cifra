@@ -1,0 +1,71 @@
+Fundo de Quintal - Fogo de saudade
+
+Intro: D  Dm/B  C#m  F#7  B7  E7  A7+
+
+A7+                     C#7
+Dentro do meu ser  arde uma paixão
+ D                E7
+ Fogo da saudade me invade o coração
+C#7             F#m     F5+   F#m
+Foi sem perceber que o amor chegou
+B7                       Bm        E7
+  Sem nem mais por quê a luz se apagou
+  A7+   D             G#m7/5b       C#7
+E sendo assim a minha voz não vou calar
+  F#m     B7     Em           A7/6  A7/5+
+Desejo sim que o novo sol venha brilhar
+D            Dm/B  A                F#7
+Quem ama pra valer no amor se fortalece
+B7                 Bm7                  E7
+ Não fiz por merecer a dor que me entristece
+  A7+   D             G#m7/5b    C#7
+E sendo assim a minha voz não vou calar
+  F#m      B7        Em           A7/6  A7/5+
+Desejo sim que o novo sol venha brilhar
+
+D#º          Dm            C#m        F#7
+Só quero meu lugar nas asas  dessa ilusão
+B7            E7       A7+      G7
+ Que tanto me fez chorar
+
+C7+  F    Bm7/5b       E7
+Laialaia laialaia laialaia
+   Am   D7       Gm       C7/6  C7/5+
+Laialaia  lalalaia laialaia
+F#º         Fm        Em            A7
+Só quero meu lugar nas asas dessa ilusão
+D7            G7     C7+     A7
+ Que tanto me fez chorar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+A7/5+ = X 0 X 0 2 1
+A7/6 = X 0 X 0 2 2
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7/5b = X 2 3 2 3 X
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C7+ = X 3 2 0 0 X
+C7/5+ = X 3 X 3 5 4
+C7/6 = X 3 X 3 5 5
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm/B = X 2 X 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#º = 2 X 1 2 1 X
+F5+ = X X 3 2 2 1
+Fm = 1 3 3 1 1 1
+G#m7/5b = 4 X 4 4 3 X
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

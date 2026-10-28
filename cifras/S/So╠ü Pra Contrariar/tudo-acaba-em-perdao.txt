@@ -1,0 +1,177 @@
+Só Pra Contrariar - Tudo acaba em perdão
+
+Introdução: C#7+   B7+
+
+   A7+
+-Se a gente brigar, as
+ palavras não vêm do coraçao, (uu..)
+ E o tempo logo vai nos
+ mostrar que no final tudo acaba em perdão, (uu..)
+
+          A7+
+Quantas vezes nós brigamos
+        G#m7         C#7
+Muitas vezes sem motivo e o orgulho
+    F#m7+
+       F#m7          F#m6
+Era dificil de quebrar
+        G#m7/5-       E7
+Fico eu também você sem se falar
+A7   A6
+           A7
+Com o tempo eu esqueço
+      G#m7/5-         C#7
+Você finge não lembrar
+
+      F#m7            F#m
+E um beijo põe as coisas no lugar
+ F#m6
+     Bm7               E7     A7
+É assim o nosso jeito de amar
+     F#m7
+             D7+       E/D
+Eu ja tentei tudo acabar
+               Fº          F#m7
+A nossa história pôr um fim
+               D7+
+Mas eu te amo demais
+            E/D        C#m7
+Que fazer se gosto assim
+ F#4/7
+F#m7         D7+         E/D
+Sei que no fundo você me ama
+        Fº              F#m7
+Sua metade eu sei que sou
+             Bm7
+As nossas brigas
+         E7          A7
+Fazem parte desse amor
+ G/A
+A/G        F#m6
+Olha pra mim
+        Dm/F            A7/E
+Terminar só nos faz sofrer
+       F#m7
+Tá na cara
+               Bm7
+O meu lance é você
+            E7
+Mesmo brigando
+              G/A
+Eu te quero comigo
+     A7         F#m6
+Se a gente brigar
+       Dm                  A7+/E
+As palavras não vêm do coração
+     F#m7                    Bm7
+-E o tempo logo vai nos mostrar
+          D/E                A7
+Que no final tudo acaba em perdão
+  +
+
+Solo D7+  D6  A7  D/E
+
+   Eb
+        Bb7+
+Com o tempo eu esqueço
+      Am7/5-         D7
+Você finge não lembrar
+      Gm7+         Gm7
+E um beijo põe as coisas no lugar
+ C7
+     Cm7           F7       Bb7+
+É assim o nosso jeito de se amar
+  Gm7
+          Eb7+         F/Eb
+Eu ja tentei tudo acabar
+           F#             Gm7
+A nossa história pôr um fim
+           Eb7
+Mas eu te amo
+       F/Eb             Dm7
+Que fazer se gosto assim
+ Gm7
+           Eb7            F/Eb
+Sei que no fundo você me ama
+       F#               Gm7
+Sua metade eu sei que sou
+           Cm7
+As nossas brigas
+        Eb/F             Bb7+
+Fazem parte desse amor, uuu...
+    Ab/Bb
+Bb7       Gm6
+Olha pra mim
+         Gb6            Bb7/F
+Terminar só nos faz sofrer
+       Gm7
+Tá na cara
+                Cm7
+O meu lance é você
+           F7
+Mesmo brigando
+                Ab/Bb   Bb7
+Eu te quero comigo
+               Gm6
+Se a gente brigar
+       Gb6
+As palavras não vêm do coraçao,
+    Bb7+/F
+do coração
+    Gm7                    Cm7
+E o tempo logo vai nos mostrar
+         Eb/F                Bb7
+Que no final tudo acaba em perdão
+   +   Bb7
+           Gm6
+Olha pra mim....
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+A6 = 5 X 4 6 5 X
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+A7+/E = X X 2 2 2 4
+A7/E = 0 X 2 2 2 3
+Ab/Bb = X 1 1 1 1 X
+Am7/5- = 5 X 5 5 4 X
+B7+ = X 2 4 3 4 2
+Bb7 = X 1 3 1 3 1
+Bb7+ = X 1 3 2 3 1
+Bb7+/F = X X 3 3 3 5
+Bb7/F = X X 3 3 3 4
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#7+ = X 4 6 5 6 4
+C#m7 = X 4 6 4 5 4
+C7 = X 3 2 3 1 X
+Cm7 = X 3 5 3 4 3
+D/E = X X 2 2 3 2
+D6 = X 5 4 2 0 X
+D7 = X X 0 2 1 2
+D7+ = X X 0 2 2 2
+Dm = X X 0 2 3 1
+Dm/F = X X 3 2 3 1
+Dm7 = X 5 7 5 6 5
+E/D = X 5 X 4 5 4
+E7 = 0 2 2 1 3 0
+Eb = X 6 5 3 4 3
+Eb/F = X 8 8 8 8 X
+Eb7 = X 6 5 6 4 X
+Eb7+ = X X 1 3 3 3
+F# = 2 4 4 3 2 2
+F#4/7 = 2 4 2 4 2 X
+F#m = 2 4 4 2 2 2
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+F#m7+ = X X 4 6 6 5
+F/Eb = X X 1 2 1 1
+F7 = 1 3 1 2 1 1
+Fº = X X 3 4 3 4
+G#m7 = 4 X 4 4 4 X
+G#m7/5- = 4 X 4 4 3 X
+G/A = 5 X 5 4 3 X
+Gb6 = 2 X 1 3 2 X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X
+Gm7+ = 3 5 4 3 3 3

@@ -1,0 +1,70 @@
+Jorge Aragão - Enredo Do Meu Samba
+
+D6(9)                      C#m5-/7       F#7(9)
+Não entendi o enredo desse samba amor
+       Bm7M         Bm7         Am7   D7(9)
+Já desfilei na passarela do teu coração
+  G7M          G#º     D6(9)     C7(9)      B7
+Gastei a subvenção do amor que você me entregou
+  Em9              F#m5-/7       C7(9)   B7
+Passei pro segundo grupo e com razão
+   E7/G#            A7(13-)      D6(9)                            1ª  A4(7/9)     A7(9-)
+Passei pro segundo grupo e com razão                              2ª  A7(13-)
+
+**      D6(9)                    Dº
+Meu coração carnavalesco não foi mais que um adereço
+        F#m5-/7                B4          B7
+Teve um dez na fantasia mas perdeu em harmonia
+Em9           Fº      D/F#        B7
+Sei que atravessei um mar de alegorias
+ E/G#      E7(9)          Em7(9)     A7(13) C#
+Desclassifiquei o amor de tantas alegrias
+
+   D6(9)        G7         F#7
+Agora eu sei desfilei sob aplausos da ilusão
+
+  F#m5-/7    B7             E7(9)       D7(9)
+E hoje tenho esse samba de amor por comissão
+
+G7M          G#º            D6(9) C7(9) B7
+Finda o carnaval das cinzas pude perceber
+     E7(9)    A7(13-) D6(9)                   1ª  volta **      A7(13-)
+Na apuração perdi você                        2ª  segue pro final       C7(9)     B7
+
+     Final:
+             E/G#   A/G  F#m5-/7   C7(9)     B7
+     Na apuração perdi você...
+                  E7(9)  A4(7/9) A7(9-)    Gm6       D6(9)
+          Na apuração perdi você...
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+A4(7/9) = 5 X 5 4 3 X
+A7(13) = X 0 X 0 2 2
+A7(13-) = X 0 X 0 2 1
+A7(9-) = 5 X 5 3 2 X
+Am7 = X 0 2 0 1 0
+B4 = X 2 4 4 5 2
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+Bm7M = X 2 4 3 3 2
+C# = X 4 6 6 6 4
+C#m5-/7 = X 4 5 4 5 X
+C7(9) = X 3 2 3 3 X
+D/F# = 2 X 0 2 3 2
+D6(9) = X 5 4 2 0 0
+D7(9) = X 5 4 5 5 X
+Dº = X X 0 1 0 1
+E/G# = 4 X 2 4 5 X
+E7(9) = X X 2 1 3 2
+E7/G# = 4 X 2 4 3 X
+Em7(9) = X 7 5 7 7 X
+Em9 = 0 2 4 0 0 0
+F#7 = 2 4 2 3 2 2
+F#7(9) = X X 4 3 5 4
+F#m5-/7 = 2 X 2 2 1 X
+Fº = X X 3 4 3 4
+G#º = 4 X 3 4 3 X
+G7 = 3 5 3 4 3 3
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

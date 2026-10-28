@@ -1,0 +1,139 @@
+Los Hermanos - O Vento
+
+Intro 4x: A7M D5(6/9)
+Dedilhado na Segunda Repetição:
+E|------------9--7--|
+B|----------9-------|
+G|---7-9-10---------|
+D|------------------|
+A|------------------|
+E|------------------|
+
+Primeira Parte:
+A7M                A6         D7M
+    Posso ouvir o vento passar
+           D6      C#m7
+Assistir a onda bater
+          Cº       Bm7
+Mas o estrago que faz
+          E7        A7M
+A vida é curta pra ver
+
+A6     D7M
+Eu pensei
+
+      D6          C#m7
+Que quando eu morrer
+         Cº         Bm7
+Vou acordar para o tempo
+          E7
+E para o tempo parar
+
+Segunda parte:
+D7M     D6         C#m7
+    Um século, um mês
+      Cº      Bm7
+Três vidas e mais
+    E7         A7M  A6
+Um passo pra trás
+
+D7M            C#
+    Por que será?
+
+Terceira Parte:
+( F#m7 Bm7 D7M E7 ) (2x)
+               Vou pensar
+
+Primeira Parte com Variação:
+A7M               A6     D7M
+    Como pode alguém sonhar?
+              D6        C#m7
+O que é impossível   saber
+          Cº           Bm7
+Não te dizer o que eu penso
+         E7       A7M
+Já é pensar em dizer
+
+A6        D7M          D6  C#m7
+E isso eu vi, o vento leva!
+     Cº      Bm7      E7         Bm7
+Não sei mas sinto que é como sonhar
+         E7            Bm7
+Que o esforço pra lembrar
+        E7           A7M Bbº Bm7
+É a vontade de esquecer
+            E7  C#/E
+E isso porque? diz mais !
+
+A7M   A6                        D7M  D6  C#m7
+    Uh... Se a gente já não    sabe mais
+          Cº          Bm7
+Rir um do outro, meu bem
+             E7         A7M
+Então o que resta é chorar
+A6    D7M     D6           C#m7
+E talvez, se tem que durar
+        Cº         Bm7
+Vem, renascido o amor
+          E7     D7M
+Bento de lágrimas
+
+Segunda Parte com Variação na Letra:
+    D6        C#m7
+Um século,  três
+       Cº      Bm7
+Se as vidas atrás
+     E7          A7M    A6
+São parte de nós
+D7M           C#
+    E como será?
+
+F#m7          Bm7                 D7M    E7
+     O vento vai dizer, lento o que virá
+               F#m7
+E se chover demais
+         Bm7              D7M         E7
+A gente vai saber, claro de um trovão
+                     A7M    D5(6/9)  D5(7M/9) D5(6/9) (2x)   A7M  D5(6/9)  (2x)
+Se alguém depois sorrir em paz
+
+Só de encontrar...
+
+ahh!
+Solo:
+E|-------------9--7---7h9----|-------------------------|
+B|-----------9------------10-|-------------------------|
+G|----7-9-10-----------------|-9-10-10-10-9-7-6--6---4-|
+D|-0-------------------------|---0-------------------0-|
+A|----------------0----------|----------------0--0-----|
+E|---------------------------|-------------------------|
+
+E|------------9--9/12--12-13-|-12-10-----7/9---7-------|
+B|----------9----9/12--------|--------10---------------|
+G|---7-9-10------------------|-------------------------|
+D|------------------------0--|-----------------0-------|
+A|---------------0-----------|-------------0-----------|
+E|---------------------------|-------------------------|
+
+E|---7p5-----------------------------------------------|
+B|--------6--------------------------------------------|
+G|-----------7-----------------------------------------|
+D|--------------7--------------------------------------|
+A|--------------0--------------------------------------|
+E|-----------------------------------------------------|
+
+----------------- Acordes -----------------
+A6 = 5 X 4 6 5 X
+A7M = X 0 2 1 2 0
+Bbº = X 1 2 0 2 0
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+C#/E = X X 2 1 2 1
+C#m7 = X 4 6 4 5 4
+Cº = X 3 4 2 4 2
+D5(6/9) = X X 0 2 0 0
+D5(7M/9) = X X 0 2 2 0
+D6 = X 5 4 2 0 X
+D7M = X X 0 2 2 2
+E7 = 0 2 2 1 3 0
+F#m7 = 2 X 2 2 2 X

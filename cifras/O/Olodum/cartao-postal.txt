@@ -1,0 +1,105 @@
+Olodum - Cartão Postal
+
+Introdução: C, F, C, F, C, F, C, F, D, F, C
+
+Solo (para cavaquinho):
+
+C              F         C
+12 15 12 23 22 32  21 23 12
+               F         C
+12 15 12 22 22 32  21 23 32 30
+               F         C
+12 15 12 23 22 32  21 23 12
+               F         D
+12 15 12 23 22 32  21 23 23
+F                 C
+17 15 13 12 23 21 21
+
+C
+Ê! Pelourinho não é mais
+F                         C
+Ê! Pelourinho não é mais não
+                       F
+Pelourinho não é mais sim
+
+
+                        F
+Pelourinho não é mais aquele
+             C
+Olha a cara dele
+                        F
+Pelourinho não é mais aquele
+             C
+Olha a cara dele
+
+                 F
+Você não fica à toa
+                 C
+Tem muita gente boa
+                 F
+Você não fica à toa
+                 C
+Tem muita gente boa
+
+             F
+Aqui tudo mudou
+                         C  ( C - C, C - C)
+São quinze anos que brilhou
+             F
+Aqui tudo mudou
+                         C
+São quinze anos que brilhou
+
+                  F
+Olodum filhos do sol
+                      C
+Reluz e seduz o meu amor
+                  F
+Olodum filhos do sol
+                      C
+Reluz e seduz o meu amor
+
+                  F
+Negros conscientizados
+                     C  ( C - C, C - C)
+Cantam e tocam no Pelô
+                  F
+Negros conscientizados
+                     C
+Cantam e tocam no Pelô
+
+                      F
+Pelourinho, primeiro mundo
+                       C
+Cartão postal de Salvador
+                      F
+Pelourinho, primeiro mundo
+                       C
+Cartão Postal de Salvador
+
+                   F                       C
+Ê! Passa lá, passa lá, passa lá que eu vou
+                F                    C
+Passa lá, passa lá, passa lá no Pelô
+                   F                       C
+Ê! Passa lá, passa lá, passa lá que eu vou
+                F                    C
+Passa lá, passa lá, passa lá no Pelô
+
+
+C
+Ê! Pelourinho não é mais
+F                         C
+Ê! Pelourinho não é mais não
+                       F
+Pelourinho não é mais sim
+                       C
+Pelourinho não é mais, ê!
+
+
+retorna à introdução
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+F = 1 3 3 2 1 1

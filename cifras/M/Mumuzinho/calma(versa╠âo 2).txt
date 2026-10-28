@@ -1,0 +1,105 @@
+Mumuzinho - Calma
+
+[Intro] Em7(9)  Am7  C/D  D7/G#  G7M  B7(13-)  Em7(9)
+
+[Solo]
+
+E|---7--7-10-10---10-12-10-14-10--14-17-14--12-10----------------7------|
+B|--5--5-8--8--8---------------------------------13-12--10----------7---|
+G|--------------------------------------------------------12-11---------|
+D|----------------------------------------------------------------------|
+A|----------------------------------------------------------------------|
+E|----------------------------------------------------------------------|
+
+Em7           Em7M ( C7(13) )2ªX       Em7
+Calma, se não você acorda toda vizinhança
+         E7/9- ( G#º )2ªX      Am7
+É que o cara aí do lado tem criança
+        Am7M                        C/G
+Você não vê que é muito tarde pra brigar?
+           B7(13-)                 Em7
+Quero entender porque você não se acalma
+            Em7M                       Em7
+Só cheguei tarde porque o carro deu problema
+
+     E7(9-)                     Am7
+Eu enguicei ali pertinho de Ipanema
+           Am7M                     C/G
+Meu Deus do céu como o reboque demorou
+        Am7                    Bm7(5-)
+Não tinha como meu amor eu te ligar
+                                Bm7(5-)
+Quando eu tentei, descarregou o celular
+           E7(9-)            A7(13)  A7(13-)
+Se você está desconfiada olha ele aí
+      Am   Am/G    F#m7(5-)       B7
+Pra confirmar que eu não menti
+
+             E7M
+Não sei pra que
+     G#7(5+)
+Me julgar
+       C#m7
+Se perder
+   E/D       A7M                E7M    B7(13)  B7
+Magoar e dizer que não aceita traição
+          E7M            G#7(5+)       C#m7
+Tem que saber que eu fiquei com você
+       E/D       A9/C#        E/G#           F#m7
+Te escolhi pra viver eternamente nos meus planos
+B7
+Só você
+
+[Solo]  C7M  Bb7M  Ab7M  F7M(11+)  B7(9+)  B7(9+)  B7(9+)  B7(9+)
+
+E|-7-8-10-5--7--------------------------------|
+B|------------8-5-----------------------------|
+G|--------------------------------------------|
+D|--------------------------------------------|
+A|--------------------------------------------|
+E|--------------------------------------------|
+
+[Final]  C7M  Bb7M  Ab7M  F7M(11+)  Em7(9)
+
+E|---7-3-----------5-3-------------3-2--------|
+B|-------5-------3-----5----------------------|
+G|---------5-3-5---------5-2-4-2-4------------|
+D|--------------------------------------------|
+A|--------------------------------------------|
+E|--------------------------------------------|
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(13-) = X 0 X 0 2 1
+A7M = X 0 2 1 2 0
+A9/C# = X 4 2 2 0 X
+Ab7M = 4 X 5 5 4 X
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+Am7M = X 0 2 1 1 0
+B7 = X 2 1 2 0 2
+B7(13) = X 2 X 2 4 4
+B7(13-) = X 2 X 2 4 3
+B7(9+) = X 2 1 2 3 X
+Bb7M = X 1 3 2 3 1
+Bm7(5-) = X 2 3 2 3 X
+C#m7 = X 4 6 4 5 4
+C/D = X X 0 0 1 0
+C/G = 3 3 2 X 1 X
+C7(13) = X 3 X 3 5 5
+C7M = X 3 2 0 0 X
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E7(9-) = X X 2 1 3 1
+E7/9- = X X 2 1 3 1
+E7M = X X 2 4 4 4
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+Em7M = X X 2 4 4 3
+F#m7 = 2 X 2 2 2 X
+F#m7(5-) = 2 X 2 2 1 X
+F7M(11+) = 1 3 3 2 0 0
+G#7(5+) = 4 X 4 5 5 4
+G#º = 4 X 3 4 3 X
+G7M = 3 X 4 4 3 X

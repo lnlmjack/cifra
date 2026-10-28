@@ -1,0 +1,65 @@
+Sorriso Maroto - Cadê Você
+
+Introdução: 2x( F7+  F6  Bb7+  C7/9 )
+Solo: 35 37 26 28 15 16 15 26 28 18 18 10 18 15 16 18 26 35 37
+26 28 15 16 15 26 28 18 18  2x( 10 20 18 40 )
+
+F7+                                      C/E
+ Pra que negar tentar mudar a nossa história
+                                    Bb
+ Se o que rolou ficou guardado na memória
+                                     Gm7/9
+ Não vale a pena se enganar não faz sentido
+    C7               C7/13
+ Cadê você, tô sem ninguém
+F7+                C/E
+Eu sei que o teu desejo ainda me chama
+                                     Bb
+ Num sonho tão bonito de amar na nossa cama
+                                  Gm7/9
+ Pra que fugir do amor não faz sentido
+      C7/13          A7  ou  ( 37 26 28 15 )
+ Cadê você, tô sem ninguém
+Dm                  Cm7
+ Vem voltar a nossa vida
+
+      F7             Bb7+
+ Que ficou mal resolvida
+       Gm7/9     C7/13   A7  ou  ( 37 26 28 15 )
+ Pelo nosso amor já deu pra saber
+Dm                            Cm7
+ Que não dá mais pra viver distante
+ F7                 Bb7+
+ Dá pra gente outra chance
+       Gm7/9                C7/13  C7
+ Já chorei bastante pensando em você
+F7+         C/E             Dm
+ Não vê que a gente se ama demais ( cadê você )
+Am                        Dm      D7/4  D7   Gm7
+ Não vê que é preciso voltar nossa paz ( cadê você )
+                    Am7    Bb7+
+ Não me canso de esperar
+                    Bb/C          2x ( 10 20 18 40 )
+ Mas vê se não vai demorar
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bb/C = X 3 X 3 3 1
+Bb7+ = X 1 3 2 3 1
+C/E = 0 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7/13 = X 3 X 3 5 5
+C7/9 = X 3 2 3 3 X
+Cm7 = X 3 5 3 4 3
+D7 = X X 0 2 1 2
+D7/4 = X X 0 2 1 3
+Dm = X X 0 2 3 1
+F = 1 3 3 2 1 1
+F6 = 1 X 0 2 1 X
+F7 = 1 3 1 2 1 1
+F7+ = 1 X 2 2 1 X
+Gm7 = 3 X 3 3 3 X
+Gm7/9 = X X 5 3 6 5

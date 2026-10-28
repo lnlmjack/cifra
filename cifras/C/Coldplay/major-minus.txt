@@ -1,0 +1,142 @@
+Coldplay - Major Minus
+
+Afinação: EADGBd
+
+     Em   G6  Bm11  Bm  C7M/G Am   Em*  D    C
+
+D|---0----0----0----0----0----0----0----0----0----|
+B|---0----0----0----0----0----0----0----0----0----|
+G|---0----0----0----7----0----5---(12)--11---9----|
+D|---9----12---7----9----2----7----14---12---10---|
+A|---7----10---5----9----3----7----14---12---10---|
+E|---x----x----7----7----3----5----0----10---8----|
+
+
+Intro:  G6 Em   G6 Em   \   (x2)
+        Bm11    Bm      /
+
+
+         G6           Em
+They got one eye watching you
+G6               Em
+One eye on what you do
+
+       Bm11                             Bm
+So be careful who it is you're talking to
+
+         G6           Em
+They got one eye watching you
+G6               Em
+One eye on what you do
+        Bm11                               Bm
+So be careful what it is you're trying to do
+
+
+        C7M/G                            Am
+And be careful when you're walking into view
+         C7M/G                          Am
+Just be careful if you're walking into view
+
+
+( Em* )
+
+Em*                        D
+  Ooh ooh ooh, ooh ooh oooooh
+    Bm                              Em*
+Got one eye on the road and one on you
+Em*                        D
+  Ooh ooh ooh, ooh ooh oooooh
+    Bm
+got one eye on the road and one on
+
+
+(Intro)
+
+
+         G6           Em
+They got one eye watching you
+G6               Em
+One eye on what you do
+       Bm11                           Bm
+So be careful cause nothing they say is true
+
+     G6            Em
+No, don't believe a word
+      G6               Em
+It's just us against the world
+     Bm11                       Bm
+And we just gotta a time to be heard
+
+
+            C7M/G                        Am
+Hear those crocodiles ticking round the world
+             C7M/G                      Am
+Hear those crocodiles ticking, they go ticking round the world
+
+
+( Em* )
+
+Em*                        D
+  Ooh ooh ooh, ooh ooh oooooh
+    Bm                              Em*
+Got one eye on the road and one on you
+Em*                        D
+  Ooh ooh ooh, ooh ooh oooooh
+    Bm
+got one eye on the road
+
+               C7M/G                   Am
+And she could hear them climbing the stairs
+          C7M/G                        Am                Em2
+I got my right side fighting while my left eye's under chairs
+
+
+Interlúdio:   Em2  (x8) --> palm-muted (12ª casa), exceto sexta corda
+
+            D|-x-|
+            B|-x-|
+            G|-x-|
+            D|-x-|
+            A|-x-|
+            E|-0-|
+
+              Em* D   C   (x2)
+
+
+Solo:   Em*  D  Bm   (x4)
+
+
+E|------------------------------------------------------------------------------|
+B|------------------------------------------------------------------------------|
+G|-9--9--7h9-7h9--7h9-7h9-9-7h9-7h9-7h9/11--11-9h11-9h11-9h11/16-16-16--11-11---|   (x2)
+D|------------------------------------------------------------------------------|
+A|------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------|
+
+E|----------17---------------------17-----------15----------14----------------------14----------|
+B|-15-14-15----15-14-15---15-14-15-----15-14-15----15-14-15-----15-14-----15-14-----------------|
+G|--------------------------------------------------------------------16---------16----15-14----|
+D|-------------------------------------------------------------------------------------------16-|
+A|----------------------------------------------------------------------------------------------|
+E|----------------------------------------------------------------------------------------------|
+
+
+Em*                        D
+  Ooh ooh ooh, ooh ooh oooooh
+    Bm                              Em*
+Got one eye on the road and one on you
+Em*                        D
+  Ooh ooh ooh, ooh ooh oooooh
+    Bm                              Em*
+got one eye on the road and one on you
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+Bm11 = X 2 2 4 3 2
+C = X 3 2 0 1 0
+C7M/G = 3 X 2 4 1 X
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+Em2 = 0 2 4 0 0 0
+G6 = 3 X 2 4 3 X

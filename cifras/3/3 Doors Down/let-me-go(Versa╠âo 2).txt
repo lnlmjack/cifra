@@ -1,0 +1,111 @@
+3 Doors Down - Let me go
+
+Intro: C#m, B, A, B
+       C#m, B, G#, A
+
+             (ritmo)
+E|-----------2----0-----------------------------------------------|
+B|-4-h5--5---4----2----------------------5h7--7-5~---4h5--5--4~---|
+G|-4-h6--6---4----2-------4---6h4--4------------------------------|
+D|-4-h6--6---4----2-----4---4--------4----------------------------|
+A|-----------2----0-----------------------------------------------|
+E|----------------------------------------------------------------|
+
+
+Verse:
+  C#m     B              A       B
+One more kiss could be the best thing
+One more lie could be the worst
+And all these thoughts are never resting
+And you're not something I deserve
+
+Prechorus:
+
+ C#m B            G#      A
+In my head there's only you now
+  E        F#    A
+This world falls on me
+  C#m  B          G#              A
+In this world, there's real and make-believe
+  E       F#       A
+This seems real to me
+
+Chorus:
+E    B                    C#m              A
+You love me but you don't know who I am
+C#m   B                       C#m            A
+I'm torn between this life I lead and where I stand
+ E      B                C#m               A
+You love me but you don't know who I am
+C#m    B            G#   A
+So let me go,  Let me go
+
+Repeat Intro
+
+Verse 2:
+I dream ahead to what I hope for
+And I turn my back on loving you
+How can this love be a good thing?
+I not know what I'm going through
+
+Prechorus:
+In my head there's only you now
+This world falls on me
+In this world, there's real and make-believe
+This seems real to me
+
+Chorus:
+You love me but you don't know who I am
+I'm torn between this life I lead and where I stand
+You love me but you don't know who I am
+So let me go
+Just let me go
+Let me go
+
+Bridge:
+E|--------------------------------------|
+B|--9------9----------------------------|
+G|----9------9------9-8~----9-8---------|
+D|------9------9---------9------9-------|
+A|--------------------------------------|
+E|--------------------------------------|
+
+
+Bridge:
+C#m up to E
+And no matter how hard I try
+B                 A
+I can't escape these things inside
+C#m E     B    A
+I know, I know
+C#m              E
+When all the pieces fall apart
+ B                     A
+You will be the only one who knows
+C#m   E     B    A
+Who knows
+
+Chorus:
+You love me but you don't know who I am
+I'm torn between this life I lead and where I stand
+You love me but you don't know who I am
+So let me go
+Just let me go
+
+Outro:
+E   B                       C#m     A
+You love me but you don't   You love me but you don't
+C#m     B              C#m         A
+You love me but you don't know who I am
+C#m  B                   C#m         A
+You love me but you don't   You love me but you don't
+C#m B               G#       A
+You love me but you don't know me
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G# = 4 3 1 1 1 4

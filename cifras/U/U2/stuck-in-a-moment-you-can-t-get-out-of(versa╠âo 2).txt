@@ -1,0 +1,117 @@
+U2 - Stuck in a Moment You Can't Get Out Of
+
+Afinação: dgdgbd (sol aberto)
+
+G1: 505400       Em: XX9989       A6: 224222
+C:  555555       Am: XX2212       B6: 446444
+D:  777777           G2: 000000
+
+tablatura:
+
+Riff 1: d|--0---|   riff2: d|--------|  riff3: d|--0-----|
+        b|---0--|          b|--------|         b|--0-----|
+        g|----0-|          g|--------|         g|--1/4---|
+        d|------|          d|--------|         d|--2/5---|
+        g|------|          g|--0h5p0-|         g|--0-----|
+        d|------|          d|--------|         d|--2/5---|
+
+Intro: G1  C  G1  D  Em  C  G2 Riff 1 - Repete Tudo
+
+verso:
+G1                C                G1
+I'm not afraid of anything in this world
+        D               Em                 C                G2    Riff 1
+There's nothing you can throw at me that i haven't  already heard
+
+G1                        C          G1
+I'm just trying to find a decent melody
+  D               Em         C        G2 Riff 1
+A song that i can sing in my own company
+Em                         C
+I never thought you were a fool
+Am                   C
+But darling, look at you
+Em                 C                          Em
+You gotta stand up straight, carry your own weight
+                      D        C D
+These tears are going nowhere, baby
+
+G1            C            G1
+You've got to get yourself together
+           D          Em                 C         G2
+You've got stuck in a moment and now you can't get out of it
+G1             C             G1                D          Em
+Don't say that later will be better now you're stuck in a moment
+        C         G1(COM MUITA ENFASE)
+And you can't get out of it
+
+G1                   C                   G1
+I will not forsake, the colours that you bring
+D                         Em
+But the nights you filled with fireworks
+C                  G2      Riff 1
+They left you with nothing
+G1                        C          G1
+I am still enchanted by the light you brought to me
+        D               Em                       C          G2
+I still listen through your ears, and through your eyes i can see
+Em                 C
+And you are such a fool
+Am                C
+To worry like you do
+Em              C                          Em
+I know it's tough, and you can never get enough
+                      D               C    D
+Of what you don't really need now... my oh my
+
+G1            C            G1
+You've got to get yourself together
+           D          Em                 C         G2
+You've got stuck in a moment and now you can't get out of it
+G1             C             G1                D          Em
+Don't say that later will be better now you're stuck in a moment
+        C         G2
+And you can't get out of it
+
+Am
+I was unconscious, half asleep
+    C                                   G1      Riff 2 G1
+The water is warm till you discover how deep...
+Am
+I wasn't jumping... for me it was a fall
+C                                  D
+It's a long way down to nothing at all
+
+Riff 3
+
+G1         C          G1
+And if the night runs over
+D   Em     C         G2
+And if the day won't last
+G1         C          G1
+And if our way should falter
+D     Em   C     G2
+Along the stony pass
+
+G1         C          G1
+And if the night runs over
+D   Em     C         G2
+And if the day won't last
+G1         C          G1
+And if our way should falter
+A6   B6    D
+Along the stony pass
+
+It's just a moment
+               G1
+This time will pass
+
+----------------- Acordes -----------------
+A6 = 5 X 4 6 5 X
+Am = X 0 2 2 1 0
+B6 = X 2 4 1 4 X
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em = 0 2 2 0 0 0
+G1 = X 0 0 0 0 0
+G2 = 3 X 0 2 0 X

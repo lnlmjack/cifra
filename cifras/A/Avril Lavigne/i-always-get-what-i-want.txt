@@ -1,0 +1,117 @@
+Avril Lavigne - I Always Get What I Want
+
+Intro
+    B      E      A      D
+|--x-x---x-x-x---x-x---x-x-x--|
+|--x-x---x-x-x---x-x---x-x-x--|
+|--x-x---9-9-9---x-x---7-7-7--|
+|--9-9---9-9-9---7-7---7-7-7--|
+|--9-9---7-7-7---7-7---5-5-5--|
+|--7-7---x-x-x---5-5---x-x-x--|
+
+Verse (palm muted)
+     B       A      Em      F#
+|--x-x-x---x-x-x---x-x-x---x-x-x--|
+|--x-x-x---x-x-x---x-x-x---x-x-x--|
+|--x-x-x---x-x-x---x-x-x---x-x-x--|
+|--9-9-9---7-7-7---2-2-2---4-4-4--|
+|--9-9-9---7-7-7---2-2-2---4-4-4--|
+|--7-7-7---5-5-5---0-0-0---2-2-2--|
+
+
+Pre Chorus
+   B
+|--x--|
+|--x--|
+|--x--|
+|--9--|
+|--9--|
+|--7--|
+
+
+Chorus
+    B      E      A      D
+|--x-x---x-x-x---x-x---x-x-x--|
+|--x-x---x-x-x---x-x---x-x-x--|
+|--x-x---9-9-9---x-x---7-7-7--|
+|--9-9---9-9-9---7-7---7-7-7--|
+|--9-9---7-7-7---7-7---5-5-5--|
+|--7-7---x-x-x---5-5---x-x-x--|
+
+Post Chorus #1
+     B       A       Em      F#
+|--x-x-x---x-x-x---x-x-x---x-x-x--|
+|--x-x-x---x-x-x---x-x-x---x-x-x--|
+|--x-x-x---x-x-x---x-x-x---x-x-x--|
+|--9-9-9---7-7-7---2-2-2---4-4-4--|
+|--9-9-9---7-7-7---2-2-2---4-4-4--|
+|--7-7-7---5-5-5---0-0-0---2-2-2--|
+
+Post Chorus #2
+   B   A   F#  Em
+|--x---x---x---x--|
+|--x---x---x---x--|
+|--x---x---x---x--|
+|--9---7---4---2--|         
+|--9---7---4---2--|
+|--7---5---2---0--|
+
+Bridge (palm muted)
+    D#    B                C#
+|--x-x---x-x--| x3 then |--x--| x16
+|--x-x---x-x--|         |--x--|
+|--8-8---x-x--|         |--6--|
+|--8-8---9-9--|         |--6--|
+|--6-6---9-9--|         |--4--|
+|--x-x---7-7--|         |--x--|
+
+Intro x 2 with palm muting
+Intro x 2
+
+Verse x 3
+
+Pre Chorus x2
+
+Chorus x4
+
+Post Chorus #1 x2
+
+Verse x3
+
+Pre Chorus x 2
+
+Chorus x4
+
+Chorus with palm muting x3
+
+Post Chorus #2 x1
+
+Chorus x2
+
+Verse x3
+
+Pre Chorus x1
+
+Chorus x4
+
+Chorus with palm muting x3
+
+Post Chorus #2 x1
+
+Bridge
+
+Chorus x4
+
+Chorus with palm muting x3
+
+Post Chorus #2 x2
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2

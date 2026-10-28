@@ -1,0 +1,107 @@
+Limão Com Mel - Porque Não Vê
+
+(intro 2x) C G/B Am F
+
+(solo - piano)
+E|-3-----0-1-3-----0-------0-------0-1-0----------------------------|
+B|---1-1-------1-1---3-1-3-------3-------3-1-3-1-0---1-0------------|
+G|---------------------------2-2-------------------2-----2-0-4-2-0--|
+D|------------------------------------------------------------------|
+A|------------------------------------------------------------------|
+E|------------------------------------------------------------------|
+
+(junto com o baixo)
+E|-3-----0-1-3-----0-------0-------0-1-0----------------------------3-|
+B|---1-1-------1-1---3-1-3-------3-------3-1-3-1-0---1-0--------------|
+G|---------------------------2-2-------------------2-----2-0-4-2-0----|
+D|--------------------------------------------------------------------|
+A|--------------------------------------------------------------------|
+E|--------------------------------------------------------------------|
+
+(solo - baixo)
+E|---------------------------------------|
+B|---------------------------------------|
+G|---------------------------------------|
+D|----------2-------0h2-0-2h3-5/7-5-----|
+A|-/3-3/52---5-3-5----------------------|
+E|-----------------------------------3---|
+
+
+C  G/B                Am Am/G
+    Tanto que eu te amei,
+  F          C/E                Dm             G
+    fala pra mim que o nosso amor não foi em vão.
+C  G/B               Am  Am/G
+    Quem errou não sei,
+  F            C/E             Dm
+    quem jogou fora o nosso sonho,
+      G
+    a nossa relação,
+  F         G
+    eu só sei
+         C    G/B  Am   Am/G        F
+    que minha vida não tem mais valor
+          G          Am
+    sem você é solidão,
+  F       G
+    já pensei
+       C    G/B  Am  Am/G       F
+    eu já me decidi que não tem jeito essa paixão
+       G
+    então me diz por que
+
+             C   G
+    Você não vê
+                 Am    F
+    que esse coração
+                   C
+    sofre diz que não
+            Dm
+    não não vá,
+            Am
+    não não vá, não...
+    F    G               C   G
+    Me diz por que não vê
+                 Am   F
+    que esse coração
+                   C
+    sofre diz que não
+            Dm
+    não não vá,
+            Am
+    não não vá, não...
+    F    G            Dm
+    Não vá embora não...
+            Em
+    Não não vá,
+            F
+    não não vá,
+            G           (C G/B Am Am/G F C/E Dm G) (2x)
+    Não vá embora não...
+
+  F         G
+    eu só sei
+         C    G/B  Am   Am/G        F
+    que minha vida não tem mais valor
+          G          Am
+    sem você é solidão,
+  F       G
+    já pensei
+       C    G/B  Am  Am/G       F
+    eu já me decidi que não tem jeito essa paixão
+       G
+    então me diz por que
+
+(refrão)
+(intro)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

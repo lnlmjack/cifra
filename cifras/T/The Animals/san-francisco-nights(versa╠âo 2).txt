@@ -1,0 +1,173 @@
+The Animals - San Franciscan Nights
+
+Intro:
+
+        guitar w/snare drum:
+
+         v   v   v   v     v   v     v   v   v   v     v   v   v
+        -----------------|---------|-----------------|-------------|
+        -----------------|---------|-----------------|-------------|
+        -----------------|---------|-----------------|-------------|
+        -----------------|---------|-----------------|-------------|
+        -----------------|---------|-----------------|-3-----------|
+        -0-----3-2--0----|---------|-0-----3-2---0---|-------------|
+                                                       ^ doubled w/bass
+
+        repeat 8X w/narration:
+
+        guitar:
+
+
+         Em
+         v   v   v   v     v   v   v   v
+    -----------------|------------------|
+    -----------------|------------------|
+    ------------02--4|------------------|
+    -2---2---2-------|-2---2---2--0-----|
+    -----------------|-------------2--2-|
+    -----------------|------------------|
+
+         v   v   v   v     v   v   v   v
+    -----------------|------------------|
+    -----------------|------------------|
+    -----------------|------------------|
+    -0---0---0---0--0|-0---0---0---0--0-|
+
+        (Spoken:)
+
+        This following program is dedicated to the city and people of San
+            Francisco
+        Who may not know it, but they are beautiful - and so is their city
+        This is a very personal song, so if the viewer cannot understand it -
+            particularly those of you who are European residents - save up
+            all your bread and fly Trans-Love Airways to San Francisco, USA
+        Then maybe you'll understand the song
+        It will be worth it - if not for the sake of this song
+        But for the sake of your own peace of mind
+
+        bass:
+
+         Em [N.C.]   [slower]
+         v   v   v   v     v   v   v   v
+        -----------------|-----------------|
+        -----------------|-----------------|
+        -----------------|-------------0-2-|
+        -0---------------|-----------3-----|
+        (mind)
+
+        C   Em/B     Am    G
+        /  /  /  /   /  /  /  /
+
+Verse 1:
+
+        C              Em/B Am           G
+        Strobe light's beam    creates dreams
+        C       Em/B Am           G
+          Walls move    minds do too
+              D             F      C
+        On a warm San Franciscan night
+         C          Dm           F         C
+        Old child, young child, feel all right
+              D            F       C
+        On a warm San Franciscan night
+
+Verse 2:
+
+        Angels sing, leather wings
+        Jeans of blue, Harley-Davidsons too
+        On a warm San Franciscan night
+        Old angels, young angels feel all right
+        On a warm San Franciscan night
+
+Bridge:
+
+        Fm
+           I wasn't born there
+        Em
+           Perhaps I'll die there
+        F                         G   /F /D /B /G [N.C.]
+          There's noplace left to go
+
+        San Francisco...
+
+Instrumental break:
+
+        guitar 1 [chords implied]:
+
+         C                     Em/B
+         v           v           v           v
+        -12-13-15-13-12-13-15-13----12-13-12----12-13-12-|
+        -------------------------15----------15----------|
+        -------------------------------------------------|
+        -------------------------------------------------|
+        -------------------------------------------------|
+        -------------------------------------------------|
+
+        guitar 2:
+
+         v           v           v           v
+        -------12----------12----------------------------|
+        -13-15----15-13-15----15-12-13-15-13-12-13-15-13-|
+        -------------------------------------------------|
+        -------------------------------------------------|
+        -------------------------------------------------|
+        -------------------------------------------------|
+
+
+guitar 1:
+
+         Am                      G
+         v           v           v           v
+        -------12----------12----------------------------|
+        -13-15----15-13-15----15-12----------------------|
+        -------------------------------------------------|
+        -------------------------------------------------|
+        -------------------------------------------------|
+        -------------------------------------------------|
+
+        guitar 2:
+
+         v           v           v           v
+        -------------------------------------------------|
+        ----13-15-13----13----13-------------------------|
+        -14----------14----------12----------------------|
+        -------------------------------------------------|
+        -------------------------------------------------|
+        -------------------------------------------------|
+
+        D     F       C
+        /  /  /  /    /  /  /  /
+        C     D*      F     C
+        /  /  /  /    /  /  /  /
+        Dm*   F       C
+        /  /  /  /    /  /  /  /
+
+        * note that the D and Dm are swapped from the verse
+
+Verse 3:
+
+        Cop's face is filled with haight
+        Heavens above, he's on a street called Love
+        When will they ever learn
+        Old cop, young cop feel all right
+        On a warm San Franciscan Night
+
+Bridge 2:
+
+        The children are cool
+        They don't raise fools
+        It's an American dream
+        Includes Indians, too
+
+[repeat instrumental break; fade]
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em/B = X 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3

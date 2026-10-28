@@ -1,0 +1,43 @@
+Leci Brandão - Valeu de Mais
+
+ A7+          A6              Dm7            E7
+Lerererê.......lerererê......lerererê......rerê
+ A7+          A6                 Dm7         E7/9+
+Lerererê.......lerererê......lerererê......rerê
+ A7+                  Dm7                     G7/13
+Tudo que a gente passou......tudo que a gente criou
+   A7+       A6             Dm7         E7/9+
+Foi maravilhoso......inesquecível.......demais
+ A7+                 Dm7                        G7/13
+Tudo que a gente brigou......todas que a ente dançou
+   A7+      A6             Dm7          E7/9+
+Foi maravilhoso......inesquecível.......demais
+ Am     Am7+                    Am7
+Mas.......você.......não está aqui......mas !       }
+   Am6                   Dm7
+Por quê que isso aconteceu......mas !               }
+  G7/13        C7+                                     BIS
+Eu quero dizer agora                                }
+ F#5-/7        F7+          Bm5-/7    E7
+Sem onda, sem hora.......porque                     }
+  A7+      Dm7         E7
+Valeu......valeu......demais
+
+  A7+       Dm7        E7/9+
+Valeu......valeu......demais..
+
+----------------- Acordes -----------------
+A6 = 5 X 4 6 5 X
+A7+ = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Am7+ = X 0 2 1 1 0
+Bm5-/7 = X 2 3 2 3 X
+C7+ = X 3 2 0 0 X
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+E7/9+ = X 6 5 6 7 X
+F#5-/7 = 2 X 2 3 1 X
+F7+ = 1 X 2 2 1 X
+G7/13 = 3 X 3 4 5 X

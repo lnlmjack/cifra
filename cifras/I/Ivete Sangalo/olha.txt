@@ -1,0 +1,60 @@
+Ivete Sangalo - Olha
+
+Bb7M                    Am7(b5)  D7(b9)
+Olha você tem todas as coisas
+  Gm7          C7(9)      Fm7  Bb7(13)
+Que um dia eu sonhei pra mim
+Eb7M            Eº       Bb7M  Gm7
+A cabeça cheia de problemas
+ C7(9)                            F7(13)
+Não me importo, eu gosto mesmo assim
+ Bb7M                       Am7(b5)  D7(b9)
+Tem os olhos cheios de esperança
+Gm7                C7(9)           Fm7  Bb7(13)
+   De uma cor que mais ninguém possui
+ Eb7M           Eº               Bb7M  Gm7
+Me traz meu passado e as lembranças
+ C7                           F7(13)
+Coisas que eu quis ser e não fui
+
+Am7(b5)    D7(b9)   Gm7   Bb7M
+Olha você vive tão distante
+ Cm7                  F7(13)   Bb7M(#5)
+Muito além do que eu posso ter
+
+Em7(b5)          A7(b13)          Dm7
+E eu que sempre fui tão inconstante
+ Gm7            C7(9)     Cm7      F7(9)  B7(#11)
+Desculpe, meu amor, agora é pra valer
+
+Bb7M         Eb7M          Am7(b5)  D7(b9)
+Olha, vem comigo aonde eu for
+ Gm7             C7(9)           Fm7  Bb7(13)
+Seja meu amante,meu amado, meu amor
+ Eb7M         Eº           Bb7M  Gm7
+Vem seguir comigo o meu caminho
+C7(9)      F7(9)
+E viver a vida só de amor
+
+[Solo]  Bb7M  Am7(b5)  D7(b9)  Gm7  C7(9)  Fm7  Bb7(13)
+        Eb7M  Eº  Bb7M  Gm7  C7(9)  F7(13)
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+Am7(b5) = 5 X 5 5 4 X
+B7(#11) = X 2 3 2 4 X
+Bb7(13) = 6 X 6 7 8 X
+Bb7M = X 1 3 2 3 1
+Bb7M(#5) = X 1 X 2 3 2
+C7 = X 3 2 3 1 X
+C7(9) = X 3 2 3 3 X
+Cm7 = X 3 5 3 4 3
+D7(b9) = X 5 4 5 4 X
+Dm7 = X 5 7 5 6 5
+Eb7M = X X 1 3 3 3
+Em7(b5) = X X 2 3 3 3
+Eº = X X 2 3 2 3
+F7(13) = 1 X 1 2 3 X
+F7(9) = X X 3 2 4 3
+Fm7 = 1 X 1 1 1 X
+Gm7 = 3 X 3 3 3 X

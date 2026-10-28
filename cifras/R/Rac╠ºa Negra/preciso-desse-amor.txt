@@ -1,0 +1,49 @@
+Raça Negra - Preciso Desse Amor
+
+(intro 2x) E7M C#m A B
+
+E7M
+a noite no meu quarto, solidão
+                 C#m
+fico olhando as estrelas
+    A7M             B7/9
+procurando você e você não está
+E7M
+meu coração bate mais forte
+             C#m
+pensamento vagueia
+      A7M               B7/9
+onde está você que não vem me amar
+A7M                       G#m7
+que amor é esse que nunca está aqui
+           F#m7           E7M
+sempre por aí, longe de mim
+A7M                    G#m7
+que amor é esse que me faz sofrer
+        F#m7           B7/9
+e longe de você não consigo mais viver
+
+
+(refrão)
+ E7M                 C#m7
+vem, vem matar a saudade
+      A7M                   B7/9
+que vontade de te ver, sou louco por você
+ E7M                  C#m7
+vem, me traz a felicidade
+     A7M                   B7/9
+eu preciso desse amor seja do jeito que for
+
+(repete tudo - intro 1x antes de recomeçar)
+(refrão até o final)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M = X 0 2 1 2 0
+B = X 2 4 4 4 2
+B7/9 = X 2 1 2 2 X
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E7M = X X 2 4 4 4
+F#m7 = 2 X 2 2 2 X
+G#m7 = 4 X 4 4 4 X

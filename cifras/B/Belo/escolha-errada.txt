@@ -1,0 +1,94 @@
+Belo - Escolha Errada
+
+Intro: A9 E/G#  F#m7 E D9 A9/C# Bm7(11) D/E
+
+D7M(9)                                G#m7(11)
+Já não sei o que fazer pra tentar esquecer
+                  C#7(9-)
+Se a lembrança do amor que a gente fez
+      F#m7(11) B7(11)    Em6 Em7(9) G7(11+)
+Foi tão natural, não foi casual
+D7M(9)                              G#m7(11)
+E agora o que fazer pra conquistar você
+                    C#7(9-)
+Se as regras que eu criei pra esse jogo
+      F#m7(11) B7(11)   Em6 Em7(9) G7(11+)
+Não me servem mais Tô voltando atrás
+
+(BIS)
+
+D7M       D#m7(5-)          D6(9)/E
+Quero me livrar de vez a aventura
+                   Fº               F#m7
+E entregar pra alguém, toda minha ternura
+
+           B7              Em7           A4(7)
+Parece loucura, mas aconteceu (mas aconteceu comigo)
+
+D7M       D#m7(5-)               D/E
+Estou prisioneiro, numa escolha errada
+           Fº               F#m7
+Com toda razão, você tá magoada
+             B7                  Em7
+Quem saiu ganhando, se o amor perdeu
+
+
+(REFRÃO)
+
+A4(7) G6(9)/B A/C# A4(7) D7M                 D/E         D7M
+Se  eu  me       arrepender, mostrar que sou louco por você
+             E/D         G7M(9)              D/E             E/A
+Que eu tô tentando consertar, será que consegue assim me perdoar
+A4(7) G6(9)/B A/C# A4(7) D7M   C#m            D7M
+Quero te dizer, que o amor em mim só faz crescer
+             E/D     G7M(9)
+Que eu tenho medo de perder o meu lugar
+       D/E         A9
+Viver sem você não dá
+
+
+A4(7) G6(9)/B A/C# A4(7) D7M                 E/G#         D7M
+Se  eu  me       arrepender, mostrar que sou louco por você
+             E/G#         G7M(9)              D/E             E/A
+Que eu tô tentando consertar, será que consegue assim me perdoar
+A4(7) G6(9)/B A/C# A4(7) D7M   C#m            D7M
+Quero te dizer, que o amor em mim só faz crescer
+             E/D     G7M(9)
+Que eu tenho medo de perder o meu lugar
+       D/E         A7M
+Viver sem você não dá
+
+(BIS) (REFRÃO)
+
+SOLO FINAL: D7M C7M D7M A7M
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A4(7) = X 0 2 0 3 0
+A7M = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+A9/C# = X 4 2 2 0 X
+B7 = X 2 1 2 0 2
+B7(11) = X 2 4 2 5 2
+Bm7(11) = 7 X 7 7 5 X
+C#7(9-) = X 4 3 4 3 X
+C#m = X 4 6 6 5 4
+C7M = X 3 2 0 0 X
+D#m7(5-) = X X 1 2 2 2
+D/E = X X 2 2 3 2
+D7M = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+D9 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/A = X 0 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+Em6 = X 7 X 6 8 7
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X
+Fº = X X 3 4 3 4
+G#m7(11) = 4 X 4 4 2 X
+G7(11+) = 3 X 3 4 2 X
+G7M(9) = 3 2 4 2 X X

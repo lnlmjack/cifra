@@ -1,0 +1,59 @@
+Belo - Nuvem
+
+
+    Bb  Gm7/11        F    Eb7/9     Bb7+
+      Dererere... rere   dererererere
+      Gm7/11      F7    Eb7/9     Bb7+
+      Dererere... rere   dererererere
+      Gm7/11      F7    Eb7/9     Bb7+
+      Dererere... rere   dererererere
+      Gm7/11      F7    Eb7/9     Bb7+ | % | Bbm7/11 |...
+      Dererere... rere   dererererere
+             Absus     Ab7/9   Db7+   F#7+          Cm5-/7  F7/5+
+Uma nuvem me falou que iria chover...     gotas de saudade
+Bbm7/9                     Fm7/4              Fm7   Fm5-/7   Bb7
+   Imagine você... eu conversando com a nuvem é loucura
+Ebm7    Absus       Db7+  F5+/7  Bbm  Bbm7  Ab
+E ela me falou assim pra eu não me dedicar demais
+   F#7+          Fsus                 Bb7+   F7/A
+E nesse sonho é que eu prefiro acreditar
+
+Bb7+    F/A            Gm7  Dm7  Bbsus  Bb7/13
+Amar não tem mistério quando amor é sério
+Eb7+       Gm7             Cm7     F7/4(9)  F7
+Bem feito um anjo do céu nasce pra nos envolver
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Ab7/9 = 4 X 4 3 1 X
+Absus = 4 3 1 1 1 4
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+Bb7+ = X 1 3 2 3 1
+Bb7/13 = 6 X 6 7 8 X
+Bbm = X 1 3 3 2 1
+Bbm7 = X 1 3 1 2 1
+Bbm7/11 = 6 X 6 6 4 X
+Bbm7/9 = 6 4 6 5 X X
+Bbsus = X 1 3 3 3 1
+Cm5-/7 = X 3 4 3 4 X
+Cm7 = X 3 5 3 4 3
+Db7+ = X 4 6 5 6 4
+Dm7 = X 5 7 5 6 5
+Eb7+ = X X 1 3 3 3
+Eb7/9 = X 6 5 6 6 X
+Ebm7 = X X 1 3 2 2
+F = 1 3 3 2 1 1
+F#7+ = 2 X 3 3 2 X
+F/A = 5 X 3 5 6 X
+F5+/7 = 1 X 1 2 2 1
+F7 = 1 3 1 2 1 1
+F7/4(9) = X X 3 3 4 3
+F7/5+ = 1 X 1 2 2 1
+F7/A = 5 X 3 5 4 X
+Fm5-/7 = X X 3 4 4 4
+Fm7 = 1 X 1 1 1 X
+Fm7/4 = X 8 X 8 9 6
+Fsus = 1 3 3 2 1 1
+Gm7 = 3 X 3 3 3 X
+Gm7/11 = 3 X 3 3 1 X

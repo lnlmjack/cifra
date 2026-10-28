@@ -1,0 +1,73 @@
+Alcione - Pra Você
+
+[Intro] F#m7  F#m7M  F#m7
+        B7  Bm7  E
+
+A7M           Dm
+Pra você eu guardei
+Bm7       E7
+Um amor infinito
+A7M           A7
+Pra você procurei
+D7M            Dm7
+O lugar mais bonito
+F#m7      C#
+Pra você eu sonhei
+F#m           D#m7
+O meu sonho de paz
+D7M           B7
+Pra você me guardei
+    E   E7
+Demais, mas
+
+A7M          Dm7
+Se você não voltar
+
+Bm7      E7
+O que faço da vida
+A7M              A7
+Não sei mais procurar
+D7M            Dm  C#7
+A alegria perdida
+
+F#m7           C#7
+Eu não sei nem porque
+F#m7    D#m7
+Terminou tudo assim
+D7M               E7
+Ah, se eu fosse você
+C#m7     F#7
+Eu voltava pra mim
+
+Bm7           C#7
+Ah, se eu fosse você
+E7
+Eu voltava pra mim
+
+( A7M  D  Bm7  E7 )
+( F#m7  F#m7M  F#m7 )
+( B7  Bm7  E
+
+( F  Dm  A )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7M = X 0 2 1 2 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+C#7 = X 4 3 4 2 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D#m7 = X X 1 3 2 2
+D7M = X X 0 2 2 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7M = X X 4 6 6 5

@@ -1,0 +1,71 @@
+Belo - Adolescente No Amor
+
+Introdução: F#m7/11  G7/b5  F#m9 A7/13 D7+ G#m7/11) G7/b5
+
+F#m7/11    Bm7/9      Db/E    A9
+É tudo parecia legal
+F#m7 Em7 A7/9/11 D7+
+O clima rolou natural
+D#m7/5b G#7     G7+
+E eu adolescente no amor
+C#m7/5b  F#7/13 Bm7
+Me apaixonei por você
+A7/9/11  D7+  C#m7
+Me descobri assim
+F#m7/11               F#m7+
+Eu sei que você tem alguém
+F#m7/9               C#7
+Mas o desejo está em nós
+F#7/9/11                F#7      Bm7 Bm7+
+E agora temos que esperar, que pena
+G#m7/5-                C#7/9-
+Que pena que o amor não é
+F#m7/11                   A7/13
+Do jeito que agente quer
+
+D7+/9     E/D
+Mas tudo bem
+C#m7                       Em7 A7/13
+Eu sei que este cara não te quer
+D7+
+Tão bem
+   E7/9/11    A7+ Em7/9 A7/13
+Como eu te quero
+D7+/9        E/D
+Mas tudo bem
+C#m7                       Em A7/13
+Você vai descobrir que o meu amor
+D7+  E7/9/11   A9
+E mais sincero
+
+----------------- Acordes -----------------
+A7+ = X 0 2 1 2 0
+A7/13 = X 0 X 0 2 2
+A7/9/11 = 5 X 5 4 3 X
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+Bm7+ = X 2 4 3 3 2
+Bm7/9 = X 2 0 2 2 X
+C#7 = X 4 3 4 2 X
+C#7/9- = X 4 3 4 3 X
+C#m7 = X 4 6 4 5 4
+C#m7/5b = X 4 5 4 5 X
+D#m7/5b = X X 1 2 2 2
+D7+ = X X 0 2 2 2
+D7+/9 = X 5 4 6 5 X
+Db/E = X X 2 1 2 1
+E/D = X 5 X 4 5 4
+E7/9/11 = X X 2 2 3 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+F#7 = 2 4 2 3 2 2
+F#7/13 = 2 X 2 3 4 X
+F#7/9/11 = 2 X 2 1 0 X
+F#m7 = 2 X 2 2 2 X
+F#m7+ = X X 4 6 6 5
+F#m7/11 = 2 X 2 2 0 X
+F#m7/9 = X X 4 2 5 4
+G#7 = 4 6 4 5 4 4
+G#m7/5- = 4 X 4 4 3 X
+G7+ = 3 X 4 4 3 X

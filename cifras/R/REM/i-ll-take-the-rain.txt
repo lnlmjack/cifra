@@ -1,0 +1,111 @@
+R.E.M. - I'll Take The Rain
+
+intro: (5x)  Am
+
+e[--0--0--0-0--0-0--0-0-0--]
+B[--1--1--1-1--1-1--1-1-1--]
+G[--2--2--2-2--2-2--2-2-2--]
+D[--2--2--2-2--2-2--2-0-2--]
+A[--0--0--0-0--0-0--0-0-0--]
+E[-------------------------]
+
+Am                  C
+  The rain came down  The rain came down
+Am                   G  F
+  The rain came down on me
+Am                    C
+  The wind blew stron  And summer's song
+Am            G    F
+  It fades to memory
+Am                C
+  I knew you when  I loved you then
+Am                    G      F
+  In summer's yawn, now hopeless
+Am                 C
+  You laid me bare  And marked me there
+
+Am             G   F
+  The promises we made
+
+
+C                Am
+  I used to think, as birds take wing,
+Em                      F
+  They sing through life, so why can't we?
+C                 Am
+  We cling to this, and claim the best
+Em                       F
+  If this is what you're offering
+C                   Am                  E   F
+  I'll take the rain, I'll take the rain
+
+
+Am                      C
+  The nighttime creases  Summer schemes
+A               G      F
+  And stretches out to stay
+Am                    C
+  The sun shines down  You came around
+Am            G      F
+  You love the easy days
+Am                C
+  But now the sun, The winter's come
+Am         G       F
+  I wanted just to say
+Am               C
+  That if I hold  I'd hope you'd fold
+Am                      G      F
+  And open up inside, inside of me
+
+(chorus)
+
+C                Am
+  I used to think, as birds take wing,
+Em                       F
+  They sing through life, so why can't we?
+C                 Am
+  We cling to this, and claim the best
+Em                      F
+  If this is what you're offering
+C                   Am                     E
+  I'll take the rain, I'll take the rain,
+ F                   C  Am  E  F
+  I'll take the rain
+
+solo: D[--------------------------------------------
+      A[---5--3---2------5--3---2---3-5------2-3-5--
+      E[-3------3------3------3-------------3-------
+-4-5----------]
+------5-3-----]
+----------3-1-]
+
+repeat intro (2x)
+
+Am                  C
+  This winter's song  I'll sing along
+Am                   G       F
+  I've searched its still refrain
+Am               C
+  I'll walk alone  If given this
+Am                   G         F
+  Take wing, and celebrate the rain
+
+(repeat chorus)
+                   C                   Am
+  I'll take the rain I'll take the rain, I'll take
+        Em                   F
+the rain, I'll take the rain
+                    C Am Em F                  C Am
+  I'll take the rain         I'll take the rain
+Em F    Am
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

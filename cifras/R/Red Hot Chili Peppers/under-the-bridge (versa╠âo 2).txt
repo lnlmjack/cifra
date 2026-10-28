@@ -1,0 +1,135 @@
+Red Hot Chili Peppers - Under The Bridge
+
+        C                             E
+E|---------------|-------------|---------------|
+B|----------1----|-------------|---------------|
+G|------0-----0--|-------------|---------1-----|
+D|----2---2------|-------------|------2----2---|
+A|--3------------|--2-0--------|----2---2------|
+E|---------------|------3-2-0--|--0------------|
+
+                            Em
+E|-------------|----------------|------------|
+B|-------------|---------1------|------------|
+G|-------------|------0-----0---|------------|
+D|-2-0---------|----2---2-------|-2/4-4------|
+A|-----3-0-0h3-|----------------|-3/5-5------|
+E|-------------|----------------|------------|
+
+            Em
+E|-------------------|-------------|
+B|-------------------|-------------|
+G|----------1--------|-------------|
+D|------2-----2------|--2-0--------|
+A|----2---2----------|------3-0h3--|
+E|--0----------------|-------------|
+
+
+(repete tudo)
+
+D               A
+   Sometimes I feel
+       Bm             F# G
+Like I don't have a partner
+ D             A
+  Sometimes I feel
+      Bm        G           D      A
+Like my only friend is the city I live in
+      Bm       F# G
+  The city of Angels
+ D          A
+Lonely as I am
+ Bm        G    D7+
+Together we cry
+
+D                   A
+  I drive on her streets
+       Bm           F# G
+'Cause shes' my companion
+ D                  A
+  I walk through her hills
+  Bm                 G
+'Cause she knows who I am
+D                   A
+  She sees my good deeds
+         Bm       F# G
+And she kisses me windy
+  D           A
+   I never worry
+    Bm       G    D7+
+Now that is a lie
+
+Refrão:
+
+  Em           D
+I don't ever want to feel
+ D7+    Em
+Like I did that day
+ Em                    D
+Take me to the place I love
+D7+      Em
+Take me all the way
+
+( D  A  Bm  G ) 2x
+
+    D          A
+It's hard to believe
+      Bm                 G
+That there's nobody out there
+      D           A
+ It's hard to believe
+      Bm      G
+That I'm all alone
+    D           A
+At least I have her love
+     Bm            G
+The city she loves me
+  D        A
+Lonely as I am
+   Bm      G    D7+
+Together we cry
+
+Refrão:
+
+  Em           D
+I don't ever want to feel
+ D7+    Em
+Like I did that day
+ Em                    D
+Take me to the place I love
+D7+      Em
+Take me all the way
+
+( G  Bb5(9)  F  Eb )
+
+Parte 2:
+  G                Bb5(9)
+Under the bridge downtown
+     F           Eb
+Is where I drew some blood
+  G               Bb5(9)
+Under the bridge downtown
+   F         Eb
+I could not get enough
+  G               Bb5(9)
+Under the bridge downtown
+  F        Eb
+Forget about my love
+ G                Bb5(9)
+Under the bridge downtown
+F        Eb          G Bb5(9) F Eb
+I gave my life away.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bb5(9) = X 1 3 3 1 1
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+Eb = X 6 5 3 4 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

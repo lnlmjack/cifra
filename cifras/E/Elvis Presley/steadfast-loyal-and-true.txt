@@ -1,0 +1,35 @@
+Elvis Presley - Steadfast, Loyal And True
+
+    C D E F G A B C
+    F G A B C D E F
+
+        D           A    D
+    Farewell, Royal High School,
+    G              D
+    We'll remember you.
+    A    E7   C#m
+    Dear alma mater,
+    We're steadfast, loyal, and true.
+    As we go onward
+    In the lives we lead.
+    Your light will guide us,
+    Your motto is our creed.
+    We will look back fondly
+    At your ivy walls,
+    Recalling precious moments
+    Within your hallowed halls.
+    Farewell, Royal High School,
+    We'll remember you.
+    Dear alma mater,
+    We're steadfast, loyal, and true.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

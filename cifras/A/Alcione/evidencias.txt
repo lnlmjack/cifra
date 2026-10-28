@@ -1,0 +1,31 @@
+Alcione - Evidências
+
+Intro: E  E5+  A  F#m  A/B
+       E  E5+  A  E/G#  F#m  A/B
+       E  A/B
+
+Refrão:
+E
+Êra baruera
+
+baruêra baruêra
+       G#
+baruêra baruêra
+
+baruêra baruêra
+          A
+baruêra baruêra
+           F#m
+baruêra baruê
+         B7
+Meu coração
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E5+ = 0 X 2 1 1 0
+F#m = 2 4 4 2 2 2
+G# = 4 3 1 1 1 4

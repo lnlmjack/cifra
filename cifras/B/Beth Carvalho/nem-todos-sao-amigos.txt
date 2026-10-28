@@ -1,0 +1,37 @@
+Beth Carvalho - Nem Todos São Amigos
+
+Introdução: F#m7
+F#m7                 B7
+Você tendo vida, saúde e dinheiro
+E7+        F#m7    G#m7
+Todos lhe querem muito bem
+A#m5-/7           D#7
+Mas se você fracassar
+              G#m
+Pode Ter a certeza
+     C#7          F#m7      B7
+Que ninguém vai lhe procurar
+F#m7            B7
+Não conte com amigos
+ E7+   D#7        E   D#7  D7  C#7
+Amigos não são todos
+                     F#m7
+Alguns só sabem lhe chamar para beber
+    F#7
+Mas se lhe encontrarem com fome
+    B7
+Fogem de você
+
+----------------- Acordes -----------------
+A#m5-/7 = X 1 2 1 2 X
+B7 = X 2 1 2 0 2
+C#7 = X 4 3 4 2 X
+D#7 = X 6 5 6 4 X
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E7+ = X X 2 4 4 4
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

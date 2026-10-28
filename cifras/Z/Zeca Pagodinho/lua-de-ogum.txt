@@ -1,0 +1,72 @@
+Zeca Pagodinho - Lua de Ogum
+
+Introdução: A / % / % / F#7 / Bm / E7 / A / F#m7 / B7/9 / % / E7 / % /
+
+  A   A6   A7+
+A lua !
+          E7         A
+Quando clareia o terreiro, em forma de pandeiro
+                            F#7/9-    Bm
+O samba brasileiro fica mais bonito
+  Bm    Bm5+    Bm6    Bm7
+A voz.......do partideiro
+ E7            A7+   A6  A
+Vai.......ao infinito
+                           Em7/9
+Há sempre uma história a contar
+                   A7/13   A7/13-      D
+Pro povo que veio de lá........de além mar
+     Dm6              A/C#
+É uma voz que não se cala
+    F#m7        Bm           E7           Em7/9  A7/13-  D7+
+Que superou a senzala e conseguiu se libertar
+     E/D            A/C#
+É uma voz que não se cala
+
+   F#m7        Bm             E7           A    F#7
+Que superou a senzala e conseguiu se libertar
+  Bm            E7            A
+Os astros têm influência no samba
+                     Em7          A7             D
+Clareia a mente de um bamba que cultiva a inspiração
+ Bm   E7    A ^^ C#7
+Lua de Ogum
+  F#m ^^^^^^^^^ F#m/E     B7/D# ^^^ B7         E7    F#7
+Não deixe em momento algum, meu samba na escuridão
+  Bm       E7          A       F#m7
+Clareia meus acordes musicais
+  B7/9                       E7     F#7
+Ou será que a lua.......de São Jorge não é mais
+  Bm          E7           A
+Clareia meus acordes musicais
+   E7
+A lua !..
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A6 = 5 X 4 6 5 X
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+A7/13 = X 0 X 0 2 2
+A7/13- = X 0 X 0 2 1
+B7 = X 2 1 2 0 2
+B7/9 = X 2 1 2 2 X
+B7/D# = X X 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm5+ = 7 10 9 7 8 7
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D7+ = X X 0 2 2 2
+Dm6 = X 5 X 4 6 5
+E/D = X 5 X 4 5 4
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+F#7 = 2 4 2 3 2 2
+F#7/9- = X X 4 3 5 3
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2
+F#m7 = 2 X 2 2 2 X

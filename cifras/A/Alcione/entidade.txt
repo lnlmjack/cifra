@@ -1,0 +1,75 @@
+Alcione - Entidade
+
+[Intro] F7M  Fm7/9  C7M  A7/9/13
+        D7/9  G7/4  G7
+
+C7M
+Eu tentei evitar
+      C5+              C6      C5+
+Que o pior pudesse acontecer
+Em7/5-                  A7
+Mas você me encostou na parede
+        Dm7
+Pois bem vou lhe dizer
+      F#º              G7/9/13         C7M
+Eu me vi de repente num beco sem saída
+       Aº          Dm7/9
+Do teu coração banida
+G7/9/13            Gm7    C7/F#
+Resolvi não mais sofrer
+        F7M               F#º               C7M
+Quantas vezes senti no teu corpo outro perfume
+      A7/9/13        D7/9
+Mesmo ardendo de ciúme
+
+G7/9/13                     C7M     E7/9
+Ainda assim me entreguei à você
+  Am7                              E7/9
+E mulher como eu não se deve desencantar assim
+    F7M                           E7/9
+Ela roda a baiana, incorpora E depois não quer mais subir
+F7M                G7/9/13
+Quem vive na corda bamba
+C7M                 A7/9
+Aprende a se equilibrar
+D7/9                               G7/9/13   C7M
+E faz qualquer malandro na roda de samba sambar
+
+G7/9/13   C7M
+Parece mentira parece bobagem
+
+A7/9/13                       Dm7
+Depois disso tudo quem sofre sou eu
+                  Dm7
+Tô vendo a baiana render homenagem
+         G7/9/13                C7M
+Fazendo feitiço pro homem que é meu
+C7M
+Será que a baiana é alguma entidade
+ A7                                Dm
+Mulher da entidade do homem que é meu
+Dm                                                   G7/9/13
+Será que eu perdi minha identidade Será que é ela será que sou eu
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/9 = 5 X 5 4 2 X
+A7/9/13 = 5 X 5 6 7 7
+Am7 = X 0 2 0 1 0
+Aº = 5 X 4 5 4 X
+C5+ = X 3 2 1 1 X
+C6 = 8 X 7 9 8 X
+C7M = X 3 2 0 0 X
+D7/9 = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+E7/9 = X X 2 1 3 2
+Em7/5- = X X 2 3 3 3
+F#º = 2 X 1 2 1 X
+F7M = 1 X 2 2 1 X
+Fm7/9 = X X 3 1 4 3
+G7 = 3 5 3 4 3 3
+G7/4 = 3 5 3 5 3 X
+G7/9/13 = 3 X 3 2 0 0
+Gm7 = 3 X 3 3 3 X

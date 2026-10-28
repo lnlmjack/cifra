@@ -1,0 +1,133 @@
+Queen - Jesus
+
+Intro/Verso 1 e 2 e 4/base solo parte 1
+    Bm   Bm   F#   Bm
+E|----------2---------|
+B|3----3----2----3----|
+G|4----4----3----4----|
+D|4----4----4----4----|
+A|2----2----4----2----|
+E|----------2---------|
+
+Refrão                 |Final do Refrão:
+    D    A    G    A      D    A    G    F#
+E|-----5----3----5----||-----5----3----2----|
+B|7----5----3----5----||7----5----3----2----|
+G|7----6----4----6----||7----6----4----3----|
+D|7----7----5----7----||7----7----5----4----|
+A|5----7----5----7----||5----7----5----4----|
+E|-----5----3----5----||-----5----3----2----|
+
+Verso 3                |Último tempo:
+    C    C    G    C     C    C    G    D
+E|--------------------||--------------------|
+B|--------------------||--------------------|
+G|5----5---------5----||5----5--------------|
+D|5----5----5----5----||5----5----5----7----|
+A|3----3----5----3----||3----3----5----7----|
+E|----------3---------||----------3----5----|
+
+
+Base solo parte 2
+    Bm   Bm
+E|------------------------------|
+B|3----3------------------------|
+G|4----4------------------------|
+D|4----4------------------------|
+A|2----2----5--4--2-------------|
+E|-------------------5--3--2----|
+
+Base solo parte 3
+ tocar uma vez:       ||Repetir isso várias vezes:
+    E    D    E    D     E    D
+E|--------------------||----------------|
+B|--------------------||----------------|
+G|9----7----9----7----||9----7--7--7----|
+D|9----7----9----7----||9----7--7--7----|
+A|7----5----7----5----||7----5--5--5----|
+E|--------------------||----------------|
+
+Base solo parte 4         ||Mantenha E por um bom tempo:
+    E    D    C#   C    B      E
+E|-------------------------||-----|
+B|-------------------------||-----|
+G|9----7----6----5----4----||9----|
+D|9----7----6----5----4----||9----|
+A|7----5----4----3----2----||7----|
+E|-------------------------||-----|
+
+Base solo parte 5 (tocar uma vez)
+    E  E    E  E
+E|----------------|
+B|----------------|
+G|9--9----9--9----|
+D|9--9----9--9----|
+A|7--7----7--7----|
+E|----------------|
+
+intro:(Bm F#)
+
+Verso 1:
+Bm          F#           Bm
+Then I saw him in the crowd
+Bm                    F#            Bm
+A lot of people had gathered around him
+Bm                        F#           Bm
+The beggars shouted, the lepers called him
+Bm                             F#              Bm
+The old man said nothing; he just stared about him
+
+Refrão:
+D     A     G      D      A    G    A
+All going down to see the Lord Jesus
+D     A     G      D      A    G    A
+All going down to see the Lord Jesus
+D     A    G    F#
+All going do - own
+
+
+Verso 2 (igual ao Verso 1)
+
+Refrão:
+D     A    G       D      A    G    A
+All going down to see the Lord Jesus
+D     A    G       D      A    G    A
+All going down to see the Lord Jesus
+D     A    G
+All going down
+
+Verso 3:
+Cm                     G          Cm
+It all began with the three wise men
+Cm                         G         Cm
+Followed a star, took them to Bethlehem
+Cm                G            Cm
+Made it heard throughout the land
+Cm             G        Cm
+Born was the leader of men
+
+Refrão:
+D     A    G       D       A   G    A
+All going down to see the Lord Jesus
+D     A     G      D       A   G    A
+All going down to see the Lord Jesus
+D     A    G    F#
+All going do - own...
+
+solo
+
+Versão 4(igual ao Verso 3)
+
+Refrão até o final
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

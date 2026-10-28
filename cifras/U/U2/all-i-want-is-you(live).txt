@@ -1,0 +1,110 @@
+U2 - All I want is you (live)
+
+(intro) A D A D
+
+(riff 1)
+         A           D
+E|------------|--------------|
+B|-----2---2--|-----3---3----|
+G|---2---2---2|---2---2---2--|
+D|------------|-0------------|
+A|-0----------|--------------|
+E|------------|--------------|
+
+(riff 2)
+        F#m           D
+E|-------2------|-------2------|
+B|---------2----|-----3----3---|
+G|-----------2--|---2--------2-|
+D|-----4--------|-0------------|
+A|---4----------|--------------|
+E|-2------------|--------------|
+
+(riff 3)
+          A
+E|-0-0-0-0-0-0--|-2-2-0-0-2--|
+B|-2-2-0-2-0-2--|-3-3-3-3-3--|
+G|-2-2-2-2-2-2--|-2-2-2-2-2--|
+D|-2-2-2-2-2-2--|-0-0-0-0-0--|
+A|-0-0-0-0-0-0--|------------|
+E|--------------|------------|
+
+(riff 1) ou
+A           D        A             D
+You say you want a diamond ring of gold
+A           D         A                D
+You say you want your story to remain untold
+
+(riff 2) ou
+       F#m           D
+All the promises we made
+      F#m                  D
+From the cradle to the grave
+     A        D      (riff 3) A    D     A      D
+When all I want is you
+
+**Agora começam as batidas**
+(você pode continuar também a usar os riffs em vez dos acordes,
+ que é o que o The Edge faz no DVD)
+
+A                D       A                D
+You say you'll give me a highway with no one on it
+A             D               A              D
+Treasure just to look upon it all the riches in the night
+A             D          A               D
+You say you'll give me eyes on a moon of blindness
+A                   D           A               D
+A river in a time of dryness a harbour in the tempest
+
+       F#m            D
+All the promises we make
+      F#m                  D
+From the cradle to the grave
+A          D       A     (riff 3)  D    A        D       ( A  D  A D )
+When all I want is you
+
+A             D      A          D
+You say you want a diamond ring of gold
+A                      D        A                D
+Your story to remain untold your love not to grow cold
+
+       F#m             D
+All the promises we break
+      F#m                 D
+From the cradle to the grave
+A           D       A    (riff 3) D  A   D         A    D     A    D
+When all I want is you
+(A      D)
+All I want is you(4xs)
+
+(solo) A D
+
+(riff 3 - 4x)
+You...All I want is
+You...All I need is
+
+(solo)
+
+E|-17---17---17---17---17---17---17---17---17---17------17----
+B|---14---14---14---14---14---15---15---15---15---15-15-------
+
+
+E|----17---17---17---17------17---17---17---17---17--------17-
+B|-14---14---14---14---14--14---15---15---15---15---15--15----
+
+
+E|-------17---17---17---17---17---17---17---17---17-----------
+B|-17-17---17---17---17---17---17---17---17---17--------------
+
+
+E|--------17------17------17------17--------------------------
+B|--17-17---17-17---17-17---17-17---17-17-17------------------
+
+
+E|-20-------20------20------20------20------20-21-------------
+B|----17-17---17-17---17-17---17-17---17-17-------------------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+F#m = 2 4 4 2 2 2

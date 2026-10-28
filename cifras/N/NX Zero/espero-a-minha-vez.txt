@@ -1,0 +1,157 @@
+﻿Nx Zero - Espero a Minha Vez
+
+Capo Casa 1
+
+Intro 2x: E5 B4/D# C#m7
+
+Parte 1:
+E5      B4/D#       C#m7
+  Se o medo e a cobrança
+E5       B4/D#     C#m7
+  Tiram minha esperança
+         B4     A9                 C#m7
+  Tento me lembrar, de tudo que vivi
+                   A9                      B4
+  E o que tem por dentro, ninguém pode roubar
+
+Refrão:
+                 A9         E  B4
+Descanço agora, pois os dias ruins
+ C#m7          A9
+Todo mundo tem
+       E      B4
+Já jurei pra mim
+ C#m7         A9
+Não desanimar
+
+       E         B4
+E não ter mais pressa
+              C#m7        D6(9)
+Eu sei que o mundo vai girar
+               C#m7      C7M          B4
+O mundo vai girar, eu espero a minha vez
+
+( E5 B4/D# C#m7 ) (2x)
+
+E5    B4/D#      C#m7
+  O suor e o cansaço
+E5       B4/D#          C#m7
+  Fazem parte dos meus passos
+            B4      A9           C#m7
+  O que nunca esqueci é de onde vim
+                   A9                      B4
+  E o que tem por dentro, ninguém pode roubar
+
+Refrão:
+                 A9         E  B4
+Descanço agora, pois os dias ruins
+ C#m7          A9
+Todo mundo tem
+       E      B4
+Já jurei pra mim
+ C#m7         A9
+Não desanimar
+       E         B4
+E não ter mais pressa
+              C#m7        D6(9)
+Eu sei que o mundo vai girar
+               C#m7      C7M          B4
+O mundo vai girar, eu espero a minha vez
+
+Parte 2:
+  D6(9)
+E eu não to aqui pra dizer o que é certo e errado
+ C#m7                         B4
+Ninguém tá aqui pra viver em vão
+         D6(9)                      C#m7                       B4
+Então é bom valer a pena, então é pra valer a pena, ou melhor não
+
+Base solo 3x:  A9 E B4 C#m7
+               D6(9)  C#m7
+
+Solo:
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-12b14--12b14r12--10h12-10~--12b14--12b14r12--10-12-|
+D|----------------------------------------------------|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+E|-------------------------------------|
+B|-------13----11----10h11p10----------|
+G|-10-10----10----10------------12-10~-|
+D|-------------------------------------|
+A|-------------------------------------|
+E|-------------------------------------|
+
+E|----------13-----------------------------|
+B|----13b15----13b15--11-10-10h11-10-------|
+G|-10--------------------------------12-10-|
+D|-----------------------------------------|
+A|-----------------------------------------|
+E|-----------------------------------------|
+
+E|---------------------------15b17r15-13h15-13-|
+B|-----------------10-10-13--------------------|
+G|-9-9-10-10-12-12-----------------------------|
+D|---------------------------------------------|
+A|---------------------------------------------|
+E|---------------------------------------------|
+
+E|-13-13-13-12-12-10-10-----------------------------|
+B|----------------------13-13-11-11-10-10-----------|
+G|----------------------------------------12-12-10~-|
+D|--------------------------------------------------|
+A|--------------------------------------------------|
+E|--------------------------------------------------|
+
+(6ª parte)
+E|------------------------|
+B|--11-11-11-11-10--------|
+G|--10-10-10-10-10-12-10--|
+D|------------------------|
+A|------------------------|
+E|------------------------|
+
+E|-13p10----10-------------------------|
+B|--------13----13p10------------------|
+G|--------------------12b14--------10~-|
+D|---------------------------12-12-----|
+A|-------------------------------------|
+E|-------------------------------------|
+
+E|-----------------------------|
+B|-------------13--------------|
+G|----10-12b14----12b14r12-10~-|
+D|-12--------------------------|
+A|-----------------------------|
+E|-----------------------------|
+
+A9       E  B4
+  Os dias ruins
+   C#m7       A9
+  Todo mundo tem
+        E       B4
+  Já jurei pra mim
+   C#m7      A9
+  Não desanimar
+         E         B4
+  E não ter mais pressa
+                C#m7        D6(9)
+  Eu sei que o mundo vai girar
+                 C#m7      C7M          B4
+  O mundo vai girar, eu espero a minha vez
+
+( E5 E4 E5 E4 E )
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A9*  = X 0 2 2 0 0 - (*A#9 na forma de A9)
+B4*  = X 2 4 4 0 0 - (*C4 na forma de B4)
+B4/D#*  = X 6 4 4 5 7 - (*C4/E na forma de B4/D#)
+C#m7*  = X 4 6 6 0 0 - (*Dm7 na forma de C#m7)
+C7M*  = X 3 5 5 0 0 - (*C#7M na forma de C7M)
+D6(9)*  = X 5 X 4 5 5 - (*D#6(9) na forma de D6(9))
+E*  = 0 2 2 1 0 0 - (*F na forma de E)
+E4*  = 0 2 2 2 0 0 - (*F4 na forma de E4)
+E5*  = 0 2 2 X X X - (*F5 na forma de E5)

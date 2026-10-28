@@ -1,0 +1,73 @@
+Turma do Pagode - De Bobeira
+
+Solo cavaco
+35 30 32 33 32 30 35 2x
+43 30 32 30 43 35 2x
+43 30 32 30 43 33 31 30 31 30 43 30 43
+
+C
+Vida,
+             Em
+Abre logo o jogo
+                     F7+   Em
+Sei que já não rola mais
+   F              G7
+A felicidade é a gente que faz
+C                      Em
+Sinto um cheiro de maldade
+                        F7+  Em
+Sempre chega tarde, não dá.
+  F                 E7
+E vive dizendo que não quer brigar.
+Am
+Mas,
+
+          Abm                 Gm
+Eu vou te provar que estou certo
+            C7     F7+ F6
+Teu ex-namorado chegoooouuu Cavaco 21 15 12 21 12 21 32 21 32 10 12 15 32/34 31/32 43
+             G            E7
+Olha só o jeitinho que você ficou
+Am                 Abm      Gm
+tá sem graça e estranha comigo
+              C7            F7+ F6
+Sei que tá me dando um perdido
+     Dm            G7       Gm C7
+tá abusando de brincar de amor
+
+Solo cavaco: 110 19 17 28 26 25 37 25 C7
+
+         F7+
+Dê bobeira,
+E7                         Am
+tá pensando que eu tô de bobeira
+   C7                       F7+
+Eu tô te sacando a noite inteira
+       E7                     Am    C7
+Com certeza alguma coisa tá rolando Solo cavaco 32 21 10 15 12
+
+        F7+
+Dê bobeira,
+E7                         Am
+tá pensando que eu tô de bobeira
+   C7                       F7+
+Eu tô te sacando a noite inteira
+     E7                 Am    C7
+To ligado que ele fica te olhando
+
+Solo final 21 25 32 21 30 32 43 30 40 42
+
+----------------- Acordes -----------------
+Abm = 4 6 6 4 4 4
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F6 = 1 X 0 2 1 X
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

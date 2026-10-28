@@ -1,0 +1,103 @@
+Kiloucura - Meu Casamento
+
+Solo1(Intro):20 32 20 31 20 44 20 42 41 42 44 31 32
+22 20 22 32 22 31 22 44 43 44 31 32 20
+14 11 20 32 32 31 44
+42 42 42 31 31 31 20 20 20 12 12 12 [solo p cavaquinho]
+
+[Pode ser feito também no violão]
+Fica assim:
+17 15 17 14 17 27 17 25 24 25 27 14 15 [explicação: corda 1, casa 7]
+19 17 19  15 19 29 19 27 26 27 29 15 15-(17)[Arraste de 15 para 17]
+
+210 29  27
+25 25 25 24 24 24 22 22 22 34 34 34
+
+E
+Introdução :  E A F#m7 B7 E B/D# C#m7 B7
+
+A#m7/5-       D#7         G#m7
+    Você dividiu meu  coração
+        G#7/9-     A7+
+Sinceramente me perdi
+           B/A          G#m7
+Ou então achei meu talismã
+
+         C#7/9-     F#m7/9
+Eu não devia estar aqui
+        G#7/5+     C#m
+Meu casamento é amanhã
+       C#m7+         C#m7
+E hoje vim me apaixonar
+         C#m6     F#m7        B7         E7+
+Eu só queria festejar e vem você me possuir
+       G#7/5+      C#m7
+Me ensinar que o amor
+              E/D        A/C#
+Não escolhe a hora de chegar
+   B/A     G#m7      C#7/9-  F#m7/9      D#°   C#m7  Cm7
+Preciso    ir     me recom...por,  me preparar
+     Bm7        E7  A7+    A/B     G#m7
+Pois amanhã vou decidir a  dire...ção
+    C#7/9-       F#m7/9       B7/9-  E  Bbm7  Eb7
+Que vai       seguir    meu coração
+
+Ab7+                          Eb/G
+É se você promete que vai me amar
+                             Ebm/Gb
+O meu compromisso posso cancelar
+         F7              Bbm7
+Esse casamento ia dar em nada
+      Eb7         Ab7+
+Nada, nada, nada, é        Solo2(Refrão):15 13 15 12 15 23 15 35
+13 11 13 10 13 21 13 33 [solo cavaquinho]
+
+                           Eb/G
+Como uma noite cheia de prazer
+                            Ebm/Gb
+Como uma vida inteira com você
+           F7                Bbm7
+Eu faço de tudo pra ficar contigo
+ Eb7          Ab7+      Eb7
+Fica comigo amor, meu amor
+              B7
+(na 2ª vez : Ooo...) Solo3(Fim do 1o Refrão):19 17 19 16 19 27 19 39
+REPETE INÍCIO AO FIM
+
+Obs.: É preciso ter muita atenção para não omitir alguns acordes que aparecem somente em
+determinados locais.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#m7/5- = X 1 2 1 2 X
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A7+ = X 0 2 1 2 0
+Ab7+ = 4 X 5 5 4 X
+B/A = X 0 4 4 4 X
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+B7/9- = X 2 1 2 1 X
+Bbm7 = X 1 3 1 2 1
+Bm7 = X 2 4 2 3 2
+C#7/9- = X 4 3 4 3 X
+C#m = X 4 6 6 5 4
+C#m6 = X 4 X 3 5 4
+C#m7 = X 4 6 4 5 4
+C#m7+ = X 4 6 5 5 4
+Cm7 = X 3 5 3 4 3
+D#7 = X 6 5 6 4 X
+D#° = X X 1 2 1 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E7 = 0 2 2 1 3 0
+E7+ = X X 2 4 4 4
+Eb/G = 3 X 1 3 4 X
+Eb7 = X 6 5 6 4 X
+Ebm/Gb = 2 X 1 3 4 X
+F#m7 = 2 X 2 2 2 X
+F#m7/9 = X X 4 2 5 4
+F7 = 1 3 1 2 1 1
+G#7/5+ = 4 X 4 5 5 4
+G#7/9- = 4 X 4 2 1 X
+G#m7 = 4 X 4 4 4 X

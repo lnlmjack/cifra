@@ -1,0 +1,64 @@
+Exaltasamba - Que Saudade
+
+Introdução: G7M / Em7/9 / Am7 / C / Cm / Cm6 / G7M / D7/4/9
+Solo (p/cavaco): 17 15 14 15 10 20 10
+                 21 20 21 15 12
+                 24 24 23 21 30 32 34 32
+
+
+   G7M             Cm7       D7/4/9
+Sentindo, que você ia me deixar
+   G7M         Cm7        F7/9 F7/4
+Eu fui, me afastando devagar
+         Bb7M        Fm7/9         Gm7
+Pra te esquecer, antes que vc me diga...
+         Eb            Bb7M
+Que não quer mais me beijar
+   Gm7         Cm6        D7/4/9      G7M
+Eu não te ligo mais, vou tentar amenizar...
+         Cm7         D7/4/9        G7M
+A dor que você vai deixar, no peito
+         Cm7            F7/4 F7
+De quem viveu só pra te amar
+          Bb7M
+É sempre assim...
+
+     Fm7/9        Gm7       Eb             Bb7M
+Quanto mais amor existe, é maior a dor no fim
+     Gm7/F      Cm6         D7/9
+Vou tentar ser feliz sem você...
+
+G7M                       Cm7
+É... quando é forte faz sofrer
+          F7/4        Bb7M
+Se é de verdade faz chorar
+       Bb7/13    Eb           D7/9
+Que saudade.......... que saudade
+G7M                       Cm7
+É... tanto eu fiz pra ter você
+           F7/4      Bb7M
+E o que me resta é chorar
+     Bb7/13    Eb           D7/9
+De saudade.......... de saudade
+
+
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb7/13 = 6 X 6 7 8 X
+Bb7M = X 1 3 2 3 1
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+Cm6 = X 3 X 2 4 3
+Cm7 = X 3 5 3 4 3
+D7/4/9 = X 5 5 5 5 5
+D7/9 = X 5 4 5 5 X
+Eb = X 6 5 3 4 3
+Em7/9 = X 7 5 7 7 X
+F7 = 1 3 1 2 1 1
+F7/4 = 1 3 1 3 1 X
+F7/9 = X X 3 2 4 3
+Fm7/9 = X X 3 1 4 3
+G7M = 3 X 4 4 3 X
+Gm7 = 3 X 3 3 3 X
+Gm7/F = X X 3 3 6 3

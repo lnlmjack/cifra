@@ -1,0 +1,37 @@
+Cartola - O Sol Nascerá
+
+[Intro:] Gm7  C7(9)  F7M  Fm6  C7M  Dm7
+
+C6(9) C7(9)   F7M
+A     sor_____rir
+             Em7    A7   Dm7(9)  G7
+Eu pretendo levar   a    vi______da
+C6(9) C7(9)   F7M
+Pois cho___rando
+         Dm7(9)   G7(13)    C7M(9)  G7(#5)
+Eu vi a mocidade        perdida
+
+Gm7          C7(9)
+Finda a tempestade
+F7M
+O sol nascerá
+Fm6
+Finda esta saudade
+       C7M(9)      Dm7        G7
+Hei de ter outro alguém para amar
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+C6(9) = X 3 2 2 3 3
+C7(9) = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+C7M(9) = X 3 2 4 3 X
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+Em7 = 0 2 2 0 3 0
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G7 = 3 5 3 4 3 3
+G7(#5) = 3 X 3 4 4 3
+G7(13) = 3 X 3 4 5 X
+Gm7 = 3 X 3 3 3 X

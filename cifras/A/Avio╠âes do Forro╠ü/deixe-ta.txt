@@ -1,0 +1,40 @@
+Aviões do Forró - Deixe Tá
+
+Introdução: (A E F#m D) (2x)
+A                C#                      F#m     F#7
+Destá, eu hei de ver você bater em minha porta
+Bm7                  F#7                      Bm7
+Destá, é sempre assim quem rir por último rir melhor
+C#                                F#m
+Destá, a vida é isso e o mundo dá tantas voltas
+B             D                     A            E7
+Talvez em uma delas você vai me encontrar
+                   F#m      D
+Eu sonhei você chorando
+                  A         C#
+Sem saber o que fazer
+                     F#m    B7
+Só porque me viu passando
+                         A            G#m
+com um alguém sem ser você
+                    F#m         D
+Pra quem não tava ligando
+                A      C#
+Reagiu sem perceber
+
+                       F#m  B7               A      E7
+Tanto que já estou pensando que vou voltar pra você
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

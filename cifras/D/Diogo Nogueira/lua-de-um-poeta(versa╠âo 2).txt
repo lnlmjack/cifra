@@ -1,0 +1,67 @@
+Diogo Nogueira - Lua de Um Poeta
+
+C               D
+Lalalaiá lalaiá
+                Dm
+Lalalaiá lalaiá
+        G7  C  G7
+Lalalaiá laiá
+
+C                 D
+A lua que brilha no céu
+                        Dm
+Reflete no meu caminhar
+            G7 C
+A luz da inspiração
+Dm    G7
+(Seja onde for)
+
+C                 D
+Motivo pra gente compor
+                             Dm
+Não falta e não há de faltar
+          G7             C     A
+Ainda que seja na mesa de um bar
+
+              Dm                 G7
+Tem gente que senta, lamenta, reclama
+            C                   A
+Da falta de sorte, da falta de grana
+             Dm                   G7
+Se pinta uma queixa, é sempre uma deixa
+                C
+Pra gente inventar
+
+(refrão)
+    Bm7/5-           E7
+estribilho, verso e poesia
+            Am
+Ao som da viola surge a melodia
+            D7           Dm                     Gm   C7
+Parece alquimia, é tanta magia que o samba nos traz
+        F7+         Fm     C   C7
+E a lua dana a brilhar lá no céu
+           F7+       Fm   C       C7
+Eu vejo o samba brotar no papel
+        F7+             Fm
+Partido alto ou samba de amor
+          Em               Am
+Pra expressar alegria, ou dor
+        Dm                    G7   C
+Tudo é enredo na mente de um compositor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Bm7/5- = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F7+ = 1 X 2 2 1 X
+Fm = 1 3 3 1 1 1
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

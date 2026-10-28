@@ -1,0 +1,179 @@
+Queen - It's a Hard Life
+
+Vocalização:
+
+Cm7
+I don't want my freedom
+ Eb                    D7
+There's no reason for living
+               Bb     Bb9   Bb   Bb7/9/4
+With a broken heart
+
+Verso 1:
+Bb           F            Gm
+This is a tricky situation
+Eb           Bb/D          Cm
+I've only got myself to blame
+             Bb
+It's just a simple fact of life,
+Bb7/9/4
+it can happen to anyone.
+Eb        Bb/D           Cm           Gm
+You win, you lose, it's a chance you have to take with love.
+Eb          Bb/D         Cm               Gm
+Oh yeah, I fell in love and now you say it's over,
+
+             Ab                F5
+and I'm falling apart...........
+
+Refrão:
+     F      Bb    Dm7
+Yes, It's a hard life
+Eb                  Bb
+to be true lovers together.
+Eb                  Bb                    F5
+To love and live for ever, in each others hearts.
+Bb                Dm         Eb               Bb
+It's a long hard fight, to learn to care for each other,
+Eb                     Bb                 F5
+to trust in one another right from the start
+                Eb     Eb11
+When you're in love...
+
+Verso 2:
+Bb          F                  Gm
+I try and mend the broken pieces
+Eb               Bb/D       Cm
+I try to fight back the tears
+Bb
+They say it's just a state of mind
+Bb7/9/4
+But it happens to everyone
+Eb              Bb/D
+How it hurts (yeah) - deep inside (oh, yeah)
+Cm                  Gm
+When your love has cut you down to size
+Eb              Bb/D
+Life is tough - on your own
+ Cm                  Gm                         Ab
+Now I'm waiting for something to fall from the skies
+                 F5
+I'm waiting for love
+
+
+Refrão:
+      F      Bb    Dm7
+Ohhh, It's a hard life
+Eb                  Bb
+to be true lovers together.
+Eb                  Bb                    F5
+To love and live for ever, in each others hearts.
+Bb                Dm         Eb               Bb
+It's a long hard fight, to learn to care for each other,
+Eb                     Bb                 F5
+to trust in one another right from the start
+                Eb     Eb11
+When you're in love...
+
+solo:
+(1ª parte do solo)
+Base:
+ | Ab            | G          | Cm   Cm7/B | Ab    Cm/G |
+ | Eb       Bb/D | Cm         | Ab   Eb/G  | Fm7        |
+| Bb7/9/4  Bb7  |
+
+(2ª parte do solo)
+Base:
+ | Ab   Eb/G  | Fm7    Cm  | Ab    Eb/G |
+| Fm    Cm   | Bb         | F          |
+Solo:
+|------------------------------------|-------------------------------------------------|
+|------------------------------------|-------------------------------------------------|
+|------15b17-----17_r15p13-15-12-----|-----------12b13---12b13------13r12p10-12-8------|
+|-13-----------------------------13--|-13--12h13----------------------------------10---|
+|------------------------------------|-------------------------------------------------|
+|------------------------------------|-------------------------------------------------|
+
+|-------------------------10---11---13_r-11----------|
+|-----11b13__r11-/-13-----------------------11___/16-|
+|-8-8-15b17__r15-/-17--------------------------------|
+|----------------------------------------------------|
+|----------------------------------------------------|
+|----------------------------------------------------|
+
+|-15---15b_16---15b16rbrb-15/16-16b18----16--15----------18b_20---18-18------|
+|------------------------------------------------18--16--18b_20---18-18------|
+|--------------------------------------------------------19b_20---19-19------|
+|----------------------------------------------------------------------------|
+|----------------------------------------------------------------------------|
+|----------------------------------------------------------------------------|
+
+|---------------------|
+|--o solo continua!!--|
+|---------------------|
+|---------------------|
+|---------------------|
+|---------------------|
+
+Refrão:
+     F       Bb  Dm7
+Yes, it's a hard life
+Eb                             Bb
+In a world that's filled with sorrow
+Eb                Bb                     F5
+There are people searching for love in ev'ry way
+Bb                Dm
+It's a long hard fight
+Eb                        Bb
+But I'll always live for tomorrow
+Eb                               Bb            F
+I'll look back on myself and say I did it for love
+
+Final:
+                   F
+Yes, I did it for love
+                 Ebadd9/G
+Yes, I did it for love
+     Ab6     F7/A
+For love
+                   Bb   Bb7/9/4   Bb   Bb7/9/4
+Oh, I did it for love
+
+
+Notas raras de se achar:
+
+     Bb9  Bb7/9/4   Bb/D   Eb11   Cm7/Bb   Eb/G   Ebadd9/G   Ab6   F7/A
+E|--------4----------------8--------------3-----------------------------|
+B|--6-----4--------6-------9------4-------4--------4--------4-----4-----|
+G|--5-----5--------7-------8------5-------3--------3--------5-----5-----|
+D|--6-----6--------8------11------5-------5--------3--------3-----3-----|
+A|--5--------------5----------------------------------------------0-----|
+E|--6-----6-----------------------6----------------3--------4-----------|
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Ab6 = 4 X 3 5 4 X
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bb7 = X 1 3 1 3 1
+Bb7/9/4 = X 1 1 1 1 1
+Bb9 = X 1 3 3 1 1
+Cm = X 3 5 5 4 3
+Cm/G = X X 5 5 4 3
+Cm7 = X 3 5 3 4 3
+Cm7/B = 7 3 5 3 4 3
+Cm7/Bb = 6 3 5 3 4 3
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Eb = X 6 5 3 4 3
+Eb/G = 3 X 1 3 4 X
+Eb11 = X 6 8 8 9 6
+Ebadd9/G = 3 X 1 3 4 1
+F = 1 3 3 2 1 1
+F5 = 1 3 3 X X X
+F7/A = 5 X 3 5 4 X
+Fm = 1 3 3 1 1 1
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

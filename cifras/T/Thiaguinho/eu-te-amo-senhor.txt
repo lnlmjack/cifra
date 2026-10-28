@@ -1,0 +1,35 @@
+Thiaguinho - Eu Te Amo Senhor
+
+intro: F#m  E/G#  A  F#m  E/G#  A
+
+E          E7+          E            E7+
+busco encontrar lindas palavras pra dizer
+C#m           C#m7        C#m        C#m7
+tudo o que eu sinto por você hó meu amado
+E                 E7+           E             E7+
+mas tudo o que eu tenho é muito pouco pra expressar
+C#m           C#m7        C#m         C#m7
+o que meu coração está gritando pra dizer
+A                              E/G#           F#m
+que não posso mais viver nem um dia sem você...jesus
+A                       C#m           F#m
+que o meu coração eu já te entreguei, meu senhor
+         A
+pois eu te amo senhor
+      C#m
+eu te amo senhor
+       A
+e eu te amo senhor
+         B4                           B
+mais que tudo mais que a minha própria vida
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B4 = X 2 4 4 5 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7+ = X X 2 4 4 4
+F#m = 2 4 4 2 2 2

@@ -1,0 +1,48 @@
+Jackson do Pandeiro - Sina de Cigarra
+
+[Intro] A  F#7/C#  Bm7  E7  A
+        F#7/C#  Bm4  E/G#  A
+
+ A            F#7/C#    Bm11
+Nasci com uma sina de cigarra
+          E/G#       A           A7/E
+Aonde eu chegar tem farra
+D/F# A/C#
+Ei, ei, ei
+         E7/B            A7
+Nasci pra cantar, eu cantarei
+D6   A/C#
+Ei, ei, ei
+             E7            A
+Nasci pra cantar, eu cantarei
+       Bm/A         A
+Vive o pedreiro do prumo
+            E7/B
+A abelha do sumo
+                A     A7/C#
+O pescador do anzol
+
+ D            A
+O campeão da taça
+            E7/B
+O camelô da praça
+             A
+E eu canto forró
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+A7/C# = X 4 5 2 5 X
+A7/E = 0 X 2 2 2 3
+Bm/A = X 0 4 4 3 X
+Bm11 = X 2 2 4 3 2
+Bm4 = X 2 2 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+D6 = X 5 4 2 0 X
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7/B = X 2 2 1 3 X
+F#7/C# = X 4 4 3 5 X

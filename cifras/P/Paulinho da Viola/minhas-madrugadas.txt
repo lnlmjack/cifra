@@ -1,0 +1,56 @@
+Paulinho da Viola - Minhas Madrugadas
+
+Intro: Dm7  D#dim  C7M  Bb7  A7  Dm  Fm  G7  C  G7
+
+C                     B7    G7     C6
+Vou pelas minhas madrugadas  a cantar
+     Ab        C   E7
+Esquecer o que passou
+                 Am
+Trago a face marcada
+                  D7
+Cada ruga no meu rosto
+     G7/9        C
+Simboliza um desgosto
+           C7      F         E7
+Quero encontrar em vão o que perdi
+   Am
+Só resta a saudade
+    D7     G7/9
+Não tenho paz
+                            C  G7
+E a mocidade que não volta mais
+                     C
+Quantos lábios beijei
+
+                    B7
+Quantas mãos afaguei
+                         Em
+Só restou saudade no meu coração
+Dm                D#dim  C
+Hoje fitando o espelho
+                      Bb7    A7
+Hoje vi meus olhos vermelhos
+Dm              Fm    G7       C
+Compreendi que a vida que eu vivi foi ilusão
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bb7 = X 1 3 1 3 1
+C = X 3 2 0 1 0
+C6 = 8 X 7 9 8 X
+C7 = X 3 2 3 1 X
+C7M = X 3 2 0 0 X
+D#dim = X X 1 2 1 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+Fm = 1 3 3 1 1 1
+G7 = 3 5 3 4 3 3
+G7/9 = 3 X 3 2 0 X

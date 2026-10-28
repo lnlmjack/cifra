@@ -1,0 +1,51 @@
+Dominguinhos - O Que Aconteceu Menina
+
+Intro: F7 Bb7M C7 Am7 D7 G7 C7 Cm7
+       F7 Bb7M C7 Am7 D7 G7 C7 F D7(#9)
+
+Gm7      C7      Am7   D7(b9)
+O que aconteceu menina
+Gm7   C7         Am7  D7(b9)
+Pra você mudar assim
+Gm7      C7      Am7  D7(b9)
+O que aconteceu menina
+Gm7     C7            F   D7(b9)
+Já não gosta mais de mim
+
+Gm7  C7      Am7   D7(b9)
+Era tudo diferente
+Gm7  C7     Am7  D7(b9)
+Era tudo genial
+Gm7  Em7(b5) A7   Dm   D7(b9)
+Mais você mudou menina
+Gm7   C7           Cm7(9) F7(b13)
+E pra mim tudo vai mal
+Bb7M  C7        Am7  D7(b9)
+Se o sonho terminou
+
+Gm7   C7        A7(13) A7(b13) Am7 D7(b9)
+E o seu amor também
+Gm7  Em7(b5) A7    Dm     D7(b9)
+Você não sentiu o amor, menina
+Gm7   C7          F7
+E por isso me esqueceu
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+Bb7M = X 1 3 2 3 1
+C7 = X 3 2 3 1 X
+Cm7 = X 3 5 3 4 3
+Cm7(9) = X 3 1 3 3 X
+D7 = X X 0 2 1 2
+D7(#9) = X 5 4 5 6 X
+D7(b9) = X 5 4 5 4 X
+Dm = X X 0 2 3 1
+Em7(b5) = X X 2 3 3 3
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+F7(b13) = 1 X 1 2 2 1
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

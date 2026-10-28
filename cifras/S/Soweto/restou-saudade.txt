@@ -1,0 +1,66 @@
+Soweto - Restou Saudade
+
+[Intro] F#m7  D/F#  A/B  B7/9-  Em7/9
+        Em5+  G/A  A7/9-  D7+/9
+
+D7+/9   G7+   D7+/9         E/D
+     Viu... Não    há mais tristeza
+Gm  A7/13       D7+/9  G7+
+  É só você chegar
+D7+/9   G7+  D7+/9        E/D
+     Vem,        não pára, não pensa
+Gm    F#7/13-    Bm
+  Quero te abraçar
+E acabar de uma vez
+      F#7/9+  Bm
+Com a solidão
+                 Bm7+             Em
+E viver a vida agora que você voltou
+                    Em7+          G/A
+Eu preciso dar um jeito de você ficar
+                A7/9/11+
+Pra fazer se alegrar
+             D7+/9    E/F#
+Meu pobre coração, coração
+
+B7+             G#m
+   Deixou saudade
+      G#m7/F#  E7+
+E um sentimento
+      C#m7             E/F#
+Que cresceu dentro do peito
+B7+            G#m
+   Vem meu amor
+         G#m7/F#  E7+
+Que este momento
+     C#m7         E/F#  F#7/9-
+Esperei por tanto tempo
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A7/13 = X 0 X 0 2 2
+A7/9- = 5 X 5 3 2 X
+A7/9/11+ = 5 4 5 4 4 X
+B7+ = X 2 4 3 4 2
+B7/9- = X 2 1 2 1 X
+Bm = X 2 4 4 3 2
+Bm7+ = X 2 4 3 3 2
+C#m7 = X 4 6 4 5 4
+D/F# = 2 X 0 2 3 2
+D7+/9 = X 5 4 6 5 X
+E/D = X 5 X 4 5 4
+E/F# = X X 4 4 5 4
+E7+ = X X 2 4 4 4
+Em = 0 2 2 0 0 0
+Em5+ = X X 2 0 1 0
+Em7+ = X X 2 4 4 3
+Em7/9 = X 7 5 7 7 X
+F#7/13- = 2 X 2 3 3 2
+F#7/9+ = X X 4 3 5 5
+F#7/9- = X X 4 3 5 3
+F#m7 = 2 X 2 2 2 X
+G#m = 4 6 6 4 4 4
+G#m7/F# = X X 4 4 7 4
+G/A = 5 X 5 4 3 X
+G7+ = 3 X 4 4 3 X
+Gm = 3 5 5 3 3 3

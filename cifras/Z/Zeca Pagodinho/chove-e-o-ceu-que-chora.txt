@@ -1,0 +1,79 @@
+Zeca Pagodinho - Chove,é o céu que chora
+
+Introdução: G   E7   A7(9)    Cm6       G   E7    A7    D7    G    D7/A
+
+
+G    E7    Am
+Chove é o céu que chora
+   A7(9)    D7(b9)                Bm7    A#º   Am7    D7
+Porque........ o nosso amor foi embora
+G     E7   Am
+Chove é o céu que chora
+   A7(9)    D7/A                  G      Em     B7
+Porque....... o nosso amor foi embora
+Em         Am          D   D#º    Em
+Chuva que lava a desilusão
+       Am             B7
+Raio,clarão ,trovão
+E7           E7/G#
+Mas se ela voltar
+          Am          Am/G
+No céu o Sol irá brilhar
+D7/F#        D7/A        G
+E essa tempestade vai passar
+
+G#º              Am
+Meu coração vai acender
+B7                Em7
+Na chama que não se apagou
+Em/D                  F#7
+Meu corpo vai te aquecer
+B7                      E7
+Deixe eu sonhar com você
+                       Am
+Não vai haver mais temporal
+F7(9)            Em7(9)
+Nem mesmo um vendaval
+                 F#m7(b5)
+Pode fazer eu te perder
+ B7           Em        D#7       D7
+Agora pode chover
+
+
+TÉRMINO
+ B7           Em
+Agora pode chover
+F#7       B7           Em      C7
+..........Agora pode chover
+B7           Em        D7
+Agora pode chover
+
+----------------- Acordes -----------------
+A#º = X 1 2 0 2 0
+A7 = X 0 2 0 2 0
+A7(9) = 5 X 5 4 2 X
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C7 = X 3 2 3 1 X
+Cm6 = X 3 X 2 4 3
+D = X X 0 2 3 2
+D#7 = X 6 5 6 4 X
+D#º = X X 1 2 1 2
+D7 = X X 0 2 1 2
+D7(b9) = X 5 4 5 4 X
+D7/A = 5 X 4 5 3 X
+D7/F# = X X 4 5 3 5
+E7 = 0 2 2 1 3 0
+E7/G# = 4 X 2 4 3 X
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#7 = 2 4 2 3 2 2
+F#m7(b5) = 2 X 2 2 1 X
+F7(9) = X X 3 2 4 3
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X

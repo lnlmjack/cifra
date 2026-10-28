@@ -1,0 +1,65 @@
+Exaltasamba - A Carta
+
+[Intro] E7M  A7M  E7M  A7M
+        E7M  A7M  Am7  D7(9)
+
+ F#m7(b5)     B7   Em7                        Am6
+Não existem mais palavras que eu possa escrever
+       B7            G7M    C7M          F#m7(b5)
+Pra falar de tanto amor entenda por favor
+  B7        Em7                       F#m7(b5)
+Que uma carta é muito pouco, para revelar
+     B7          E7M
+O retrato da tristeza
+     A7M         E7M
+E a cicatriz,da saudade
+  Am7(9)         D7         G7M
+Que você deixou no meu peito
+    C7M                    G7M
+Tatuagem de amor não tem jeito
+Cm6           G7M   B4(7)    B7  B4(7)  B7
+Nunca vai sair de mim essa dor  ô     ô
+
+E7M             G#7(13-)           C#m
+Entenda o que eu vou lhe dizer
+
+      E/D    Bm7              E7(9)   A7M    E/G#  F#m7
+Dois pontos vem de volta pro meu coração,   exclamação
+           G#7(13-)       C#m                       F#7/E
+Não posso viver sem você, não tenho razão nem porque
+                    F#m7  B7
+Me acostumar com a saúdade
+ E7M        G#7(13-)     C#m      E/D
+Nem vírgula vai separar nessa oração
+  Bm7           E7(9)     A7M         E/G#   F#m7
+Teu nome da minha paixão.....não leve a mal
+               G#7(13-)          C#m
+Eu sei que eu não sou escritor
+                F#7/E
+É só uma carta de amor
+                          F#m7   B7
+De alguém que te quer de verdade
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+B4(7) = X 2 2 2 0 X
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+C7M = X 3 2 0 0 X
+Cm6 = X 3 X 2 4 3
+D7 = X X 0 2 1 2
+D7(9) = X 5 4 5 5 X
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E7(9) = X X 2 1 3 2
+E7M = X X 2 4 4 4
+Em7 = 0 2 2 0 3 0
+F#7/E = X X 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7(b5) = 2 X 2 2 1 X
+G#7(13-) = 4 X 4 5 5 4
+G7M = 3 X 4 4 3 X

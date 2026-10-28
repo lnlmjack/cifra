@@ -1,0 +1,42 @@
+Grupo Raça - Sou Eu, Sou Eu
+
+D                   C#m7/5-      F#7/5+      Bm
+VOCÊ  DIZ  QUE  ME  ESQUECEU  MAS  EU ,  SEI  LÁ
+                   Am        D7        G7+
+NÃO  É  ISSO  QUE  EU  VEJO  EM  SEU  OLHAR
+               Em7/5-                               F#m7
+VOCÊ  ME  MANDOU  EMBORA ,  DIZ  QUE  NÃO  GOSTA  DE  MIM
+    B7             Em              A7      D
+MAS  EU  SEI  QUE  ESSE  ADEUS  NÃO  É  O  FIM
+                      C#m7/5-   F#7/5+      Bm
+TODA  VEZ  QUE  OUTRA  PESSOA  TE  BEIJAR
+            Am           D7      G7+
+VOCÊ  VAI  FECHAR  OS  OLHOS  E  LEMBRAR
+                     Em7/5-                            F#m7
+DOS  MOMENTOS  DE  LOUCURA ,  DO  CALOR  DOS  BRAÇOS  MEUS
+    B7             Em          A7
+VOCÊ  SABE  QUE  O  SEU  AMOR . . .
+D                        Bm7+                      Bm
+SOU  EU ,  SOU  EU ,  SOU  EU ,  SOU  EU ,  SOU  EU ,  SOU  EU ,  SOU  EU . . .
+
+   Am           D7           G7+              A7        F#m7
+SE  VOCÊ  SENTIR  SAUDADES  QUANDO  A  SOLIDÃO  CHEGAR
+
+   Am          D7        G7+    A7/4          A7      D
+VOCÊ  SABE  AONDE  PODE  ME  ENCONTRAR
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/4 = X 0 2 0 3 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm7+ = X 2 4 3 3 2
+C#m7/5- = X 4 5 4 5 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+Em7/5- = X X 2 3 3 3
+F#7/5+ = 2 X 2 3 3 2
+F#m7 = 2 X 2 2 2 X
+G7+ = 3 X 4 4 3 X

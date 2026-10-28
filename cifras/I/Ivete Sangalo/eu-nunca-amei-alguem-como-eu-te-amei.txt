@@ -1,0 +1,68 @@
+Ivete Sangalo - Eu Nunca Amei Alguém Como Eu Te Amei
+
+Intro: Bb7+ Eb7+ (2x)
+Cm7 Bb/D Eb F7(9)(11) F7(b9)(b11)
+
+Bb7+            D7              Gm7
+Eu nunca amei alguém como eu te amei
+     Fm         Bb7        Eb7+      G+(7)(9) G7(9b)
+Por isso não consigo te esquecer
+   Cm          Cm7+/B        Cm7/Bb   Cm6/A
+Esqueça aquilo tudo que eu falei
+    F7(9)(11)         F7(b9)(b11)
+Mas guarde na lembrança que eu te amo
+
+Bb7+            D7           Gm7
+Há coisas que o tempo não desfaz
+     Fm         Bb7        Eb7+   G(5+)(7)(9b) G7(9b)
+Há coisas que a vida pede mais
+   Cm          Cm7+/B        Cm7/Bb   Cm6/A
+Se ainda estou tentando me afastar
+    F7(9)(11)         F7(b9)(b11)    Bb7+
+Meu coração só pensa em voltar
+
+
+Ebm7          G#           C#7+   Bb7
+Sorrisos e palavras são tão fáceis
+Ebm7          G#        C#aug(7+) C#7+
+Escondem a saudade que ficou
+Gm7            C7               F7+      Dm7
+Mas acho que cansei dos meus disfarces
+    Gm               C7
+Quem olha nos meus olhos
+        Cm7     F7(9)(11)  F7(b9)(b11)
+Vê que nada terminou
+
+Bb7+            D7           Gm7
+Amor, por tudo isso que hoje eu sei
+     Fm         Bb7        Eb7+   Gaug(7)(9b) G7(9b)
+Não posso nem pensar em te perder
+   Cm          Cm7+/B     Cm7/Bb   Cm6/A
+Queria te encontrar pra te dizer
+        F7(9)(11)     F7(b9)(b11)    Bb7+
+Que eu nunca amei alguém como eu te amei
+
+Retorno/Fim: Eb7+ Dm7 Cm7 Bb7+
+
+----------------- Acordes -----------------
+Bb/D = X 5 X 3 6 6
+Bb7 = X 1 3 1 3 1
+Bb7+ = X 1 3 2 3 1
+C#7+ = X 4 6 5 6 4
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+Cm7+/B = X 2 1 0 0 X
+Cm7/Bb = 6 3 5 3 4 3
+D7 = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+Eb = X 6 5 3 4 3
+Eb7+ = X X 1 3 3 3
+Ebm7 = X X 1 3 2 2
+F7(9)(11) = X X 3 3 4 3
+F7+ = 1 X 2 2 1 X
+Fm = 1 3 3 1 1 1
+G# = 4 3 1 1 1 4
+G7(9b) = 3 X 3 1 0 X
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

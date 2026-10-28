@@ -1,0 +1,184 @@
+Jonas Esticado - Recaída Favorita (part. Maria Clara)
+
+[Intro] A9  B9
+
+E|---------4h5------------------------------|
+B|-3/5-5-7-----7/9--7/9-9-9-9/12--7/9\7-----|
+G|------------------------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|-5/7-5-4p0--------------------------------|
+G|-----------4/6~---------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+   A        B         C#m        
+E|------------------------------------------|
+B|-2---2----4---4----/5---5----4h5-4--------|
+G|-2---2----4---4-----6---6----4h6-4--------|
+D|---2---2----4---4-----6---6---------------|
+A|-0--------2---------4--------4------------|
+E|------------------------------------------|
+
+
+   A        B         C#m      
+E|------------------------------------------|
+B|-2---2----4---4----/5---5----4/5-4--------|
+G|-2---2----4---4-----6---6-----------------|
+D|---2---2----4---4-----6---6---------------|
+A|-0--------2---------4---------------------|
+E|-----------------------------0------------|
+
+A                  B
+  Ainda bem que você
+             C#m
+Tá se dando bem
+
+Na sua nova vida
+
+Né
+
+A                     B
+  Nem lembra mais de mim
+                C#m
+Virei uma qualquer
+
+[Pré-Refrão]
+
+        A9
+Só que não
+               B9
+Fala pra todo mundo
+            C#m
+Que já superou
+A9                B9
+   Mas o meu telefone
+             C#m
+Cê nunca apagou
+             A9
+E de vez em sempre
+                           B9
+Você me faz umas propostas indecentes
+
+[Refrão]
+
+               A9
+Assume que eu sou
+                 B9
+Sua recaída favorita
+                              G#m
+Que não quer me tirar da sua vida
+
+Não sei amar
+                 C#m
+Mais sei fazer amor
+
+   B9          A9
+Assume que eu sou
+                 B9
+Sua recaída favorita
+                              G#m
+Que não quer me tirar da sua vida
+
+Não sei amar
+                 C#m
+Mais sei fazer amor
+                              A9
+Igual a mim você nunca encontrou
+
+[Solo] F9  G9  Em  Am
+
+E|------------------------------------------|
+B|-----5h6----------------------------------|
+G|-5-7-----7/9--7/9-9-9-9/12--7/9\7---------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|-7/9-9-9-9/12--7/9\7--5/7p5-7p5-7/9-------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+E|-----8----7----5--------------------------|
+B|------------------------------------------|
+G|-7/9----7----5----------------------------|
+D|------------------------------------------|
+A|------------------------------------------|
+E|------------------------------------------|
+
+[Pré-Refrão]
+
+     G9  F9
+Só que  não
+               G9
+Fala pra todo mundo
+            Am
+Que já superou
+F9                G9
+   Mas o meu telefone
+             Am
+Cê nunca apagou
+             F9
+E de vez em sempre
+                           G9
+Você me faz umas propostas indecentes
+
+[Refrão]
+
+               F9
+Assume que eu sou
+                 G9
+Sua recaída favorita
+                              Em
+Que não quer me tirar da sua vida
+
+Não sei amar
+                 Am
+Mais sei fazer amor
+
+   G9          F9
+Assume que eu sou
+                 G9
+Sua recaída favorita
+                              Em
+Que não quer me tirar da sua vida
+
+Não sei amar
+                 Am
+Mais sei fazer amor
+
+               F9
+Assume que eu sou
+                 G9
+Sua recaída favorita
+                              Em
+Que não quer me tirar da sua vida
+
+Não sei amar
+                 Am
+Mais sei fazer amor
+         G9                   F9  G9  Am
+Igual a mim você nunca encontrou
+                              F9  G9  Am
+Igual a mim você nunca encontrou
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B9 = X 2 4 4 2 2
+C#m = X 4 6 6 5 4
+Em = 0 2 2 0 0 0
+F9 = 1 3 5 2 1 1
+G#m = 4 6 6 4 4 4
+G9 = 3 X 0 2 0 X

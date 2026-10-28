@@ -1,0 +1,72 @@
+Bicho de Pé - Que Seja
+
+  Intro:        A   C#m  F#m  D  E  A  (4x)
+E|------------------------------------|
+B|------------------------------------|
+G|------------------------------------|
+D|-7-6------7-6--------------7-6------|
+A|-----7-9------9-7--------------7-9--|
+E|------------------9-7-9-------------|
+
+E|-------------------------|
+B|-------------------------|
+G|-------------------------|
+D|-----4-7------6-9-7------|      /--Essa parte final do solo, também é o Riff
+A|---5--------7------------|      \--usado em algumas partes da música
+E|-------------------------|
+
+    A               E        F#m
+  Sempre que estou perto de você
+         Bm       C#m
+  Sinto algo diferente
+       Bm          C#m
+  Como se te conhecesse bem
+
+         Bm     E  A
+  Creio ter certeza...
+
+   A        E              F#m
+  Que encontrei um grande amor
+       Bm              C#m
+  Que vai me trazer a paz
+      Bm               C#m
+  Que vai me fazer feliz
+            Bm      E     A     (D  E  A)
+  Carinho, colo e muito mais
+
+   A         E         F#m
+  Agora que sei o que sinto
+     C#m7             D
+  Preciso contar pra você
+       C#m7           Bm7
+  Entregar-te o meu futuro
+     E
+  Esperar pra ver
+
+   A              E          F#m
+  Se os nossos caminhos se encontram
+       C#m7            D
+  Se o meu destino é você
+        C#m7                D
+  Se os nossos corpos se entendem
+         E
+  Nossas almas...
+
+  A          C#m7   F#m
+  Tomara que seja amor
+  D      E      A
+  Pra vida inteira
+      C#m7    D
+  Que seja amor
+  E              A
+  De qualquer maneira
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2

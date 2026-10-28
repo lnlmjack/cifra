@@ -1,0 +1,59 @@
+Demônios da Garoa - Rotina
+
+Intro:
+
+E|------------------------------------
+B|------------------------------------
+G|------------------------------------
+D|--------------2---0-------2---------
+A|--0---2---4-------------------------
+E|------------------------------0-----
+
+Coro: A  E7  D7  A  E
+
+Am                G
+É rotina da vida, tanta gente se matar,
+F                       E7
+não ver os raios do sol, o dia acordar
+Am                G
+É rotina da vida, tanto sonho que espera,
+F                     E7
+um novo amanhã, nessa selva de pedra
+
+Dm                  Am
+É rotina a gente vê, tamanha ambição,
+
+B7                       E7(9b)
+e a falta de deus no coração
+      Dm              Am
+E guardar tanto ouro, que até desacata,
+B7              E7(4)
+a lua que chora, lágrimas de prata
+
+A                              E7
+O bom dessa vida é a gente se amar,
+                               D7     E7        A
+sem medo do escuro ver o sol raiar, tanta claridade
+A                                     E7
+Se apegar nas promessas que deus nos fez,
+                           D  E7(9)   A
+abrir um sorriso com sensatez e felicidade
+
+[Final] [3x]
+D7   E7(9)     A     A
+   ...e felicidade
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E7(4) = 0 2 0 2 0 X
+E7(9) = X X 2 1 3 2
+E7(9b) = X X 2 1 3 1
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

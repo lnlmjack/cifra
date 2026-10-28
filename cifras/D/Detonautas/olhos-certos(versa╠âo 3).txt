@@ -1,0 +1,138 @@
+Detonautas - Olhos Certos
+
+  [00:00]            [00:05]             [00:10]                       [00:17]
+  C#m           A7M  C#m            A7M  C#m           A7M       A7M       A7M
+E |--4-5-5/7-5-4--------4-5-5/7-5-4---------4-5-5/7-5-4----------------------------|
+B |-5------------5-----5------------5------5-----------5-----5----5/7-5-----5/7-5--|
+G |--------------------------------------------------------------------------------|
+D |--------------------------------------------------------------------------------|
+A |--------------------------------------------------------------------------------|
+E |--------------------------------------------------------------------------------|
+
+Assim que termina a introdução, a próxima parte é feita no baixo.
+
+   [00:23]
+   Tento te encontrar
+E |--------------------------------|
+B |--------------------------------|
+G |--------------------------------|
+D |--------------------------------|
+A |-------4h6-4--------------------|
+E |-0--0h5------7-5--0h5-5h7-5-4-0-|
+
+   [00:28]
+
+   Tanto pra dizer
+E |-----------------------------|
+B |-----------------------------|
+G |-----------------------------|
+D |-----------------------------|
+A |----4h6-4--------------------|
+E |-0h5------7-5--0h4-4h5-5-4-0-|
+
+   [00:33]
+   Meu amor, tudo bem
+E |-----------------------------|
+B |-----------------------------|
+G |-----------------------------|
+D |-----------------------------|
+A |----4h6-4--------------------|
+E |-0h5------7-5--0h5-5h7-5-4-0-|
+
+   [00:38]
+E |----------------------------|
+B |----------------------------|
+G |----------------------------|
+D |----------------------------|
+A |----4h6-4-------------------|
+E |-0h5------7-5--0h5-5h7-5-4--|
+
+C#m           A7M
+Sorte de nós dois
+      C#m           F#7
+Quero te fazer feliz
+C#m     A7M             C#m   A7M
+Meu amor,   sempre quis
+
+(refrão)
+      C#m                        A7M
+      Seus olhos certos mas não sei o que dizer
+      F#7                A7M
+       Eu não vou mas o tempo vem
+      C#m                     A7M
+      Ta tudo certo mais não sei o que dizer
+      F#7                A7M              (C#m  A7M)
+       Eu não vou mas o tempo vem aqui.
+
+C#m             A7M
+Tento te encontrar
+C#m          F#7
+tanto pra dizer
+C#m       A7M     C#m   A7M
+Meu amor, tudo bem
+
+C#m            A7M
+Mesmo sem te ver
+C#m             F#7
+Não chegou ao fim
+C#m      A7M        C#m    A7M
+Seu amor,  tudo em mim.
+
+E         B    C#m        A7M
+  Se não for mais do que tento ser
+E         B    A
+  Se não for mais
+
+E         B    C#m        A7M
+  Se não for mais do que tento ser
+E         B    A
+  Se não for
+
+C#m         B
+La ra ra ra
+         A7M
+Nun na raaaa
+                   C#m
+Re re re re re re re
+        B
+Re re re
+      A7M
+Re re
+
+C#m         B
+La ra ra ra     A7M
+La ra ra ra   ra raaaa
+                   C#m
+Re re re re re re re
+        B
+Re re re
+    A7M
+Re re
+
+(refrão)
+      C#m                        A7M
+      Seus olhos certos mas não sei o que dizer
+      F#7                A7M
+       Eu não vou mas o tempo vem
+      C#m                     A7M
+      Ta tudo certo mais não sei o que dizer
+      F#7                A7M              (C#m  A7M)
+       Eu não vou mas o tempo vem aqui.
+
+   C#m   B  C#m  A7M
+E |------------------|
+B |-5-----4--5-------| [4 vezes]
+G |---------------6--|
+D |------------------|
+A |------------------|
+E |------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M = X 0 2 1 2 0
+B = X 2 4 4 4 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3

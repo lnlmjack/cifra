@@ -1,0 +1,76 @@
+Almir Guineto - À Luta Vai-vai
+
+Intro: D7M / Em7 / D7M/F# / B7(b5) / E7/G# / Em7 / A7
+
+
+D7M        Em7        D7M/F#   B7(#5)
+Na avenida vamos levantar
+Em7         C7  B7
+A Massa
+Em7         Em7/D        A7/C#   Fº
+Vamos dar no pé, vamos cantar
+    F#m7       A7
+Com raça
+D7M        D6             Am7   D7/9
+Se não és Vai-Vai pode chorar
+  G7M          B7/9
+Disfarça
+Em7         Em7/D           A7/C#
+Pois a nossa escola vai levar
+A7/13  D7M     A7
+A taça
+
+           D7M         B7
+É Bexiga o senhor
+
+    Em7
+Do samba
+             A7
+O Vai- Vai, meu amor
+    D7M   A7
+Comanda
+            Am7   D7/9
+Alvi-negro eu sou
+   G7M     B7
+De fato
+              Em7   A7
+Ponho alma e calor
+      D7M       A7
+No asfalto
+
+D7M           Em7       F#m7
+Vem novamente a disputa
+G7M           G#m7(b5)
+Meu povo, à luta
+A7     D7M         A7
+Vai - Vai (vem novamente)
+
+
+D7M        Em7       F#m7
+Vem novamente a disputa
+G7M          G#m7(b5)
+Meu povo, à luta
+A7    D7M        A7
+Vai - Vai (vem novamente)
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/13 = X 0 X 0 2 2
+A7/C# = X 4 5 2 5 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(#5) = X 2 X 2 4 3
+B7(b5) = X 2 3 2 4 X
+B7/9 = X 2 1 2 2 X
+C7 = X 3 2 3 1 X
+D6 = X 5 4 2 0 X
+D7/9 = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+D7M/F# = 2 X 0 2 2 2
+E7/G# = 4 X 2 4 3 X
+Em7 = 0 2 2 0 3 0
+Em7/D = X X 0 0 3 0
+F#m7 = 2 X 2 2 2 X
+Fº = X X 3 4 3 4
+G#m7(b5) = 4 X 4 4 3 X
+G7M = 3 X 4 4 3 X

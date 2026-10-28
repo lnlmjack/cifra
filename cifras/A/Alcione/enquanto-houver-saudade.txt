@@ -1,0 +1,46 @@
+Alcione - Enquanto houver saudade
+
+Introdução: C#m / F#m / B / E / C#m / A7+ / F#m / G# /
+
+
+C#m                F#m7    B7/4        B7   E
+Enquanto houver saudade...eu não te esque...ci
+C#m                  A7+     Ab                  C#m
+Enquanto houver a verdade...não vou pra longe daqui
+C#m               F#m7       B7/4       B7   E
+Enquanto hover desejo...mais uma razão pra ficar
+C#m           C#m7  Cm   A7+        F#m7             B7
+Como é que eu vou embora.......se em mim eu vou te levar
+             Em            Am         D7/11  D7        G7+
+Porque eu te amo...eu te quero e não vou brincar com a vida
+    Am                      A#º                    B7
+Um amor grande assim, tão perfeito pra mim, nunca mais
+             Em          Am           D7/11  D7   G7+
+Porque eu te amo, eu te adoro...e não tem outra saída
+        C7+                   Gb
+Eu só posso dizer, que esse amor pra você
+    B7/11  B7      C#m  F#m7  (B7  E  C#m  F#m7  A7+  G#)
+É demais......é demais..
+
+----------------- Acordes -----------------
+A#º = X 1 2 0 2 0
+A7+ = X 0 2 1 2 0
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7/11 = X 2 4 2 5 2
+B7/4 = X 2 4 2 5 2
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C7+ = X 3 2 0 0 X
+Cm = X 3 5 5 4 3
+D7 = X X 0 2 1 2
+D7/11 = X X 0 2 1 3
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G# = 4 3 1 1 1 4
+G7+ = 3 X 4 4 3 X
+Gb = 2 4 4 3 2 2

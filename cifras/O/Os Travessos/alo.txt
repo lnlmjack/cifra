@@ -1,0 +1,65 @@
+Os Travessos - Alô
+
+Intro:  A7M
+
+ A7M(9)      Dm7(11)    G7/4  C7M            F7M
+Alô tem alguém ligado aí na rádio a me ouvir
+      Bm7/5-        E4/7
+Se houver me dê um sinal
+A7M(9)     Dm7(11)   G7/4   C7M              F7M
+Alô procura-se alguém que queira ser meu bem
+       Bm7/5-         E4/7
+Se houver me dê um sinal
+A9                       C#m7
+Mais um ano que passei tanto tempo eu esperei
+D7M            C#m7         Bm          E4/7
+Pra falar de um sentimento resolvi nesse momento
+A9                          C#m7
+Fazer loucuras pra tentar achar alguém algum lugar
+    D7M          C#m7            Dm7/9        G7
+Que, seja tudo que eu quero que venha pra ficar
+             C7M/9          C6                 Bm7/5-
+Que goste de andar de mãos dadas sorrindo nas ruas
+G7/9           C7M/9    C6                  Bm7/5-  E7
+  E pra me acalmar doces beijos molhados de chuva
+
+refrão:
+A7M(9)      Dm7(11)    G7/4  C7M            F7M
+Alô tem alguém ligado aí na rádio a me ouvir
+      Bm7/5-        E4/7
+Se houver me dê um sinal
+A7M(9)     Dm7(11)   G7/4   C7M              F7M
+Alô procura-se alguém que queira ser meu bem
+       Bm7/5-         E4/7
+Se houver me dê um sinal
+F7M        Em7/9                           F7M
+Mande um sinal que de repente possa ser você
+Em7/9    Dm7   G7/9 C7/9
+Mande um sinal alô
+F7M         Em7/9                                F7M
+Mande um sinal que eu to doidinho pra encontrar você
+Em7/9     Dm7   E4/7
+Mande um sinal
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+A7M(9) = X 0 2 1 0 0
+A9 = X 0 2 2 0 0
+Bm = X 2 4 4 3 2
+Bm7/5- = X 2 3 2 3 X
+C#m7 = X 4 6 4 5 4
+C6 = 8 X 7 9 8 X
+C7/9 = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+C7M/9 = X 3 2 4 3 X
+D7M = X X 0 2 2 2
+Dm7 = X 5 7 5 6 5
+Dm7(11) = X 5 5 5 6 5
+Dm7/9 = X 5 3 5 5 X
+E4/7 = 0 2 0 2 0 X
+E7 = 0 2 2 1 3 0
+Em7/9 = X 7 5 7 7 X
+F7M = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3
+G7/4 = 3 5 3 5 3 X
+G7/9 = 3 X 3 2 0 X

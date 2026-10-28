@@ -1,0 +1,61 @@
+Armandinho - Versos Simples
+
+Participação: Tati Portella
+
+Intro:
+                      G                C       D         G                C       D
+E|--------------------3-3------------------0-0-----------3-3------------------0-0-----------------|
+B|-6/5-3--------------0--0---0h1p0-------3---3-----------0--0---0h1p0-------3---3------3----------|
+G|--------2h4p2-0-----0-------------0--0-----2-------0---0-------------0--0-----2--2h4---4p2p0----|
+D|-------------------------------------------0---0h2----------------------------0-----------------|
+A|-----------------------------------3----------------------------------3-------------------------|
+E|------------------3------3---------------------------3------3--------------------------------3--|
+
+G            C9
+Sabe já faz tempo,
+           D9
+Que eu queria te falar
+G                  C9    D9
+Das coisas que trago no peito
+G
+Saudade,
+        C9                 D9          G
+Já não sei se é a palavra certa para usar
+
+              C9     D9
+Ainda lembro do seu jeito
+
+(refrão)
+Bm7                Am7
+Não te trago ouro,
+D7/9                      Bm7
+Porque ele não entra no céu
+                         C9        D7/F#
+E nenhuma riqueza deste mundo
+Bm7          Am7
+Não te trago flores
+D7/9                          Bm7
+Porque elas secam e caem ao chão
+                       C9
+Te trago meus versos, simples
+         D7/F#         G
+Mas que fiz de coração
+
+( G C9 D9 )
+
+(volta no inicio)
+
+D9          G
+fiz de coração
+
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D7/9 = X 5 4 5 5 X
+D7/F# = X X 4 5 3 5
+D9 = X X 0 2 3 0
+G = 3 2 0 0 0 3

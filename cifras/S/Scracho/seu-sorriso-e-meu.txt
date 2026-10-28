@@ -1,0 +1,105 @@
+Scracho - Seu Sorriso É Meu
+
+(1/2 tempo no A9 e no A e 2 tempos no F#m)
+ Pode fazer o F#m variando nesses dois acordes:
+E|----------|
+B|----------|
+G|----------|
+D|-6---7----|
+A|-4---4----|
+E|-2---2----|
+
+
+( A9 F# ) (2x) F#m
+Com você quero estar
+Seu jeito sincero.
+Tudo vai se acertar
+E assim eu espero.
+
+D      E         F#m
+Temos muito que viver
+D      E              F#m
+Nós dois juntos, sem temer.
+ D        E            F#m
+Ninguém vai poder nos impedir.
+
+   D           E
+E eu vou te mostrar..
+
+( A9 A ) (2x) F#m
+Vamos nos encontrar,
+Ficar sempre juntos.
+Vamos nos encontrar,
+Viver nossos sonhos.
+
+ D      E         F#m
+Tenho muito pra dizer (pra dizer)
+ D      E         F#m
+Tanta coisa a aprender.
+   D            E
+E eu vou te mostrar..
+
+( A9 A ) (2x) F#m
+Ontem eu não dormi
+Pensando em seu jeito.
+E hoje eu percebi
+Qual foi meu defeito.
+
+  D      E         F#m
+Só te peço, por favor,
+ D      E         F#m
+Se ainda existe o amor..
+ D      E             F#m
+Não me faça ter que te esperar.
+ D         E
+Não vou agüentar.
+
+ Nesse F#m pode se fazer contrário do outro:
+E|----------|
+B|----------|
+G|----------|
+D|-7---6----|
+A|-4---4----|
+E|-2---2----|
+
+ F#m
+Eu te entendo
+                 A A9 A A9
+e me defendo agora. (Todo mundo vai saber oq aconteceu)
+ F#m
+Não te impeço,
+              A9 A A9 A
+Só te peço agora. (O seu sorriso ainda vai ser meu)
+
+  D                    E
+E se você achar que ainda é tempo..
+
+( A9 A ) (2x) F#m
+Vamos nos encontrar,
+Ficar sempre juntos.
+Vamos nos encontrar,
+Viver nossos sonhos.
+
+D      E        F#m
+Tenho muito pra dizer
+(com você)
+D      E        F#m
+Tanta coisa a aprender.
+D               E
+E eu vou te mostrar...
+
+(solo final)
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-------9-7-6-------6-6b7----------6-----------------|
+D|-7-7-7-------7-7-7-------9----7-7-7----9-7-7b9-7----|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9 = X 0 2 2 0 0
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2

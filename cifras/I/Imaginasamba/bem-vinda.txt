@@ -1,0 +1,65 @@
+Imaginasamba - Bem-vinda
+
+[Intro]   G7+  F#m7
+             Em7/B   F#m7  G5-  A7(b9)
+
+               D5/A                                G5(9)
+Tá tudo bem já pode entrar é a nossa sala
+               Em7/B                                  A7(b9)
+Já não tenho mais nada fora do lugar, eu arrumei
+               D5/A                                G5(9)
+E preparei nosso jantar pra te impressionar
+               Em7/B                                  A7(b9)            F#m11
+Essa noite que eu quero olhar para trás e relembrar
+
+                         D6/B                                F#m11
+De hoje em diante é 100% em mim
+                         G5-                         F#m
+Eu quero que arrume sua mala e more aqui
+                         D6/B                                 F#m11
+De hoje em diante é sem se despedir
+                               Em7/B            F#m
+Não precisa pensar em nada, só diga "sim"
+
+
+                      Bm7                                                   F#m11
+Eu quero você em tudo, em tudo, em tudo que eu fizer
+                      Bm7                                                   F#m11
+Eu quero você em tudo, em tudo, em tudo que há em mim
+            G7+                    F#m7
+Demorou pra gente se juntar
+            G5(9)                  F#m11
+Demorou pra vir cuidar de mim
+            G7+                    F#m7
+Demorou pra você aceitar
+                Em7/B       F#m11   G5-  A7(b9)
+Demorou pra eu te assumir
+
+ G7+          F#m7               C7(9)                     E6/C#
+Seja bem-vinda a casa é sua e o coração também
+G(b5)           F#m7(9)               C7(9)                          A7(b9)      A
+Coisa mais linda fica tranquila que agora tá tudo bem
+G7+          F#m7               C7(9)                     E6/C#
+Seja bem-vinda a casa é sua e o coração também
+G(b5)           F#m7(9)              C7(9)                          A7(b9)      A
+Coisa mais linda fica tranquila que agora tá tudo bem
+
+[Solo]   G7+  F#m7(9)   Em7/B   A7(b9)     A    G5-   F#m7   C7(9)   A7(b9)     A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7(b9) = 5 X 5 3 2 X
+Bm7 = X 2 4 2 3 2
+C7(9) = X 3 2 3 3 X
+D5/A = 5 5 7 X X X
+D6/B = X 2 0 2 0 2
+E6/C# = X 4 2 4 2 4
+Em7/B = X 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+F#m11 = 2 2 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7(9) = X X 4 2 5 4
+G(b5) = 3 5 5 6 3 3
+G5(9) = 3 X 0 2 3 3
+G5- = 3 5 5 6 3 3
+G7+ = 3 X 4 4 3 X

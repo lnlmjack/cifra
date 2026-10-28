@@ -1,0 +1,49 @@
+Cartola - Corra e Olhe o Céu
+
+  D7M
+Linda
+              F#m7
+Te sinto mais bela
+              Am7 D7
+E fico na espera
+            G7M
+Me sinto tão só, mas
+             Gm7
+O tempo que passa
+        F#m7       A5+/7
+Em dor maior, bem maior
+  D7M
+Linda
+              F#m7
+No que se apresenta
+                     Am7
+O   triste   se   ausenta
+  D7         G7M
+Fez-se a alegria
+ G#m5-/7  C#7/9-  F#m7  B6/9
+Corra e    olhe o céu
+
+ B5+/7       E7/9  A5+/7  Am7 D6/7 D5+/7
+Que o sol vem trazer bom dia
+G  G#m5-/7   C#7/9-  F#m7  B6/7
+Ai corra e   olhe o céu
+ B5+/7           E7/9   A5+/7 D7M
+Que o sol vem trazer bom dia
+
+----------------- Acordes -----------------
+A5+/7 = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+B5+/7 = X 2 X 2 4 3
+B6/7 = X 2 X 2 4 4
+B6/9 = X 2 1 1 2 2
+C#7/9- = X 4 3 4 3 X
+D5+/7 = X 5 X 5 7 6
+D6/7 = X 5 X 5 7 7
+D7 = X X 0 2 1 2
+D7M = X X 0 2 2 2
+E7/9 = X X 2 1 3 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m5-/7 = 4 X 4 4 3 X
+G7M = 3 X 4 4 3 X
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,57 @@
+Katinguelê - Toda Chic
+
+Intro: F#m4 F#m7 E9 G#m7 C#7
+
+F#m7                         F#m7/4
+Na passarela ou na favela é top
+                               G#m7
+É chique até de rasteirinha e short
+                           C#m
+Solta o cabelo e prende atenção
+             C#m5-  C#m5-
+Ela tem tudo que quiser na mão
+F#m7                   F#m7/4
+A vaidosa é gostosa sim
+                              E6/9  G#m7/5- C#7
+Só de maldade jogou charme em mim
+F#m7
+Toda turbinada esse avião me dá um medo
+                                          G#m7      G#m7/5- C#7
+Eu já to nas nuvens desejando o teu beijo, teu calor, me pegou.
+F#m7
+Se faz de difícil ela nunca perde a pose
+F#m7/4                                  G#m7            G#m7  G#m7
+To de olho nessa mina e não é de hoje, como eu to, me ganhou.
+
+        E7          A9
+Quem mandou me provocar
+        B7/4  B7   E9
+Fez meu fogo acender
+     E7/9         A9     A7+   G#7/5+              E
+Se queimou agora deixa arder, deixa arder, deixa arder
+         E7            A9   A7+
+Se o meu corpo te encontrar
+         B7/4 B7   E9
+Trago a lua até você
+    E7/9        A9      A7+  G#7/5+          E6/9
+Todo dia a gente vai querer, vai querer, vai querer.
+(C#m G#m7 Gm7 F#m7) G#m7 B7/4 B7 E9
+
+----------------- Acordes -----------------
+A7+ = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+E6/9 = X 7 6 6 7 7
+E7 = 0 2 2 1 3 0
+E7/9 = X X 2 1 3 2
+E9 = 0 2 4 1 0 0
+F#m4 = 2 2 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7/4 = 2 X 2 2 0 X
+G#7/5+ = 4 X 4 5 5 4
+G#m7 = 4 X 4 4 4 X
+Gm7 = 3 X 3 3 3 X

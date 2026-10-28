@@ -1,0 +1,55 @@
+Belo - Você Sabe
+
+Intro: Gm7/11 % Am7(b5) Gm7/11 % D#7 Am7(b5)
+
+Am7(b5)    C/D         Gm7     Bb7(13)
+      Você sabe que nasceu pra mim
+Am7(b5)      C/D         Gm7
+       Tá na cara não dá pra negar
+Am7(b5)     C/D          Gm7   Bb7(13)
+       Teu olhar tá me dizendo sim
+Eb7+/9                        Bb7M(#5) Bb7M
+       Eu não sei pra que se enganar
+       Ab/Bb Bb7
+       Enganar
+       Eb7M
+       Pára
+                            Eb6(9)
+       Com essa história de dizer que o passado pode influenciar
+          Bb7M Bb6(9)
+       Descarta
+                         Ab/Bb                 Bb7               Eb7M Bb/D
+       De uma vez a possibilidade de dizer que nosso lance não é nada
+              Cm7 Eb/F
+       Tá enganada
+
+
+       Bb7M F/A Bb/Ab Bb7(13)
+       É amor na certa
+                  Eb7M Bb/D      Cm7   Eb/F
+       Eu sei que vai rolar, que vai rolar
+       Bb7M F/A Bb/Ab Bb7(13)
+       Chega de conversa
+               Eb7M Bb/D  Cm7 Eb/F
+       E vem recomeçar, recomeçar
+
+----------------- Acordes -----------------
+Ab/Bb = X 1 1 1 1 X
+Am7(b5) = 5 X 5 5 4 X
+Bb/Ab = 4 X 3 3 3 X
+Bb/D = X 5 X 3 6 6
+Bb6(9) = 6 5 5 5 X X
+Bb7 = X 1 3 1 3 1
+Bb7(13) = 6 X 6 7 8 X
+Bb7M = X 1 3 2 3 1
+Bb7M(#5) = X 1 X 2 3 2
+C/D = X X 0 0 1 0
+Cm7 = X 3 5 3 4 3
+D#7 = X 6 5 6 4 X
+Eb/F = X 8 8 8 8 X
+Eb6(9) = X X 1 0 1 1
+Eb7+/9 = X 6 5 7 6 X
+Eb7M = X X 1 3 3 3
+F/A = 5 X 3 5 6 X
+Gm7 = 3 X 3 3 3 X
+Gm7/11 = 3 X 3 3 1 X

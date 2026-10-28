@@ -1,0 +1,58 @@
+Péricles - Dois Rivais
+
+[Intro] C#m7  A  D  A  C#m7  A  D  A7
+
+C#m7        B                   A        D   A           C#m7
+ Eu não consigo mais olhar pra gente e enxergar nossa razão
+        B               A   D      A7          C#m7
+ Acho que erramos o caminho fomos pela contramão
+        B                  A         D   A            C#m7
+ Você vive pra mudar meu jeito a minha essência natural
+           B                    A     D     A7         C#m7/9
+ Eu vivo destacando os seus defeitos discutir já é normal
+
+          B            A9
+ Tantas crises nos tornaram
+                   C#m7/9
+ Um casal tão infeliz
+         B         A9
+ E o que era inabalável
+                    F#m7/11
+ Hoje vive por um triz
+         E/G#          A   D   A7   D   A
+ Não há forças pra continuar,       por quê?
+
+C#m7             B            A9
+ Fomos pouco a pouco nos tratando
+
+ Como dois estranhos, como dois rivais
+C#m7             B                   A9
+ Transformando sonhos em frustrados planos
+                                C#m7
+ Invejando a vida de outros casais
+       B                    A9
+ Percebi que quanto mais tentamos
+                               C#m7
+ Mais machucamos sem nos importar
+     E/G#    F#m7/11     D7+/9
+ E a única saída é terminar
+C#m7        B                   A9                       C#m7
+ Eu não consigo mais olhar pra gente e enxergar nossa razão
+        B               A   D      A7   D    C#m7
+ Acho que erramos o caminho fomos pela contramão
+        B                  A         D   A       D   C#m7
+ Você vive pra mudar meu jeito a minha essência natural
+           B                    A     D     A7         C#m7/9
+ Eu vivo destacando os seus defeitos discutir já é normal
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+C#m7/9 = X 4 2 4 4 X
+D = X X 0 2 3 2
+D7+/9 = X 5 4 6 5 X
+E/G# = 4 X 2 4 5 X
+F#m7/11 = 2 X 2 2 0 X

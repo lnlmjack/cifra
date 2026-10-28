@@ -1,0 +1,110 @@
+3 Doors Down - One Light
+
+Guitarra 1 Intro:
+
+E|----------------------------------------------------|
+B|----------------------------------------------------|
+G|-6-9-------------------------6-9--------------------|
+D|----9-6b7r6b7r6b7r6B7R6B7R6------9-6b7r6b7r6b7r6----|
+A|----------------------------------------------------|
+E|----------------------------------------------------|
+
+Guitarra 2 Intro:
+E|-XXXXXXXX-X-X-XXXXXXXX-5-5-XXXXXXXX-X-X-XXXXXXXX-2-2|
+B|-XXXXXXXX-X-X-XXXXXXXX-5-5-XXXXXXXX-X-X-XXXXXXXX-3-3|
+G|-XXXXXXXX-X-X-XXXXXXXX-6-6-XXXXXXXX-X-X-XXXXXXXX-3-3|
+D|-44444444-4-4-44444444-7-7-44444444-4-4-44444444-3-3|
+A|-44444444-4-4-44444444-7-7-44444444-4-4-44444444-2-2|
+E|-02020202-0-2-02020202-5-5-02020202-0-2-02020202-2-2|
+
+Verso 1:
+E|-XXXXXXXX-X-X-XXXXXXXX-5-5-XXXXXXXX-X-X-000-22|
+B|-XXXXXXXX-X-X-XXXXXXXX-5-5-XXXXXXXX-X-X-000-22|
+G|-XXXXXXXX-X-X-XXXXXXXX-6-6-XXXXXXXX-X-X-111-33|
+D|-44444444-4-4-44444444-7-7-44444444-4-4-222-44|
+A|-44444444-4-4-44444444-7-7-44444444-4-4-222-44|
+E|-02020202-0-2-02020202-5-5-02020202-0-2-000-22|
+
+
+Standing humble  a fist of rage. A silent army  they call my name
+
+E|-XXXXXXXX-X-X-XXXXXXXX-5-5-XXXXXXXX-X-X-XXXXXXX-320-|
+B|-XXXXXXXX-X-X-XXXXXXXX-5-5-XXXXXXXX-X-X-XXXXXXX-542-|
+G|-XXXXXXXX-X-X-XXXXXXXX-6-6-XXXXXXXX-X-X-XXXXXXX-542-|
+D|-44444444-4-4-44444444-7-7-44444444-4-4-4444444-542-|
+A|-44444444-4-4-44444444-7-7-44444444-4-4-4444444-320-|
+E|-02020202-0-2-02020202-5-5-02020202-0-2-0202020-32x-|
+
+See that firmly  and not in dismayed. Im never broken  and Im not afraid
+
+Refrão:
+D       A              B                   F#
+So come with me  lets take this world and make a change
+D         A          E
+And well give this  more than we can take away
+D         A          B                     F#
+And well see this  through eyes we always thought were blind
+G           C#
+If we could find  just one light to shine.
+
+(Intro Guitarra 1 e 2)
+
+Verso 2:
+
+E|-XXXXXXXX-X-X-XXXXXXXX-5-5-XXXXXXXX-X-X-XXXXXXXX-2-2|
+B|-XXXXXXXX-X-X-XXXXXXXX-5-5-XXXXXXXX-X-X-XXXXXXXX-3-3|
+G|-XXXXXXXX-X-X-XXXXXXXX-6-6-XXXXXXXX-X-X-XXXXXXXX-3-3|
+D|-44444444-4-4-44444444-7-7-44444444-4-4-44444444-3-3|
+A|-44444444-4-4-44444444-7-7-44444444-4-4-44444444-2-2|
+E|-02020202-0-2-02020202-5-5-02020202-0-2-02020202-2-2|
+
+Walls will crumble at our feet. All we know we will finally see
+
+E|-XXXXXXXX-X-X-XXXXXXXX-5-5-XXXXXXXX-X-X-XXXXXXX-320-|
+B|-XXXXXXXX-X-X-XXXXXXXX-5-5-XXXXXXXX-X-X-XXXXXXX-542-|
+G|-XXXXXXXX-X-X-XXXXXXXX-6-6-XXXXXXXX-X-X-XXXXXXX-542-|
+D|-44444444-4-4-44444444-7-7-44444444-4-4-4444444-542-|
+A|-44444444-4-4-44444444-7-7-44444444-4-4-4444444-320-|
+E|-02020202-0-2-02020202-5-5-02020202-0-2-0202020-32x-|
+
+Well fight for hoṗe  and well kill this doubt.  Angels of war  let me out
+
+Refrão:
+D       A              B                   F#
+So come with me  lets take this world and make a change
+D         A          E
+And well give this  more than we can take away
+D         A          B                     F#
+And well see this  through eyes we always thought were blind
+G           C#
+If we could find  just one light to shine.
+
+Ponte: E  F#  B  C#  A  B  E  F# (7x)
+      (G  C#)
+
+Guitarra 1 "Solo"
+E|-----------------------------------------------------------|
+B|-----------------------------------------------------------|
+G|-----------------------------------------------------------|
+D|-----------------------------------------------------------|
+A|------12-9b10r9b10r9b109b10r9-------12-9b10r9b10r9b10r9----|
+E|-9-12--------------------------9-12------------------------|
+
+Refrão:
+D       A              B                   F#
+So come with me  lets take this world and make a change
+D         A          E
+And well give this  more than we can take away
+D         A          B                     F#
+And well see this  through eyes we always thought were blind
+G           C#
+If we could find  just one light to shine.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+G = 3 2 0 0 0 3

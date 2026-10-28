@@ -1,0 +1,72 @@
+Belo - Eu Aprendi
+
+Intro: G F#m7 Em7/9 D7+ Em7 C7+ A/E
+
+          A
+Quando deito
+       G A7/4
+ No teu colo
+          D7+              Gm6                 D9  D7+
+ Eu esqueço que o mundo critica o meu jeito e você
+ A/E
+ Nosso amor supera tudo
+G                       A7/4
+ Acredito que nós dois iremos juntos
+       D9    D7+  A7/4
+ Surpreender
+         A
+ Quando choro
+   G/D             A/E           D4   D   F#7/5+
+ Você seca o meu rosto e me faz renascer
+         Bm7          Bm7/A
+ Quando todos me derrotam
+    D/G              G
+ É você que me faz ver
+
+        C   G
+ Que da vida
+    A7/4               D7+
+ É preciso apanha para aprender
+      A         Bm7
+Eu aprendi que amor
+       F#m7        G9  G7+
+ Tem o poder nas mãos
+    Em7/9         C9
+ De transformar a dor
+       A7/4    D6/9
+ Numa simples lição
+
+      A     Bm7
+Eu aprendi a ver
+            F#m G7+
+ Só com o coração
+              Em7/9 C9
+ Quando estou com você
+             A7/4       D7+
+ Tiro os meus pés do chão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+A7/4 = X 0 2 0 3 0
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/G = 3 X X 2 3 2
+D4 = X X 0 2 3 3
+D6/9 = X 5 4 2 0 0
+D7+ = X X 0 2 2 2
+D9 = X X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+F#7/5+ = 2 X 2 3 3 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X
+G7+ = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X
+Gm6 = 3 X 2 3 3 X

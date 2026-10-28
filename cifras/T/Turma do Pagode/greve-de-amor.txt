@@ -1,0 +1,73 @@
+Turma do Pagode - Greve de Amor
+
+
+Introdução: Am7, Dm7/9, G7, C7+, F#7/5+, F7+, F7+, Bm7/5-, E7, A7+
+Solo: 47, 34, 35, 34, 47, 34, 35, 34, 47, 34, 35, 34, 47, 34, 35, 28,
+26, 25, 37, 35, 34, 45, 57, 45, 35, 47, 34, 35, 47, 34, 35, 37, 25, 26, 46, 14^15^14, 25, 36
+Am7
+47, 34, 35, 34, 47, 34, 35, 34, 47, 34, 35, 34, 47, 34, 35,
+Dm7/9   G7          C7+             F#7/5+
+28, 26, 25, 37, 35, 34, 45, 57, 45, 35,
+F7+          F7+        Bm7/5-       E7
+47, 34, 35, 47, 34, 35, 37, 25, 26, 46
+   A7+
+14^15^14, 25, 36
+          A7/5+           D7+
+  Nosso amor não pode morrer
+         E7/9             A7+
+  você tem que me perdoar
+         A7/5+            D7+
+  eu te juro foi sem querer
+         E7/9            A7+
+  eu não fiz pra te magoar
+      A7/5+         D7+
+  Eu sei que é barra
+
+       G                   A7+
+  Mas você tem que me perdoar
+      A7/5+    D7+
+  Eu dei mancada
+        E7/9      A7+
+  Quero consertar
+      A7/5+         D7+
+  Eu sei que é barra
+       G                   A7+
+  Mas você tem que me perdoar
+      A7/5+    D7+
+  Eu dei mancada
+         E7/9
+  Quero consertar
+10, 11, 10, 11, 10, 11, 10, 11,
+60, 61, 60, 61, 60, 61, 60, 61
+ F7+
+  Tá fazendo greve de amor
+                  C              F#7/5+
+  greve de amor, greve de amor comigo
+ F7+
+  Deixa eu ter um pouco de calor
+                   A7+
+  pouco de calor, pouco de calor contigo
+ F7+
+  Tá fazendo greve de amor
+                  C              F#7/5+
+  greve de amor, greve de amor comigo
+ F7+
+  Deixa eu ter um pouco de calor
+                A7+
+  pouco de calor...    Volta ao inicio
+
+----------------- Acordes -----------------
+A7+ = X 0 2 1 2 0
+A7/5+ = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+Bm7/5- = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D7+ = X X 0 2 2 2
+Dm7/9 = X 5 3 5 5 X
+E7 = 0 2 2 1 3 0
+E7/9 = X X 2 1 3 2
+F#7/5+ = 2 X 2 3 3 2
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

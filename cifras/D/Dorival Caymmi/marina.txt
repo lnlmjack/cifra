@@ -1,0 +1,74 @@
+Dorival Caymmi - Marina
+
+   D7M        F#7/C#     Bm7       D7(9)       G6  F#m7(b5)  B7(b9)
+Ma-rina,   mo-rena,   Ma-rina,  vo-cê   se pin-tou
+   Em(add9)           A7/4(9)             D7M(9)  C#m7(b5) F#7(b13)
+Ma-rina,   você fa-ça tudo  mas, faça  um favor:
+    Bm         Bm(7M)         Bm7
+Não pinte esse rosto  que que gosto,
+       Bm6               F#m  F#m(7M)  F#m7  F#m6
+Que eu gosto, e que é só meu
+   A7M        A#°         Bm7         E7(9)         A7/4  A7(#5)
+Ma-ri---na  você  já é bo-nita  com o que  Deus lhe deu
+   D7M      F#7/C#        Bm7           D7(9)   G6  F#m7(b5)  B7(9)
+Me abor--re-ci,    me zan-guei,  já não posso falar
+  Em(add9)               A7/4(9)    A/G         F#m7(b5)  B7(b9)
+E quando eu me zango, Ma-rina,  não sei per--do-ar
+   Em7                   Gm7
+Eu já  desculpei mui--ta coi--sa
+   F#7(13)         C7(9)          B7/4(9)  B7(b9)
+Vo-cê     não arranjava  ou-tro i-gual
+    Em7(9)             A7/4(9)   A7(b9)      D6/9  A7(#5)
+Des-culpe   Marina, mo-rena, mas eu   tô  de mal
+
+
+D7M      F#7/C#        Bm7           D7(9)   G6  F#m7(b5)  B7(9)
+Me abor--re-ci,    me zan-guei,  já não posso falar
+  Em(add9)               A7/4(9)    A/G         F#m7(b5)  B7(b9)
+E quando eu me zango, Ma-rina,  não sei per--do-ar
+   Em7                   Gm7
+Eu já  desculpei mui--ta coi--sa
+   F#7(13)         C7(9)          B7/4(9)  B7(b9)
+Vo-cê     não arranjava  ou-tro i-gual
+    Em7(9)             A7/4(9)   A7(b9)      D6/9  Gm6
+Des-culpe   Marina, mo-rena, mas eu   tô  de mal
+              D7M  C7M                  D7M
+De mal com vo-cê,       De mal com   vo-cê
+
+----------------- Acordes -----------------
+A#° = X 1 2 0 2 0
+A/G = 3 X 2 2 2 X
+A7(#5) = X 0 X 0 2 1
+A7(b9) = 5 X 5 3 2 X
+A7/4 = X 0 2 0 3 0
+A7/4(9) = 5 X 5 4 3 X
+A7M = X 0 2 1 2 0
+B7(9) = X 2 1 2 2 X
+B7(b9) = X 2 1 2 1 X
+B7/4(9) = X 2 2 2 2 2
+Bm = X 2 4 4 3 2
+Bm(7M) = X 2 4 3 3 2
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+C#m7(b5) = X 4 5 4 5 X
+C7(9) = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+D6/9 = X 5 4 2 0 0
+D7(9) = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+E7(9) = X X 2 1 3 2
+Em(add9) = 0 2 4 0 0 0
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#7(13) = 2 X 2 3 4 X
+F#7(b13) = 2 X 2 3 3 2
+F#7/C# = X 4 4 3 5 X
+F#m = 2 4 4 2 2 2
+F#m(7M) = X X 4 6 6 5
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+F#m7(b5) = 2 X 2 2 1 X
+G6 = 3 X 2 4 3 X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

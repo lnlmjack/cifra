@@ -1,0 +1,149 @@
+﻿Onze:20 - Me Leva
+
+Afinação Meio Tom Abaixo
+
+[Intro]  E  A  E  A  E  A  E  A
+         E  A  E  A  E  A  E  A
+
+[Solo]
+
+Parte 1 de 2
+
+E|--------------------------------------------------|            
+B|--10/12---12-12-12-12-----10-10-10----9--7--5-----|             
+G|--------------------------------------------------| (3x)                 
+D|--------------------------------------------------|             
+A|--------------------------------------------------|             
+E|--------------------------------------------------|             
+
+Parte 2 de 2
+
+E|--------------------------------|
+B|-5/9----------------------------|
+G|------9-----9/11----------------|
+D|--------9-----------------------|
+A|--------------------------------| 
+E|--------------------------------| 
+
+
+ E   A  E                             A
+Lembra?   Da gente andando a noite inteira sem destino
+ E   A  E                   A
+Lembra?   Do por do sol na beira do rio
+ E   A  E                        A
+Lembra?   Você pedindo pra eu ficar mais um pouquinho
+ E   A  E               A
+Lembra?   Como tudo chegou ao fim
+
+E|-11/12---11----7----4----------7----4-------------|          
+B|-------------------------7------------------------|       
+G|--------------------------------------------------|  (2x)           
+D|--------------------------------------------------|        
+A|--------------------------------------------------|         
+E|--------------------------------------------------|  
+
+E                  A             A
+Eu nem sonhava te ver de novo aqui
+E                A
+Eu só queria te dizer
+
+E                   F#m7(11)
+  Me leva pra um lugar qualquer
+E/G#           A(9)            E
+  Me leva para onde eu possa ouvir
+              F#m7(11)        E/G#       A(9)
+Sua voz me dizendo pra eu ficar mais uma vez
+E               F#m7(11)
+  Me leva qualquer lugar
+E/G#           A(9)            E
+  Me leva para onde eu possa ouvir
+              F#m7(11)      E/G#       A(9)
+Sua voz me dizendo pra tentar mais uma vez ser feliz
+
+[Solo]  E  A  E  A  E  A  E  A
+
+Parte 1 de 2
+
+E|--------------------------------------------------|            
+B|--10/12---12-12-12-12-----10-10-10----9--7--5-----|             
+G|--------------------------------------------------| (3x)                 
+D|--------------------------------------------------|             
+A|--------------------------------------------------|             
+E|--------------------------------------------------|             
+
+Parte 2 de 2
+
+E|--------------------------------|
+B|-5/9----------------------------|
+G|------9-----9/11----------------|
+D|--------9-----------------------|
+A|--------------------------------| 
+E|--------------------------------| 
+
+ E   A  E                     A
+Lembra?   A gente vivia por dois era tão lindo
+ E   A  E                        A
+Lembra?   Grana acabando e a gente sorrindo
+ E   A  E                        A
+Lembra?   Quando eu dançava e você ficava rindo
+ E   A  E               A
+Lembra?   Como tudo chegou ao fim
+
+E|-11/12---11----7----4----------7----4-------------|          
+B|-------------------------7------------------------|       
+G|--------------------------------------------------| (2x)
+D|--------------------------------------------------|        
+A|--------------------------------------------------|         
+E|--------------------------------------------------| 
+
+E                  A             A
+Eu nem sonhava te ver de novo aqui
+E                A
+Eu só queria te dizer
+
+E                   F#m7(11)
+  Me leva pra um lugar qualquer
+E/G#           A(9)            E
+  Me leva para onde eu possa ouvir
+              F#m7(11)        E/G#       A(9)
+Sua voz me dizendo pra eu ficar mais uma vez
+E               F#m7(11)
+  Me leva qualquer lugar
+E/G#           A(9)            E
+  Me leva para onde eu possa ouvir
+              F#m7(11)      E/G#       A(9)
+Sua voz me dizendo pra tentar mais uma vez ser feliz
+
+C#m7               A
+  Me agarra e me leva pra outro lugar bem longe daqui
+C#m7             A
+  Vem ficar juntinho de mim até o sol nascer
+F#m7             A
+  Eu quero ser feliz ao seu lado e tem que ser agora
+F#m7         A
+  Eu só preciso te dizer
+
+E                   F#m7(11)
+  Me leva pra um lugar qualquer
+E/G#           A(9)            E
+  Me leva para onde eu possa ouvir
+              F#m7(11)        E/G#       A(9)
+Sua voz me dizendo pra eu ficar mais uma vez
+E               F#m7(11)
+  Me leva qualquer lugar
+E/G#           A(9)            E
+  Me leva para onde eu possa ouvir
+              F#m7(11)      E/G#       A(9)
+Sua voz me dizendo pra tentar mais uma vez ser feliz
+
+[Final]  E  F#m7(11)  E/G#  A(9)
+         E  F#m7(11)  E/G#  A(9)
+
+----------------- Acordes -----------------
+A*  = X 0 2 2 2 0 - (*G# na forma de A)
+A(9)*  = X 0 2 2 0 0 - (*G#(9) na forma de A(9))
+C#m7*  = X 4 6 4 5 4 - (*Cm7 na forma de C#m7)
+E*  = 0 2 2 1 0 0 - (*D# na forma de E)
+E/G#*  = 4 X 2 4 5 X - (*D#/G na forma de E/G#)
+F#m7*  = 2 X 2 2 2 X - (*Fm7 na forma de F#m7)
+F#m7(11)*  = 2 X 2 2 0 X - (*Fm7(11) na forma de F#m7(11))

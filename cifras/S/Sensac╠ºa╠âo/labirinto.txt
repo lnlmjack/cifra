@@ -1,0 +1,44 @@
+Sensação - Labirinto
+
+    G7+        Bm7         Em7       Dm7 G7
+  Todo mundo conhece o nosso querer
+      C7+       Bm7           Am7      D7
+  me deixa te mostrar que eu nasci pra você
+    G7+        Bm7         Em7       Dm7 G7
+  Então vamos parar de brigar tanto assim
+    C7+      Bm7        Am7      D7       Em7/9 Bm7 B7
+  me abraça e traz teu carinho pra mim
+  Em7/9      Bm7
+  Me beija   me aqueça
+  C         F#m7/5-         B7
+  E veja    nossa paixão reacender
+  Em7/9       Bm7        C
+  No entanto  Foi tanto  encanto
+  F#m7/5-         B7      Em7
+  vi nosso sonho se perder
+                D7         G7+  G6
+  Estou dentro desse labirinto
+   F#m7/5-     B7      Em7
+  Como vou sair da solidão
+  Dm7          G7        C7+      E/D
+  Estou completamente sem destino
+
+  Bm7        E7   Am7     D7
+  Sem carinho   sem paixão
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D7 = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+E/D = X 5 X 4 5 4
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+F#m7/5- = 2 X 2 2 1 X
+G6 = 3 X 2 4 3 X
+G7 = 3 5 3 4 3 3
+G7+ = 3 X 4 4 3 X

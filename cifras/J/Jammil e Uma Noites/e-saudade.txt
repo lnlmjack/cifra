@@ -1,0 +1,85 @@
+Jammil e Uma Noites - Ê Saudade
+
+(intro 3x)  A   F#m   D   E
+
+(solo)
+E |--5p4---5p4---5p4--5p4---5p4-5p4---------12-12-12-10-10-10-9-9-9---||
+B |-----5-----5-----5----5----------5-5s7~~---------------------------||
+G |-------------------------------------------------------------------||
+D |------------------------------------(solo tocado 2x)---------------||
+A |-------------------------------------(na 2ª já entra a voz)--------||
+E |-------------------------------------------------------------------||
+
+(parte 1)
+
+A                   F#m            Bm
+Qual a melhor forma de sentir calor
+               E
+Sem seu corpo quente
+A               F#m                Bm
+Qual é o melhor jeito de falar de amor
+             E
+Sem falar da gente
+A          F#m                 Bm
+Você foi embora e nem telefonou
+
+E
+Tão indiferente
+A                  F#m        Bm
+Se foi pra terminar por que que começou
+E
+Tinha de ser pra sempre
+D                    E5
+Eu Sei Tanta coisa mudou
+
+(coro)
+D     E
+Ê saudade
+A        E          F#m
+Que bate no meu coração
+D       E
+Sei que é tarde
+A     E        F#m
+Mas não desligue não
+D     E
+Ê saudade
+A        E          F#m
+Que bate no meu coração
+D                        Dm                A ( C A F#m E )
+Preciso dizer que eu te amo pra você lembrar
+
+(repete parte 1)
+
+(parte 2)
+A
+Olha nos meu olhos
+                F#m
+Vem me dar um beijo
+           Bm                     E
+Ver como eu te vejo eu te quero demais
+                   A
+Vem e deita no meu colo
+          F#m
+Me faz de travesseiro
+Bm                                      E
+Tudo é tão perfeito do modo que agente faz
+             A
+Todo azul do mar
+           F#m
+Na luz do luar
+      Bm                      E
+Tem o infinito que tem o seu olhar. (2x)
+
+(coro)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E5 = 0 2 2 X X X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

@@ -1,0 +1,59 @@
+Imaginasamba - Escondidinho
+
+Intro: C#m7 F#7(9) C#m7(b13)  C#m7 D#m7(b5) G#7(b13)
+
+Cm7          F#7             C#m7                 F#7                64 ^ A7+
+Eu tô no pagode todo arrumado pronto pro pecado... De repente vi chegar você
+E/G#                      F#m7                                  G#7/b5
+De salto alto, tomara que caia... Toda maquiado com perfume de me enlouquece
+C#m7            F#7                 C#m7                   F#7                        A7+
+Eu tô vidrado nesse rebolado... Nem olho pro lado pra não perder tempo, é só você
+E/G#                           F#m7           F#m/E         D#m7(b5)           G#7(b13)
+Que me atiça olha que delícia...Toda trabalhada na beleza eu quero teu prazer
+A7+                        G#m7                     F#m7                        G#m7
+Nem imagina que já sei do namorado...Ela tem cara de pau e diz que não tem compromisso
+A7+                       G#m7                          D#m7/b5                     G#7(b13)
+Eu tô ligado nesse tipo de mulher...Que sempre cola com mané mas vive perdendo o juízo
+
+REFRÂO
+
+C#m7        F#7(13)
+Ôo tá doida pra fazer amor
+C#m7           F#7(13)
+Ôo escondidinho pra não dá caô
+
+A7+         G#m7
+Ôo alguém quer dar perdido aê
+F#m7                        G#7(b13) 2x
+Ôo se tá na pista eu vou pegar você
+
+PARTE FINAL
+
+C#m7        F#7(13)
+Ôo tá doida pra fazer amor
+C#m7           F#7(13)
+Ôo escondidinho pra não dá caô
+A7+         G#m7
+Ôo alguém quer dar perdido aê
+F#m7                 G#7(b13) / 2ª  64  64^64 64 C#m7(9)
+Ôo se tá na pista eu vou pegar você
+
+
+
+
+----------------- Acordes -----------------
+A7+ = X 0 2 1 2 0
+C#m7 = X 4 6 4 5 4
+C#m7(b13) = X 4 7 4 5 4
+Cm7 = X 3 5 3 4 3
+D#m7(b5) = X X 1 2 2 2
+D#m7/b5 = X X 1 2 2 2
+E/G# = 4 X 2 4 5 X
+F#7 = 2 4 2 3 2 2
+F#7(13) = 2 X 2 3 4 X
+F#7(9) = X X 4 3 5 4
+F#m/E = X X 2 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#7(b13) = 4 X 4 5 5 4
+G#7/b5 = 4 X 4 5 3 X
+G#m7 = 4 X 4 4 4 X

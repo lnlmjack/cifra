@@ -1,0 +1,27 @@
+Pink Floyd - The Great Gig In The Sky
+
+Intro: Bm F Bb F/A Gm7 C9 Gm7 C9
+
+Fmaj7    Bbmaj7   Ebmaj7  Cm7   Cm7   Bbmaj7 Ebmaj7 Bb
+      I never said I was afraid of dying.
+
+Gm7 C9 Gm7 C9 (x10)
+
+Bb/D  Bbm/Db  F#7  Bm
+
+(retorne ao começo)
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Bb/D = X 5 X 3 6 6
+Bbm/Db = X 4 X 3 6 6
+Bbmaj7 = X 1 3 2 3 1
+Bm = X 2 4 4 3 2
+C9 = X 3 5 5 3 3
+Cm7 = X 3 5 3 4 3
+Ebmaj7 = X X 1 3 3 3
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F/A = 5 X 3 5 6 X
+Fmaj7 = 1 X 2 2 1 X
+Gm7 = 3 X 3 3 3 X

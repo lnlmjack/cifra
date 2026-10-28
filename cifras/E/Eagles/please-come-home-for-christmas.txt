@@ -1,0 +1,66 @@
+Eagles - Please Come Home For Christmas
+
+intro:  [A E F# C#]     (single notes on piano)
+
+verse 1:
+                       A     Amaj7              A7
+        Bells will be ringing     the sad, sad news
+                    D                   B7/D#
+        Oh what a Christmas to have the blues
+                   A   D             A    A/G#  F#m
+        My baby's gone   I have no friends
+                    B7              E   E+
+        To wish me greetings once again
+
+verse 2:
+
+        Crowds will be singing "Silent Night"
+        Christmas carols by candlelight
+
+        Please come home for Christmas, please come home for Christmas
+                    B7       E7                A     A7
+        If not for Christmas,   by New Year's night
+
+bridge:
+
+                       D               Dm
+        Friends and relations send salutations
+        A            E+           A    A7
+        Sure as the stars shine above
+                       D                      Dm
+        But this is Christmas, yes, Christmas my dear
+                    B7                           E    E+
+        The time of year to be with the one you love
+
+verse 3:
+
+        So won't you tell me you'll never more roam
+        Christmas and New Year's will find you home
+                              A    C#7               F#m F#m/E D D#dim
+        There'll be no more sorrow,    no grief and pain
+                     A    F#m      B7     E7    A
+        And I'll be happy,    [1: happy] once again
+                              [2: Christmas]
+
+[repeat verse 3 with guitar solo over first two lines]
+
+outro:
+               A   D     A   [A E F# C#]   (single notes on piano)
+        [...again] / / / /
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G# = 4 X 2 2 2 X
+A7 = X 0 2 0 2 0
+Amaj7 = X 0 2 1 2 0
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D#dim = X X 1 2 1 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E+ = 0 X 2 1 1 0
+E7 = 0 2 2 1 3 0
+F#m = 2 4 4 2 2 2
+F#m/E = X X 2 2 2 2

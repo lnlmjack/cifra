@@ -1,0 +1,136 @@
+Alcione - Não Me Entrego a Mais Ninguém
+
+[Intro] F#m7(9)  B7(13)  D7M  A7(13)  D7M(9)  C7(4)  C7
+        F#m7  G#m7  F#m7  G#m7  F#m7  G#m7  F#m7  G#m7
+        F#m7  G#m7  F#m7  G#m7  F#m7  G#m7  F#m7  G#m7
+
+D7M                C#7(4)   C#7
+Você não sabe como foi
+  F#m7                      B7/4/9
+Notar que teu olhar não era meu
+  D7M                   C#7(4)    C#7
+E ver que foi em vão o amor
+             F#m7     B7/4/9   B7
+Que em mim viveu
+
+D7M                C#7(4)   C#7
+Você não sabe como foi
+  F#m7                  B7/4/9
+Difícil duelar com a emoção
+    D7M            C#7(4)    C#7
+E alforriar de uma vez
+        F#m7    A7(13)   A7(b13)
+Teu coração
+
+
+D7M               C#7(4)    C#7
+   Madrugada luz acesa
+     F#m7                                B7/4/9     B7(9)
+E em mim uma chama que pouco a pouco vai ter que apagar
+D7M               C#7(4)    C#7
+   Essa minha natureza
+   F#m7                                B7/4/9    B7(9)
+Me faz tao covarde, cadê a coragem pra recomeçar
+
+    D7M                C#7(4)   C#7
+Guardei todas essas lembranças
+                  F#m7               B7/4/9   B7
+No meu canto do armário pra não machucar
+ D7M                  C#7(4)    C#7
+Usei toda a minha arrogância
+               F#m7                B7/4/9  B7(b9)(13)
+Ao teu lado na cama pra não te esperar
+
+Bm7(9)                      F#m7
+Maaas, quando lembro do teu beijo... ai
+                  Bm7
+Me consome esse desejo vaaai
+                    F#m7
+Vai batendo um desespero de te amar
+
+D7M               C#m7
+Dominou meus pensamentos
+               F#m7
+Feito folha ao vento
+               A7(13)  A7
+Foi pra não voltar
+D7M                  C#7(4)   C#7
+Diz então porque teu corpo
+           F#m7   B7/4/9  B7(9)
+Ta fazendo falta
+
+D7M                C#7(4)   C#7
+Me afogando no meu quarto
+            F#m7             B7/4/9    B7
+Choro as lembranças que você deixou
+D7M                      C#7
+Não me entrego a mais ninguém
+                  Bm7   C#m7
+Melhor sofrer de amor
+D7M                      C#7(4)   C#7
+Não me entrego a mais ninguém
+                  F#m7(9)   B7(13)
+Melhor sofrer de amor
+
+D7M               C#7(4)    C#7
+   Madrugada luz acesa
+     F#m7                                B7/4/9        B7
+E em mim uma chama que pouco a pouco vai ter que apagar
+D7M               C#7(4)    C#7
+   Essa minha natureza
+   F#m7                                B7(13)   A7(13)
+Me faz tao covarde, cadê a coragem pra recomeçar
+
+
+Bm7                         F#m7
+Maaas, quando lembro do teu beijo... ai
+                  Bm7
+Me consome esse desejo vaaai
+                    F#m7
+Vai batendo um desespero de te amar
+
+D7M               C#m7
+Dominou meus pensamentos
+               F#m7
+Feito folha ao vento
+               A7(13)  A7
+Foi pra não voltar
+D7M                  C#7(4)   C#7
+Diz então porque teu corpo
+           F#m7   B7/4/9  B7(9)
+Ta fazendo falta
+
+D7M                C#7(4)   C#7
+Me afogando no meu quarto
+            F#m7             B7/4/9    B7
+Choro as lembranças que você deixou
+D7M                      C#7(4)  C#7
+Não me entrego a mais ninguém
+                  Bm7   C#m7
+Melhor sofrer de amor
+D7M                      C#7
+Não me entrego a mais ninguém
+                  F#m7(9)
+Melhor sofrer de amor
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+B7 = X 2 1 2 0 2
+B7(13) = X 2 X 2 4 4
+B7(9) = X 2 1 2 2 X
+B7(b9)(13) = 7 X X P5 9 5
+B7/4/9 = X 2 2 2 2 2
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+C#7 = X 4 3 4 2 X
+C#7(4) = X 4 6 4 7 4
+C#m7 = X 4 6 4 5 4
+C7 = X 3 2 3 1 X
+C7(4) = X 3 3 3 1 X
+D7M = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+F#m7 = 2 X 2 2 2 X
+F#m7(9) = X X 4 2 5 4
+G#m7 = 4 X 4 4 4 X

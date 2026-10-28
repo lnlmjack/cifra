@@ -1,0 +1,131 @@
+Grupo Clareou - Degradê
+
+[Intro] D7sus4  G6(9)  C9  Bm7(11)  Bm7/A  D7sus4  G6(9)  C9
+
+D|----7--5--4-----------10--9--7--------7--------7---|
+B|-------------5------------------8--7-----8--7------|
+G|----------------7----------------------------------|
+D|-7-----------------7-------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+        Bm7(11)            D7sus4             G6(9)
+D|-2--0----------| D|-9--7--5-----7-| D|-5--4--2--0-----|
+B|-------2--0----| B|----------7----| B|-------------0--|
+G|-------------2-| G|---------------| G|----------------|
+D|---------------| D|---------------| D|----------------|
+A|---------------| A|---------------| A|----------------|
+
+           C9
+D|-------------------------7--9--7-----7--|
+B|-------------------7--8-----------7-----|
+G|-7--6--7--9--7--9-----------------------|
+D|----------------------------------------|
+A|----------------------------------------|
+E|----------------------------------------|
+
+
+             G7M/9
+Tô no mesmo lugar
+         G6(9)          Gm6
+Tenho as mesmas manias
+    A7sus4           D7M
+Ainda durmo depois que clareia
+D9     D7sus4   G7M/9
+Qualquer hora vai lá
+     G6(9)    Gm6
+Depois do meio dia
+A7sus4           D7M
+Pra notar como a casa tá cheia
+
+                   D7sus4
+Cheia de saudade de você
+                      E/D
+Cheia de um vazio abrasador
+                      Gm6/D
+Cheia de me ver e não te ver
+                    Bm7
+Circulando pelo corredor
+                    D/A
+Tudo fica feio sem você
+                           G7M
+Vira água e sal qualquer sabor
+                 A7sus4
+Nosso arco-íris degrade tá incolor
+
+D|---------------------------|
+B|---------------------------|
+G|-3--2--3--2--3--2--3--2--3-|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+         D7sus4
+Bota cor na nossa vida
+         G7M/9
+De novo, de novo
+            C9
+Outra dor, outra ferida
+             D6/9
+Eu morro, eu morro
+
+         D7sus4
+Entra e vê se fica agora
+         G7M/9
+Pra sempre, pra sempre
+            C9
+Da um jeito na bagunça
+            D6/9
+Da gente, da gente
+
+D|---------------------------|
+B|---------------------------|
+G|-3--2--3--2--3--2--3--2--3-|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+         D7sus4
+Bota cor na nossa vida
+         G7M/9
+De novo, de novo
+            C9
+Outra dor, outra ferida
+             D6/9
+Eu morro, eu morro
+
+         D7sus4
+Entra e vê se fica agora
+         G7M/9
+Pra sempre, pra sempre
+            C9
+Da um jeito na bagunça
+            D6/9
+Da gente, da gente
+
+D|-7--------7-|
+B|----8--7----|
+G|------------|
+D|------------|
+A|------------|
+E|------------|
+
+[Final] D7sus4  G6(9)  C9  Bm7(11)  Bm7/A  D7sus4  G6(9)  C9
+
+----------------- Acordes -----------------
+A7sus4 = X 0 2 0 3 0
+Bm7 = X 2 4 2 3 2
+Bm7(11) = 7 X 7 7 5 X
+Bm7/A = 5 2 4 2 3 2
+C9 = X 3 5 5 3 3
+D/A = X 0 X 2 3 2
+D6/9 = X 5 4 2 0 0
+D7M = X X 0 2 2 2
+D7sus4 = X X 0 2 1 3
+D9 = X X 0 2 3 0
+E/D = X 5 X 4 5 4
+G6(9) = X X 5 4 5 5
+G7M = 3 X 4 4 3 X
+G7M/9 = 3 2 4 2 X X
+Gm6 = 3 X 2 3 3 X
+Gm6/D = X 5 5 3 5 X

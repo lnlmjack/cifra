@@ -1,0 +1,55 @@
+Nelson Sargento - Idioma Esquisito
+
+D6              Em
+Fui fazer o meu samba
+    A7            Am
+Na mesa de um botequim
+D7               G
+Depois de umas e outras
+  A7            D          A7
+O samba ficou assim
+
+         D    B7      Em
+Estrambonático, Palipopético
+      A7             D
+Cilalenítico, Estapafúrdico
+       F#7           Bm
+Protopológico,Antropofágico
+       Em             A7
+Presolopépipo, Atroverático
+       D     B7        Em
+Batunitétrico, Pratofinandolo
+      A7            D7
+Calotolético,Caranbolambolu
+
+
+      G      G#º      D
+Posolométrico, Pratofilônica
+B7     Em     A7     D      D7
+Protopolágico, Canecalônica
+
+       G   G#º     D
+É isso aí, é isso aí
+    B7           Em
+Ninguém entendeu nada
+      A7           D   D7
+Eu também não entendi
+       G   G#º     D
+É isso aí, é isso aí
+    B7           Em
+Ninguém entendeu nada
+     A7          D      A7
+Então eu vou repetir
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D6 = X 5 4 2 0 X
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X

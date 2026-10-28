@@ -1,0 +1,73 @@
+Belo - Supera
+
+Solo Intro:
+F# A B C#
+F# A B C#
+F# A B C# B A G
+
+Bm7                                   E7/9/11
+De repente você chega revirando a minha vida
+                     C#m7^Bm7
+Cheia de amor pra dar
+Bm7                                         E7/9/11
+Pra falar de um sentimento que até bem pouco tempo
+                      B7(9)^A7+
+Você quis me bagunçar
+                        E/G#                    C#m5-/7
+Quando eu penso estar curado você chega do meu lado
+     F#4/7 ^ F#7
+Louca pra me dominar
+Bm7                                        E7/9/11
+Pra fugir dos seu encantos procurei outros carinhos
+                         C#m7^Bm7
+Vou tentanto me encontrar
+
+Bm7                                        E7/9/11
+Eu já fiz até promessas, já tentei todas as rezas
+                        B7(9)^A7+
+Peço a Deus pra me ajudar
+                   E/G#                    C#m5-/7
+Um remédio pro meu peito que consiga dar um jeito
+     F#7    ^    A7
+de você me libertar
+
+        D7+(9)         E/D          D7+(9)      E/D
+Eu não consigo te esquecer, Eu tenho medo de voltar
+        F#4/7      F#7     Em7  A7
+Mas a vontade de te ver, Supe...ra
+        D7+(9)         E/D          D7+(9)      E/D
+Eu não aceito te querer, Não tenho forças pra lutar
+        F#4/7      F#7     Em7  A7
+Mas a vontade de te ver, Supe...ra
+
+Base p/ solo:
+
+D7+(9) E/D D7+(9) E/D F#4/7 F#4/7 - Retorna ao início
+
+Solo:
+
+E E E E D D C# C# B B A B
+E E E E D D C# C# B B A B
+F# F# E F# F# F# E G F#
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+B = X 2 4 4 4 2
+B7(9) = X 2 1 2 2 X
+Bm7 = X 2 4 2 3 2
+C# = X 4 6 6 6 4
+C#m5-/7 = X 4 5 4 5 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D7+(9) = X 5 4 6 5 X
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+E7/9/11 = X X 2 2 3 2
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#4/7 = 2 4 2 4 2 X
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3

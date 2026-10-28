@@ -1,0 +1,61 @@
+Elvis Presley - Any Way You Want Me
+
+CHORDS USED (Played quietly, in triplets, and upstrokes)
+    Am  D  E  F  G Dm Bm  
+  |--0--2--4--5--7--5--7--|
+  |--1--3--5--6--8--7--7--|
+  |--2--2--4--5--7--6--7--|
+  |-----------------------|
+  |-----------------------|
+  |-----------------------|
+INTRO
+  |--------------------------------|
+  |--14/10--10/14/10/8/6/4----4/8~-|
+  |-------------------------5------|
+  |--------------------------------|
+  |--------------------------------|
+  |--------------------------------|
+
+VERSE 1
+  Am
+  I'll be as strong as a mountain.
+     D        E      Am
+  Or weak as a willow tree.
+CHORUS
+  D         F              D          E      Am
+  Anyway you want me, well that's how I will be.
+VERSE 2 (same chords)
+  I'll be as tame as a baby.
+  Or weak as a willow tree.
+CHORUS (same chords)
+  Anyway you want me, well that's how I will be.
+BRIDGE
+  Am
+  In your hands, my heart is clay.
+  To take and hold as you may.
+  D
+  I'm what you make me, you've only to take me.
+              E                 Em
+  And in your arms I will stay.
+VERSE 3
+  G                   Dm
+  I'll be a fool or a wise man.
+     Cm          Dm       G
+  My darlin' you hold the key.
+CHORUS
+          G              F       G           F
+  Yes, anyway you want me, that's how I will be.
+  G
+  I will be.
+
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

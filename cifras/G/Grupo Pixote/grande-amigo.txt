@@ -1,0 +1,59 @@
+Grupo Pixote - Grande Amigo
+
+(intro)  F#6/9    A#m    C#m    F#7/6  F#7        B/F#        C#7/F
+
+ F#6/9   A#m    A#º       F#7/6  F#7/5+
+ Tá já sei nào vou ensistir
+       B/F#           C#7/9  C#7  F#7+       G#m  C#7/9-
+ Pelo menos sou um grande amigo seu    Solo: Re# Mi Re# Re
+ F#6/9   A#m    A#º       F#7/9  F#7/9-
+ Eu te quis bastante feliz
+        B/F#  B7+  G#m  C#7/9/11   F#
+ Fiz de tudo mas mesmo assim não deu
+   F#7+         F#6      B7+      C#7/4  C#7
+ Quando cai a tarde ... Luzez da cidade
+   A#m        A#m7/9-   D#7/A#    C#7/13  C#7/G#
+ Ficam me lembrando ... Nossas noites
+   F#7+         F#6      B7+          C#7/4  C#7
+ Entro no meu carro ... Ligo o ar e o rádio
+   A#m        A#m7/9-   D#7/A#     G#m          C7/13
+ Nessas horas penso ... Que jamais vou te esquecer ...
+     F#      A#m      C#m       F#7/9  F#7/9-
+ Se você sentir ... Saudade de mim
+         B/F#
+ Em qualquer lugar
+
+       G#m    C#7         F#7+             G#m     C#7/9-
+ Do mundo eu vou te encontrar
+        F#      A#m      C#m       F#7/9  F#7/9-
+ Foi melhor assim ... Não dá pra fingir
+          B/F#      C#7        F#
+ Só não sei como parar de te amar
+
+----------------- Acordes -----------------
+A#m = X 1 3 3 2 1
+A#m7/9- = 6 4 6 4 6 4
+A#º = X 1 2 0 2 0
+B/F# = X X 4 4 4 2
+B7+ = X 2 4 3 4 2
+C#7 = X 4 3 4 2 X
+C#7/13 = X 4 X 4 6 6
+C#7/4 = X 4 6 4 7 4
+C#7/9 = X 4 3 4 4 X
+C#7/9- = X 4 3 4 3 X
+C#7/9/11 = X 4 4 4 4 4
+C#7/F = X X 3 4 2 4
+C#7/G# = 4 X 3 4 2 X
+C#m = X 4 6 6 5 4
+C7/13 = X 3 X 3 5 5
+D#7/A# = 6 X 5 6 4 X
+F# = 2 4 4 3 2 2
+F#6 = 2 X 1 3 2 X
+F#6/9 = 2 1 1 1 X X
+F#7 = 2 4 2 3 2 2
+F#7+ = 2 X 3 3 2 X
+F#7/5+ = 2 X 2 3 3 2
+F#7/6 = 2 X 2 3 4 X
+F#7/9 = X X 4 3 5 4
+F#7/9- = X X 4 3 5 3
+G#m = 4 6 6 4 4 4

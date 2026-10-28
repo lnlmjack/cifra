@@ -1,0 +1,100 @@
+Maskavo - Ela Só Ela
+
+Intro:
+e|--5---5-5---5-7---7-7---7-5---5-5------3---
+b|----7-----7-----8-----8-----7-----8-7--3---
+g|---------------------------------------4---
+d|-------------------------------------------
+a|-------------------------------------------
+E|-------------------------------------------
+
+e|----3----3----3----3----3----3----3----3---
+b|----3----3----3----3----4----4----4----4---
+g|----3----3----3----3----5----5----5----5---
+d|------------------------5----5----5----5---      (2X)
+a|------------------------3----3----3----3---
+E|------------------------3----3----3----3---
+
+Parte 1:
+{
+D7+                 G
+Ela so ela me encanta
+
+D7+               G
+Ela que vai me levar
+
+
+D7+                    G
+Vou com a roupa do corpo
+
+D7+                  G
+Como ela quer me chamar
+}
+
+Passagem:
+{
+A         Em
+   Num oceano
+
+F#m        G  A
+   Doce balanço
+}
+
+Refrão (2x):
+{
+D    G
+Deusa
+
+          D    G
+Vai me levando
+
+        D     G
+Me embalando
+
+      D    G
+E eu vou
+}
+
+Solo: D7+ G D7+ G
+
+Parte 2:
+{
+D7+               G
+Ela que todos fascina
+
+ D7+                G
+E fonte de inspiracao
+
+ D7+                  G
+Ideia que ninguem me tira
+
+    D7+               G
+Com ela me sinto um rei
+}
+
+Parte 3:
+{
+D7+             G
+Ela que da o balanco
+
+   D7+                    G
+Do jeito que a estrela guiar
+
+  D7+                   G          D7+
+Gangorra do tempo que manda, meu amor
+
+                      G
+Como a maré, ir e voltar.
+}
+
+Passagem
+
+Refrão (4x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+D = X X 0 2 3 2
+D7+ = X X 0 2 2 2
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

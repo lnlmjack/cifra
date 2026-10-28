@@ -1,0 +1,43 @@
+Fundo de Quintal - Tudo é Festa
+
+
+ D7    G        C7(4)    F#m(2)       C7         Am  B7    E7/9          A#7  A7  D
+ Laia lalaiala lalaia laia laia laia laialaia laialaia laia   laialaia    laia
+ A7    D                        Gm          A7
+ Hoje, pra nós tudo é festa e aquarela
+  D      Gm                 C7
+ Veja, o Sol despontar na janela
+ Gm  C7     Gm(4)       C7   F        Em57      A7
+ Nada, se compara a razão,   de se amar
+  D            Gm               A7
+ Vidas, se juntam formando alianças
+  D           Gm                  C7
+ E assim, se embala uma nova esperança
+         Gm   C7          Gm   C7       F(4)       Em57      A7
+ Pois quem ama, não se engana faz da vida o sonhar
+  D           D0              Em7
+ Sabe, nosso amor é feito a névoa
+       A7              Am           C7         B7
+ Que repousa, sobre as flores de um lindo jardim
+  G          C7             F#m    C7   Am      B7
+ Veja, que a pureza dessa vida que nasceu de nós
+
+        E7/9           A#7 A7 D
+ Uma só voz, canta feliz amor
+
+----------------- Acordes -----------------
+A#7 = X 1 3 1 3 1
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+C7 = X 3 2 3 1 X
+C7(4) = X 3 3 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E7/9 = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3
+Gm(4) = 3 X 0 3 1 X

@@ -1,0 +1,113 @@
+Harmonia do Samba - Vem Neném
+
+[Intro] A  E7  A  E7
+
+E|------------------------------------------|
+B|------------------------------------------|
+G|------------------------------------------|
+D|------------------------------------------|
+A|-0---------------------0------------------|
+E|---0-2-0-2-0-2-0-2-0-2----0-2-0-2-0-2-0-2-|
+E|------------------------------------------|
+
+[Primeira Parte]
+
+ A    G
+Neném
+                   A     G
+Olha que te quero comigo
+                      A              G
+Mas sei que estou na tua gatinha coisinha
+       A     G       A     G
+Te quero bem, te quero bem
+
+
+ A    G
+Neném
+               A            G
+E deixa de besteira bobeira
+                    A        G
+Pois de qualquer maneira
+            A        G
+E a vida é tão passageira
+          F  G     B   C#  D  E
+Por isso ve____m, vem meu ne_ném
+
+[Refrão]
+
+ A
+Vem neném neném
+ E7
+Vem neném
+ A
+Vem neném neném
+ E7
+Vem
+ A
+Vem neném neném
+ E7
+Vem neném
+ A
+Vem neném neném
+ E7
+Vem
+
+[Segunda Parte]
+
+    F#m                                C#m
+Eu sei que deste jeito esta coisa acontece comigo
+D                     E7          A          G#m
+  Sua timidez que me faz, que me faz te amar
+F#m                              C#m
+    Pra ficar seguro você me oferece um abrigo
+B                               E7
+  Pois o teu encanto que me contêm
+
+[Refrão]
+
+ A
+Vem neném neném
+ E7
+Vem neném
+ A
+Vem neném neném
+ E7
+Vem
+ A
+Vem neném neném
+ E7
+Vem neném
+ A
+Vem neném neném
+ E7
+Vem
+
+ A
+Vem neném neném
+ E7
+Vem neném
+ A
+Vem neném neném
+ E7
+Vem
+ A
+Vem neném neném
+ E7
+Vem neném
+ A
+Vem neném neném
+ E7
+Vem
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

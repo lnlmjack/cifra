@@ -1,0 +1,62 @@
+Dorgival Dantas - Pra Você Voltar Pra Mim
+
+Intro: A9  C#7(9-)  G#dim7   F#m7  Dm  A9  E7  A9  E7
+
+     A9                    E/G#   G#dim7      F#m7
+Você hoje faz questão de dizer que já me esqueceu
+     F#7                 F#7/E               Bm7  Bm7/A
+Fala pra todo mundo que o seu maior erro foi eu
+      E                     E/G#               A/C#  A
+Na verdade eu nem sei o que fiz pra você me deixar
+       B7                 B7(4)              E7    E7(13-)
+Me desculpe chorar, mas é que sinto tanta saudade
+
+       A9                  E/G#    G#dim7   F#m7
+Do seu corpo sobre a nossa cama juntinho ao meu
+        F#7                  F#7/E              Bm7  Bm7/A
+Das carícias , dos beijos e abraços que você me deu
+     E                   E/G#                   A/C#  A
+Você pode até não mais voltar, mas procure entender
+        B7                  B7(4)             E7
+Que ninguem vai te amar como eu isso você vai ver
+     C#7               G#dim7              F#m7
+As palavras que saem de mim vêm do meu coração
+
+      C#7                 G#dim7               F#m7  A7/C#
+São palavras sensatas, sinceras não tem uma em vão
+      D                E7                A   F#7
+É uma pena você me escutar e não me entender
+        B7         B7(4)     E7               A9   E7
+Que ninguém vai te amar como eu isso você vai ver
+      A9       C#7(9-)    G#dim7       F#m7   F#7
+Se amanhã você vier me     procu........rar
+  F#7/E   Bm7       Bm7/A          E/G#  E7
+E não me achar é porque já te esqueci
+          A9         C#7(9-)  G#dim7         F#m7
+Não vá pensar que eu nunca     te            amei
+       Dm         A  F#7        B7             E7
+Sabes que até chorei      pra você voltar pra mim  (NA 1ª VEZ)
+       Dm         A  F#7        B7    E7       A9
+Sabes que até chorei      pra você voltar pra mim  (NA 2ª VEZ)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7/C# = X 4 5 2 5 X
+A9 = X 0 2 2 0 0
+B7 = X 2 1 2 0 2
+B7(4) = X 2 4 2 5 2
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#7(9-) = X 4 3 4 3 X
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7(13-) = 0 X 0 1 1 0
+F#7 = 2 4 2 3 2 2
+F#7/E = X X 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+G#dim7 = 4 X 3 4 3 X

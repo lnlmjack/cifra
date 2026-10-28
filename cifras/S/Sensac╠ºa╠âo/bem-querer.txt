@@ -1,0 +1,75 @@
+Sensação - Bem Querer
+
+[Intro] D9  F9  Bb7+  A7
+
+     D9                         C#sus4
+Resolvi, depois que minha vida mudou
+   F#9            Am                 D
+Voltar atrás, renovar essa minha emoção
+               G
+Para estar de bem comigo
+  Gm            F#m         B
+Então fui consultar meu coração
+       E9
+Para saber se errei demais
+        Em             A7
+E me desculpe, traga a paz
+
+         D9                        C#sus4
+Acho que vou me entregar a um novo amor
+          Am               D               G     G7
+Quem sabe ela me traga de brinde consigo a felicidade
+  G#m7                 Gm
+É tudo o que eu sempre quis
+
+         F#m            B
+Vou me livrar de todo o mal
+   E9
+Cortar de vez essa raiz
+      Gm             C
+Um elixir pra ser feliz
+
+     F                          Bb
+Vou te procurar, não vá se esconder
+  Am                            D   Gm
+O tempo é o caminho do nosso viver
+             C      F   C
+Me leva e me traz você
+
+   F                       Bb
+A gente se perde nessa solidão
+  Am                           D
+A luz que ilumina minha escuridão
+    Gm      C       Am7   D
+É você, é você, é você
+      Gm      C                   Am7    D
+Te buscar é a força do meu bem querer
+     Gm               C         Am7               D
+Todo dia eu vivo a sonhar com momentos de raro prazer
+       Gm             C                  F    G G# A7
+Que um dia irei encontrar quando te conhecer
+
+[Final] D  F  Bb  A7
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bb7+ = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C#sus4 = X 4 4 1 2 X
+D = X X 0 2 3 2
+D9 = X X 0 2 3 0
+E9 = 0 2 4 1 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#9 = 2 4 6 3 2 2
+F#m = 2 4 4 2 2 2
+F9 = 1 3 5 2 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#m7 = 4 X 4 4 4 X
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

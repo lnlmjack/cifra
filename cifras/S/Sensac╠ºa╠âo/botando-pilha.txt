@@ -1,0 +1,35 @@
+Sensação - Botando Pilha
+
+Introdução.: D6/9 C#m7/5- F#7 Bm A7 D6/9
+
+ A7            D6/9  E7
+Você não aguenta a trilha
+             Em7  A7  D6/9
+Sai daí, não entra na pilha
+ A7         Am7            D7       G
+Se alguém pagar sugestão, deixa pra lá
+                               D
+Ficar no samba, devagar, devagarinho,
+                 A7                      D
+Pra dançar um miudinho, no terreiro de iaiá
+            G                  D
+Ficar no samba, devagar, devagarinho,
+                 A7                      D
+Pra dançar um miudinho, no terreiro de iaiá
+            G                  D
+Ficar no samba, devagar, devagarinho,
+                 A7                      D
+Pra dançar um miudinho, no terreiro de iaiá
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bm = X 2 4 4 3 2
+C#m7/5- = X 4 5 4 5 X
+D = X X 0 2 3 2
+D6/9 = X 5 4 2 0 0
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3

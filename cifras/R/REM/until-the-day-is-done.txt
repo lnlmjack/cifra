@@ -1,0 +1,95 @@
+R.E.M. - Until The Day Is Done
+
+(intro  - repeated)
+    D
+E |---------------------|
+B |--3--3---3-3---3---3-|
+G |--2--------0h2-------|
+D |--0--------0---------|
+A |---------------------|
+E |---------------------|
+
+(verse)
+    D                   C        G
+E |---------------------|--------------------|
+B |--3--3---3-3---3---3-|-----3---3----------|
+G |--2--------0h2-------|--0-----------------|
+D |--0--------0---------|--2--------------0--|
+A |---------------------|--3-----------2-----|
+E |---------------------|-----------3--------|
+
+    D          G6
+E |---------------------|---------------------|
+B |--3--3---3-3/5-5---5-|--5/3-3---3----------|
+G |--2--------2/4-------|--4/2----------------|
+D |--0--------3/5-------|--5/3-------2-----0--|
+A |---------------------|---------------3-----|
+E |---------------------|---------------------|
+
+
+(chorus - toca-se apenas os acordes)
+
+D             C              G       D
+The battle's been lost, the war is not won
+D                C     G      D
+An addled republic, a bitter refund
+D                      C              G        D
+The business first flat earthers licking their wounds
+D             C              G      D
+The verdict is dire, the country's in ruins
+C                 G          D
+Providence blinked, facing the sun
+C                 G      D
+Where are we left to carry on
+Am7        G      D
+Until the day is done
+A7         G      D
+Until the day is done
+D             C              G     D
+As we've written our stories to entertain
+D           C              G        D
+These notions of glory and bull market gain
+D           C                G        D
+The teleprompt flutters, the power surge brings
+D           C            G         D
+An easy speed message falls into routine
+C                 G          D
+Providence blinked, facing the sun
+C                 G      D
+Where are we left to carry on
+Am7        G      D
+Until the day is done
+A7         G      D
+Until the day is done
+     G            D
+A voice whispers "Son,
+    G              D
+The blessed vision comes."
+    G        D
+What have I done
+    G       A7
+What have I done
+D             C             G    D
+So hold tight your babies and your guns
+D            C              G       D
+Forgive us our trespasses, father and son
+C                 G          D
+Providence blinked, facing the sun
+C                 G      D
+Where are we left to carry on
+Am7        G      D
+Until the day is done
+A7         G      D
+Until the day is done
+Am7        G      D
+Until the day is done
+
+( C      G     D )
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X

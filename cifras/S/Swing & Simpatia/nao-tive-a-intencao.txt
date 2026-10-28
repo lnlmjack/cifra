@@ -1,0 +1,68 @@
+Swing & Simpatia - Não tive a intenção
+
+Introdução: A# A# A# B C# C#
+            D# E F# C# D#
+            A# A# A# B C# C#
+            D# E F# G# A# B C#
+
+  B7+            G#m7           C#m
+Não tive a intenção de incomodar
+                  F#7                 B7+
+Mas é que eu precisava falar com você
+             G#m7
+O que aconteceu entre nós
+F#m7           B7                     E7+
+Ainda está marcado, não deu pra esquecer
+                               B7+
+Será que a gente pode se encontrar
+       F#m7    B7     E7+
+E conversar pessoalmente
+                               F#m7
+E de uma vez por todas resolver
+         B7       E7+
+O que ficou pendente
+
+                          Ebm           G#m7
+Eu quero o olhar no fundo desse teu olhar
+                   Ebm                  G#m7
+Pois tenho a impressão de que não acabou
+                Ebm                G#m7
+Quero saber por que vive a me evitar
+                     C#m         F#m7 B7     E7+
+E não quer bater de frente pra falar de amor
+         G#m7         Bbm
+Se por um acaso você se tocar
+  B7+                            Ebm  Em
+Que um bate-papo não tem nada a ver
+                            F#m
+Fique à vontade pra me procurar
+Bm                             C#m   F#m7     B7
+Me abrace bem forte, deixa acontecer eeeeeuuuuu
+    E7+                      F#7
+te amo, por mais que eu me esforce
+         B7+           B7
+Não consigo te esquecer
+   E7+                  F#7        B7+  B7
+Te amo, meu mundo não é nada sem você
+
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7+ = X 2 4 3 4 2
+Bbm = X 1 3 3 2 1
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+D# = X 6 5 3 4 3
+E = 0 2 2 1 0 0
+E7+ = X X 2 4 4 4
+Ebm = X X 1 3 4 2
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G# = 4 3 1 1 1 4
+G#m7 = 4 X 4 4 4 X

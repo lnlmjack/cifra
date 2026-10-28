@@ -1,0 +1,75 @@
+Elvis Presley - Suppose
+
+    Intro:  G
+    G          Eb+              C           E
+    Suppose no rose should ever grow again
+    Am         F                 D          Dsus4
+    Suppose no brook should ever flow again
+    G          G7               C           Cm       G
+    Suppose no star should ever glow again
+    G                  D
+    Suppose you didn't love me
+
+    G             Eb+             C           E
+    Suppose there were no bees or butterflies
+    Am         F                D                Dsus4
+    Suppose no bird should ever cross the skies
+    G           G7               C     Cm        G
+    Suppose the sun should never never rise
+       D               G
+    Suppose you didn't love me
+
+
+           D                     G
+    It's impossible to imagine a world without a star
+         Em          A7     D
+    But imagining no you is more impossible, by far
+
+    G           Eb+        C                   E
+    Suppose the Springtime never should arrive
+    Am          F                D                  Dsus4
+    Suppose the tall green trees should not survive
+    G         G7             C     Cm       G
+    Suppose I had no wish to be alive
+       D               G
+    Suppose you didn't love me
+
+           D                     G
+    It's impossible to imagine a world without a star
+         Em          A7     D
+    But imagining no you is more impossible, by far
+
+    G           Eb+        C                   E
+    Suppose the Springtime never should arrive
+    Am          F                D                  Dsus4
+    Suppose the tall green trees should not survive
+    G         G7             C     Cm       G
+    Suppose I had no wish to be alive
+       D               G
+    Suppose you didn't love me
+       D               G
+    Suppose you didn't love me
+
+    Chords:
+       Eb+     Dsus4
+    e|--3--    --3--
+    B|--0--    --3--
+    G|--0--    --2--
+    D|--1--    --0--
+    A|--2--    -----
+    E|--3--    -----
+
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+Cm = X 3 5 5 4 3
+D = X X 0 2 3 2
+Dsus4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+Eb+ = X 6 5 4 4 X
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

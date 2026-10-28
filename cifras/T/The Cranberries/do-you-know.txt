@@ -1,0 +1,167 @@
+The Cranberries - Do You Know
+
+Violão I:
+
+intro 2x: A A7M C11 Em
+
+Primeira parte:
+
+A
+Be here a while
+A7M                    C11            Em
+Might as well smile, might as well smile
+A                 A7M
+I will be strong, will carry on
+         C11                     Em
+And I'll always hold on to my smile
+A                 A7M
+  What would you say?
+                       C11                  Em
+Would you say that I'm sad for feeling this way? Ow!
+A                 A7M               C11          Em
+  What would you do if you were in my shoes? In mine!
+
+
+Refrão:
+
+G         A
+  Do you know what I think?
+        C11                 Am
+Do you know what I think about it? About it?
+G                     A
+  I guess you don't know anything
+           C11             Am
+You don't know anything about it! About it!
+G         A
+  Do you know what I think?
+        C11                 Am
+Do you know what I think about it? About it?
+G                     A
+  I guess you don't know anything
+           C11             Am
+You don't know anything about it! About it! About it! About it!
+
+(A A7M C11 Em)2x
+
+Segunda parte:
+
+A
+Dust in my eyes
+A7M                   C11       Em
+I realize that I'm thinking of you
+A                 A7M                          C11        Em
+I'll take my car, I will go far, and I'll be lonely for you
+A                 A7M
+  What would you say?
+                       C11                  Em
+Would you say that I'm sad for feeling this way? Ow!
+A                 A7M               C11          Em
+  What would you do if you were in my shoes? In mine!
+
+Refrão:
+
+G         A
+  Do you know what I think?
+        C11                 Am
+Do you know what I think about it? About it?
+G                     A
+  I guess you don't know anything
+           C11             Am
+You don't know anything about it! About it!
+G         A
+  Do you know what I think?
+        C11                 Am
+Do you know what I think about it? About it?
+G                     A
+  I guess you don't know anything
+           C11             Am
+You don't know anything about it! About it! About it! About it!
+
+(A A7M C11 Em)2x
+
+(A A7M)4x A
+
+
+Guitarra I:
+                      Intro:
+ A              A7M          C11          Em
+E|--------------|------------|------------|------------|
+B|9(10\9/10)----|8(9\8/9)----|7(8\7/8)----|4(5\4/5)----|
+G|--------------|------------|------------|------------|
+D|--------------|------------|------------|------------|
+A|--------------|------------|------------|------------|
+E|--------------|------------|------------|------------|
+
+
+                     Refrão:
+
+ G          A          C11        Am               Am
+E|----------|----------|----------|-------0--|     |-------0--|  
+B|-------3--|-------2--|-------1--|-----1----|     |-----1----|
+G|-----0----|-----2----|-----0----|---2------|2x   |---2------|
+D|---0------|---2------|---3------|-2--------|     |-2--------|
+A|-2--------|-0--------|-3--------|----------|     |----------|
+E|----------|----------|----------|----------|     |----------|
+
+
+            Interlúdio/Segunda parte:
+
+ A          A7M        C11        Em
+E|0-------0-|0---------|0-------0-|0---------|
+B|3-------3-|3---------|1-------1-|0---------|
+G|3-------3-|2---------|0-------0-|0---------|
+D|3-------3-|3---------|3-------3-|2---------|
+A|0-------0-|0---------|3-------3-|2---------|
+E|----------|----------|----------|----------|
+
+
+                                 Final:
+
+ A                A7M              A                A7M
+E|5-----5-----5---|4-----4---------|5-----5-----5---|4-----4---------|
+B|--5-----5-----5-|--5-------------|--5-----5-----5-|--5-------------|
+G|----6-----6-----|----6-----------|----6-----6-----|----6-----------|
+D|----------------|----------------|----------------|----------------|
+A|----------------|----------------|----------------|----------------|
+E|----------------|----------------|----------------|----------------|
+
+ A                A7M              A
+E|5-----5---------|4-----4---------|5---------------|
+B|--5-----5-------|--5-------------|5---------------|
+G|----6-----6-----|----6-----------|6---------------|
+D|----------------|----------------|7---------------|
+A|----------------|----------------|----------------|
+E|----------------|----------------|----------------|
+
+
+Guitarra II:
+
+...What would you say?
+Would you say that I'm sad for feeling this way? Ow!
+What would you do if you were in my shoes? In mine!...
+
+ A           A7M          C11          Em
+E|5----5-----|4----4------|3----3------|0----0------|
+B|-----------|------------|------------|------------|
+G|2----2-----|1----1------|0----0------|------------|
+D|-----------|------------|------------|2----2------|
+A|-----------|------------|------------|------------|
+E|-----------|------------|------------|------------|
+
+
+               Final:
+
+E|------------|     |-------------|
+B|------------|     |-------------|
+G|-------14h13|     |13/18--------|
+D|7/14--------|3x   |-------------|
+A|------------|     |-------------|
+E|------------|     |-------------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+C11 = X 3 3 0 1 X
+Em = 0 2 2 0 0 0
+G = 3 2 0 0 0 3

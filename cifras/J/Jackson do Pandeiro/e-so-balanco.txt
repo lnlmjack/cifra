@@ -1,0 +1,34 @@
+Jackson do Pandeiro - É Só Balanço
+
+Int : Riff (G,Bb,C)3x ,(G/D,F,G,F,G7)
+
+   Riff (G,Bb,C)
+Esse é o sambalan-sambalanço
+
+Todo mundo no balan, sambalançou
+     (G/D,F,G)                      D7+/9
+Sambala sambalançou sambalalá
+
+
+(Gm7,C7/9)
+Um balançou, balançou, balançou,
+Balançou, balançou,
+ F7/C   G
+quero ver balançar
+(Gm7,C7/9)
+Um balançou, balançou, balançou
+No balanço que eu vou
+ F7/C    G          F,G
+Eu não quero parar
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C7/9 = X 3 2 3 3 X
+D7+/9 = X 5 4 6 5 X
+F = 1 3 3 2 1 1
+F7/C = X 3 3 2 4 X
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

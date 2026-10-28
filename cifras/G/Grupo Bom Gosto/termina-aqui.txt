@@ -1,0 +1,64 @@
+Grupo Bom Gosto - Termina Aqui
+
+Intro: C#m7(b5)  F#7(b13)  Bm7/9  Bm/A  G#m7  C#7  C7+  Bm7
+
+F#7(b13)        Bm   Bm(#5)  Bm6
+Meu amor se foi assim (assim).
+Bm7 C#m7(b5)   F#/A#     Bm7/9
+Bem calmo e mais sereno
+F#7(b13)       Bm   Bm(#5)  Bm6
+Seria bem melhor pra mim (pra mim)
+Bm7  C#m7(b5)   F#/A#    F#7/4
+Um sorriso mais ameno
+F#7(b13)    Bm       Am^D7   G7+
+Nosso amor está pequeno
+C#m7(b5)^F#7(b13)    Bm7/9  %  Bm/A
+Cada vez mais dispersivo
+Bm/A   G#m7  C#7   C#m7(b5)
+O ciúme é o veneno
+F#7      Bm     Bm^F#^G^G#^A
+Não se encontra lenitivo
+A   F#7     Bm         Bm/A         C#7
+Se entrenós houvesse a paz dos bons casais
+F#7               Bm
+Sem receios, sem conflitos
+
+Am7/9    D7/13        G7+
+Eu acredito que haveria mais amor
+G#m7(11)     C#7                 Em6
+Sem altos gritos tão aflitos de pavor
+F#7                  Bm       F#/A#            Am6
+Mais calor na relação, Mais desejo de viver
+B7            Em               Em/D           G7
+Mais pureza, mais prazer, mais amor, mais união
+        F#7           Bm     Bm/A     C#m7(b5)
+Mas não deu...Termina aqui (eu vou partir)
+        F#7           Bm     Bm/A     C#m7(b5)
+Mas não deu...Termina aqui (sofreu, sofri)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am6 = 5 X 4 5 5 X
+Am7/9 = X X 7 5 8 7
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+Bm(#5) = X 2 0 0 0 3
+Bm/A = X 0 4 4 3 X
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+Bm7/9 = X 2 0 2 2 X
+C#7 = X 4 3 4 2 X
+C#m7(b5) = X 4 5 4 5 X
+D7 = X X 0 2 1 2
+D7/13 = X 5 X 5 7 7
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em6 = X 7 X 6 8 7
+F#/A# = 6 X 4 6 7 X
+F#7 = 2 4 2 3 2 2
+F#7(b13) = 2 X 2 3 3 2
+F#7/4 = 2 4 2 4 2 X
+G#m7 = 4 X 4 4 4 X
+G#m7(11) = 4 X 4 4 2 X
+G7 = 3 5 3 4 3 3
+G7+ = 3 X 4 4 3 X

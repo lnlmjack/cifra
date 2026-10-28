@@ -1,0 +1,56 @@
+Bicho de Pé - Abc do Sertão
+
+       Am          E7
+Lá no meu sertão
+             Am
+pros caboco ler
+               Dm       Am   A7
+tem de aprender outro ABC
+
+       Dm      Am         E7
+O J é ji,o L é lê, o S é si,
+                           Am A7
+mas o R tem nome de rê
+       Dm G7     C F         Bm7/5-
+O J é ji,      o L é lê,   o S é si,
+          E7               Am
+mas o R tem nome de rê
+
+           F E7             Am
+E até o Y,   lá é pissilône,
+           Dm        Am A7
+O M é mê e o N é nê,
+
+
+       Dm                  Am
+O F é fê e o G chama-se guê
+                           E7                        Am A7
+Na escola é engraçado ouvir-se tanto E
+      Dm                    C
+O F é fê e o G chama-se guê
+      F           Bm7/5-     E7             Am
+Na escola é engraçado ouvir-se tanto E
+
+             E7
+A, B, C, D,
+       Am     E7 Am
+Fê, Guê, Lê, Mê,
+            A7     Dm
+Nê, Pê, Quê, Rê,
+     Am        E7  Am
+Tê, Vê e Zê...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+Bm7/5- = X 2 3 2 3 X
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

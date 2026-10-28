@@ -1,0 +1,42 @@
+Chimarruts - Pergunto À Lua
+
+Intro: A7+  D7+
+       A7+  D7+  C#m7  D7+
+
+A7+                     D7+
+Quando quero falar de amor
+      C#m7              Bm7
+Eu repito teu nome baixinho
+A7+                   D7+
+Pra que escute aonde for
+         C#m              Bm7
+Pra que nunca te sinta sozinho
+
+A7+                             D7+
+Está no poema de um livro que a voz vem do coração
+C#7                                   D7+
+É por isso que eu te escuto no meio da multidão
+A7+                             D7+
+Sinto este amor invadindo teu sorriso vem dizer
+         C#m7                 D7+
+Que o segredo da minha voz é você
+
+
+Refrão:
+D7+         C#m7
+ Pergunto a Lua
+       Bm7               E
+Se te vê de onde ela está
+D7+      C#m7   F#m7       Bm  C#m7  D7+      (Intro)
+ Peço pra te buscar, e num beijo me calar
+
+----------------- Acordes -----------------
+A7+ = X 0 2 1 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
