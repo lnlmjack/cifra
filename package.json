@@ -6,6 +6,6 @@
   "description": "Aplicativo local de cifras, transposição, diagramas, rolagem automática e playlists.",
   "scripts": {
     "test": "node --test",
-    "check": "node --check src/app.js && node --check src/music.js && node --check src/store.js"
+    "check": "node --check src/app.js && node --check src/music.js && node --check src/store.js && node --check src/catalog.js"
   }
 }

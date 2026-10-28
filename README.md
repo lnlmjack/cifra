@@ -4,7 +4,8 @@ Aplicativo web estático para músicos: cadastro e leitura de cifras autorizadas
 
 ## O que está implementado
 
-- Pesquisa instantânea **no acervo local**, com comparação que ignora acentos e maiúsculas.
+- Pesquisa no acervo público de arquivos `.txt` do repositório `lnlmjack/cifra`, com comparação sem acentos; carrega somente a cifra escolhida.
+- As cifras abertas são salvas no dispositivo e passam a aparecer também na biblioteca local. A pesquisa do catálogo precisa de internet; os recursos locais continuam disponíveis offline.
 - Cadastro, edição, exclusão e importação de cifras em `.txt` e `.json`.
 - Leitor com acordes em `[colchetes]` ou em linhas próprias, organização por estrofes, ajuste de fonte e de espaçamento.
 - Transposição por semitom, grafia preferida com sustenidos ou bemóis e preservação de baixos, como `G/B`.
@@ -18,7 +19,7 @@ Aplicativo web estático para músicos: cadastro e leitura de cifras autorizadas
 
 ## Limites importantes
 
-Não existe, nesta entrega, uma API externa de busca de músicas ou cifras. A pesquisa é real, mas limitada às músicas cadastradas ou importadas no dispositivo; nenhum resultado de demonstração é inventado. Para pesquisa online, conecte uma fonte oficial/licenciada por meio de um backend próprio, respeitando autorização, termos e direitos do conteúdo. Não raspe sites de cifras nem publique material de terceiros sem permissão.
+A busca do acervo consulta a árvore pública do GitHub e lista os nomes dos arquivos `.txt`; ao selecionar um resultado, baixa somente esse arquivo. A consulta ao GitHub requer conexão e está sujeita aos limites públicos de requisições. Os arquivos e seu conteúdo devem ser publicados e utilizados somente com as autorizações necessárias; não raspe fontes nem publique material de terceiros sem permissão.
 
 Os dados são locais a cada navegador e dispositivo. Limpar os dados do navegador pode apagá-los; faça backups. O modo offline depende do cache já carregado e não disponibiliza conteúdo online que não tenha sido salvo localmente.
 
@@ -97,7 +98,8 @@ Para transferência completa entre dispositivos, use os botões de backup: esse 
 ## Estrutura
 
 - `index.html`: ponto de entrada e estrutura da interface.
-- `src/app.js`: interface, eventos, rolagem, busca local, playlists e importação.
+- `src/app.js`: interface, eventos, rolagem, busca e playlists.
+- `src/catalog.js`: índice público do GitHub e carregamento sob demanda de cifras `.txt`.
 - `src/music.js`: normalização de pesquisa, acordes, transposição e voicings.
 - `src/store.js`: camada IndexedDB e backups.
 - `src/styles.css`: layout adaptável e temas.
