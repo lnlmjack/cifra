@@ -1,0 +1,13 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {normalizeSearch,searchSongs,parseChord,transposeChord,renderSongText,songChordNames,chordVoicing,validateSong} from '../src/music.js';
+const songs=[{id:'1',title:'Evidências',artist:'Chitãozinho & Xororó'},{id:'2',title:'Oceano',artist:'Djavan'}];
+test('pesquisa por nome ignora acentos e diferenças de maiúsculas',()=>{assert.equal(normalizeSearch('EVIDÊNCIAS'),'evidencias');assert.equal(searchSongs('evidencias',songs)[0].id,'1')});
+test('pesquisa encontra termo de artista e retorna vazio para consulta sem correspondência',()=>{assert.equal(searchSongs('djavan',songs)[0].id,'2');assert.deepEqual(searchSongs('música inexistente',songs),[])});
+test('transpõe progressão preservando extensão e baixo alternativo',()=>{assert.deepEqual(parseChord('G/B'),{root:'G',suffix:'',bass:'B'});assert.equal(transposeChord('G/B',2),'A/C#');assert.equal(transposeChord('D/F#',2),'E/G#')});
+test('transpõe uma progressão dois semitons acima',()=>{assert.equal(['G','D','Em','C'].map(c=>transposeChord(c,2)).join(' '),'A E F#m D')});
+test('pode preferir grafia com bemóis',()=>{assert.equal(transposeChord('G',1,true),'Ab');assert.equal(transposeChord('Bb/D',2),'C/E')});
+test('exibe cifras entre colchetes sobre a letra e mantém texto',()=>{assert.equal(renderSongText('[G]Minha [D]canção',2),'[A]Minha [E]canção')});
+test('identifica acordes em colchetes e em linhas dedicadas',()=>{assert.deepEqual(songChordNames('[G]letra\nG D Em'),['G','D','Em'])});
+test('gera posições de acorde com até seis cordas e notas coerentes',()=>{for(const chord of ['C','Am','G7','F#m','D/F#']){const shape=chordVoicing(chord);assert.ok(shape);assert.equal(shape.length,6);assert.ok(shape.every(f=>Number.isInteger(f)&&f>=-1))}});
+test('valida cadastro e rejeita cifra sem título ou conteúdo',()=>{assert.equal(validateSong({title:'  Teste ',text:'[C]abc'}).title,'Teste');assert.throws(()=>validateSong({title:' ',text:'abc'}));assert.throws(()=>validateSong({title:'Teste',text:' '}))});
